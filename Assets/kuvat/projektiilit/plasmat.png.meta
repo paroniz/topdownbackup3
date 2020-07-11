@@ -1,0 +1,3002 @@
+fileFormatVersion: 2
+guid: e821228cf30c2084fa59e9bc512788ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5520595874718181767
+    second: plasmat_0
+  - first:
+      213: -3937438747732207831
+    second: plasmat_0
+  - first:
+      213: 9052781533192153783
+    second: plasmat_1
+  - first:
+      213: 525406124407828163
+    second: plasmat_2
+  - first:
+      213: -4068735063861226776
+    second: plasmat_3
+  - first:
+      213: -385360785150904569
+    second: plasmat_4
+  - first:
+      213: -2418080002940863187
+    second: plasmat_5
+  - first:
+      213: -3127509434774718716
+    second: plasmat_6
+  - first:
+      213: 5908368807130251430
+    second: plasmat_7
+  - first:
+      213: -86762815327551794
+    second: plasmat_8
+  - first:
+      213: -6822916446338472338
+    second: plasmat_9
+  - first:
+      213: -6427927642556680816
+    second: plasmat_10
+  - first:
+      213: -7787694556360574001
+    second: plasmat_11
+  - first:
+      213: 4561655393016539398
+    second: plasmat_12
+  - first:
+      213: 1248329626315315238
+    second: plasmat_13
+  - first:
+      213: -7375561817373640087
+    second: plasmat_14
+  - first:
+      213: -130417986829555962
+    second: plasmat_15
+  - first:
+      213: -2310599277428167700
+    second: plasmat_16
+  - first:
+      213: 3930234453396798635
+    second: plasmat_17
+  - first:
+      213: 2873343739036602249
+    second: plasmat_18
+  - first:
+      213: -164670028197471675
+    second: plasmat_19
+  - first:
+      213: 5462739231514575577
+    second: plasmat_20
+  - first:
+      213: 3445114357510730179
+    second: plasmat_21
+  - first:
+      213: 661111565304936943
+    second: plasmat_22
+  - first:
+      213: -5931762747192495205
+    second: plasmat_23
+  - first:
+      213: -1327219744180987541
+    second: plasmat_24
+  - first:
+      213: -2896989726302808052
+    second: plasmat_25
+  - first:
+      213: -4022548673584253519
+    second: plasmat_26
+  - first:
+      213: 430652393988074187
+    second: plasmat_27
+  - first:
+      213: -1100126584757959354
+    second: plasmat_28
+  - first:
+      213: 512356526296373006
+    second: plasmat_29
+  - first:
+      213: -3559472641257897707
+    second: plasmat_30
+  - first:
+      213: 5438277744815434929
+    second: plasmat_31
+  - first:
+      213: -5929439802297376815
+    second: plasmat_32
+  - first:
+      213: 55189130758238603
+    second: plasmat_33
+  - first:
+      213: -5988800348077776645
+    second: plasmat_34
+  - first:
+      213: 3032027175578554052
+    second: plasmat_35
+  - first:
+      213: -6715286205436760024
+    second: plasmat_36
+  - first:
+      213: -7969826578026818505
+    second: plasmat_37
+  - first:
+      213: -6852411745823410595
+    second: plasmat_38
+  - first:
+      213: -1751686729974125870
+    second: plasmat_39
+  - first:
+      213: 990317510589147781
+    second: plasmat_40
+  - first:
+      213: 1596449252160409513
+    second: plasmat_41
+  - first:
+      213: 6115706089273736556
+    second: plasmat_42
+  - first:
+      213: 4531383046966023183
+    second: plasmat_43
+  - first:
+      213: -1502133346513376371
+    second: plasmat_44
+  - first:
+      213: -1199678192478012044
+    second: plasmat_45
+  - first:
+      213: -3560888823797608040
+    second: plasmat_46
+  - first:
+      213: -3068582517190674193
+    second: plasmat_47
+  - first:
+      213: 3148853239793237465
+    second: plasmat_48
+  - first:
+      213: -8061845811670062240
+    second: plasmat_49
+  - first:
+      213: 2651143689515585108
+    second: plasmat_50
+  - first:
+      213: 5415523720417846927
+    second: plasmat_51
+  - first:
+      213: -6730424484439862255
+    second: plasmat_52
+  - first:
+      213: -707837952938446771
+    second: plasmat_53
+  - first:
+      213: -5801083186984302025
+    second: plasmat_54
+  - first:
+      213: 3531825147268320046
+    second: plasmat_55
+  - first:
+      213: -1171856953348705488
+    second: plasmat_56
+  - first:
+      213: 2832764950790110435
+    second: plasmat_57
+  - first:
+      213: 683500143796305654
+    second: plasmat_58
+  - first:
+      213: 2159128675881417823
+    second: plasmat_59
+  - first:
+      213: -3017865646231351510
+    second: plasmat_60
+  - first:
+      213: 3343998109675310518
+    second: plasmat_61
+  - first:
+      213: 1710660437300559781
+    second: plasmat_62
+  - first:
+      213: -3018976490099654941
+    second: plasmat_63
+  - first:
+      213: 7887595368845998770
+    second: plasmat_64
+  - first:
+      213: 1642708252222526083
+    second: plasmat_65
+  - first:
+      213: 1346104163941937083
+    second: plasmat_66
+  - first:
+      213: -5518839505100523973
+    second: plasmat_67
+  - first:
+      213: -765106430718867914
+    second: plasmat_68
+  - first:
+      213: -4324639851406248159
+    second: plasmat_69
+  - first:
+      213: -2668237800696522896
+    second: plasmat_70
+  - first:
+      213: -1774496975984207488
+    second: plasmat_71
+  - first:
+      213: 1328925958134056035
+    second: plasmat_72
+  - first:
+      213: -2391134041241049713
+    second: plasmat_73
+  - first:
+      213: -2424228640685395064
+    second: plasmat_74
+  - first:
+      213: -4847955892711193452
+    second: plasmat_75
+  - first:
+      213: -3949182708370305735
+    second: plasmat_76
+  - first:
+      213: 7464347767335052462
+    second: plasmat_77
+  - first:
+      213: -3044335132514185706
+    second: plasmat_78
+  - first:
+      213: 5185393847387563910
+    second: plasmat_79
+  - first:
+      213: 7605443467880483063
+    second: plasmat_80
+  - first:
+      213: -8715826216801969297
+    second: plasmat_81
+  - first:
+      213: -2327074392709247992
+    second: plasmat_82
+  - first:
+      213: 7328325289208102447
+    second: plasmat_83
+  - first:
+      213: -713119481100439342
+    second: plasmat_84
+  - first:
+      213: -2504114934744543203
+    second: plasmat_85
+  - first:
+      213: -658618254757767243
+    second: plasmat_86
+  - first:
+      213: -3707136612779482221
+    second: plasmat_87
+  - first:
+      213: 4353820568344247033
+    second: plasmat_88
+  - first:
+      213: -6877690134324807470
+    second: plasmat_89
+  - first:
+      213: -8076180272315582266
+    second: plasmat_90
+  - first:
+      213: 3624962897737138931
+    second: plasmat_91
+  - first:
+      213: 2287735304485138984
+    second: plasmat_92
+  - first:
+      213: 1328846090351832669
+    second: plasmat_93
+  - first:
+      213: -2203935157237080058
+    second: plasmat_94
+  - first:
+      213: 953250266856002663
+    second: plasmat_95
+  - first:
+      213: 556733863847479305
+    second: plasmat_96
+  - first:
+      213: -7895652588408675795
+    second: plasmat_97
+  - first:
+      213: 1184345496534815148
+    second: plasmat_98
+  - first:
+      213: 1534602921704268764
+    second: plasmat_99
+  - first:
+      213: 338834270445650471
+    second: plasmat_100
+  - first:
+      213: -3077949012930661285
+    second: plasmat_101
+  - first:
+      213: 2623622788268022912
+    second: plasmat_102
+  - first:
+      213: -2114060303377947375
+    second: plasmat_103
+  - first:
+      213: 162980648835144530
+    second: plasmat_104
+  - first:
+      213: -5912726603641677576
+    second: plasmat_105
+  - first:
+      213: -5204774452323692877
+    second: plasmat_106
+  - first:
+      213: 3739212420219797302
+    second: plasmat_107
+  - first:
+      213: 2989351235155298963
+    second: plasmat_108
+  - first:
+      213: 289305154528062502
+    second: plasmat_109
+  - first:
+      213: 1142012700975761611
+    second: plasmat_110
+  - first:
+      213: -6674444632350445020
+    second: plasmat_111
+  - first:
+      213: 1191132208492045247
+    second: plasmat_112
+  - first:
+      213: 2877452730327646818
+    second: plasmat_113
+  - first:
+      213: 9214335138699124196
+    second: plasmat_114
+  - first:
+      213: 9139178154271084810
+    second: plasmat_115
+  - first:
+      213: -4679432123248154003
+    second: plasmat_116
+  - first:
+      213: 212637844440098693
+    second: plasmat_117
+  - first:
+      213: -4030067047864852532
+    second: plasmat_118
+  - first:
+      213: -7825903739166809721
+    second: plasmat_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plasmat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927109402586b59c0800000000000000
+      internalID: -3937438747732207831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 453
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba622b37d0f1ad70800000000000000
+      internalID: 9052781533192153783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 453
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cea420261e9a4700800000000000000
+      internalID: 525406124407828163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 453
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e210693403f887c0800000000000000
+      internalID: -4068735063861226776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 453
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707f6ba586ce6aaf0800000000000000
+      internalID: -385360785150904569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 453
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dfb328c01417ed0800000000000000
+      internalID: -2418080002940863187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 453
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407f1944dbad894d0800000000000000
+      internalID: -3127509434774718716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_7
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 453
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a04ffe402ebef150800000000000000
+      internalID: 5908368807130251430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 453
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece30bcdda1cbcef0800000000000000
+      internalID: -86762815327551794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 453
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6623d334a12051a0800000000000000
+      internalID: -6822916446338472338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 453
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095be7f9dd96bc6a0800000000000000
+      internalID: -6427927642556680816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 446
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609ee7849614e4f30800000000000000
+      internalID: 4561655393016539398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_13
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 449
+        width: 69
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628de136e25f25110800000000000000
+      internalID: 1248329626315315238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_14
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 453
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a7280ca9db4a990800000000000000
+      internalID: -7375561817373640087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607e3be2889a03ef0800000000000000
+      internalID: -130417986829555962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebae92033a1fefd0800000000000000
+      internalID: -2310599277428167700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacb7be796ffa8630800000000000000
+      internalID: 3930234453396798635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f8ed238ea20e720800000000000000
+      internalID: 2873343739036602249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ad2285b79f6bdf0800000000000000
+      internalID: -164670028197471675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_20
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d24403636c8fcb40800000000000000
+      internalID: 5462739231514575577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1760251418fcf20800000000000000
+      internalID: 3445114357510730179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_22
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe937e6477dbc2900800000000000000
+      internalID: 661111565304936943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_23
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9332b195352eada0800000000000000
+      internalID: -5931762747192495205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_24
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b691531bca4c49de0800000000000000
+      internalID: -1327219744180987541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08d3cd5133dbc7d0800000000000000
+      internalID: -2896989726302808052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_26
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5ba433b490d28c0800000000000000
+      internalID: -4022548673584253519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaa455121cf9f500800000000000000
+      internalID: 430652393988074187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_28
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645c98b23b09bb0f0800000000000000
+      internalID: -1100126584757959354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_29
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 389
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e079f3ccb814c1700800000000000000
+      internalID: 512356526296373006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5110a1edd763a9ec0800000000000000
+      internalID: -3559472641257897707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bce2a1bbc4a87b40800000000000000
+      internalID: 5438277744815434929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df90035ae566bda0800000000000000
+      internalID: -5929439802297376815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81be46d83214c000800000000000000
+      internalID: 55189130758238603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0a61e30d183eca0800000000000000
+      internalID: -5988800348077776645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cec0bdd6ace31a20800000000000000
+      internalID: 3032027175578554052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8207cd776c28ec2a0800000000000000
+      internalID: -6715286205436760024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7349e3704fc756190800000000000000
+      internalID: -7969826578026818505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d563b73a2d757e0a0800000000000000
+      internalID: -6852411745823410595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da602e2332c0b7e0800000000000000
+      internalID: -1751686729974125870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ae38967805ebd00800000000000000
+      internalID: 990317510589147781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_41
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af85f0f22ab72610800000000000000
+      internalID: 1596449252160409513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dbad9294a5fd450800000000000000
+      internalID: 6115706089273736556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_43
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0413a77fd4b2ee30800000000000000
+      internalID: 4531383046966023183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_44
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b2dc31ea9572be0800000000000000
+      internalID: -1502133346513376371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47db0944a03e95fe0800000000000000
+      internalID: -1199678192478012044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89192ec2b7e259ec0800000000000000
+      internalID: -3560888823797608040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe830ea65743a65d0800000000000000
+      internalID: -3068582517190674193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddb6b79659f2bb20800000000000000
+      internalID: 3148853239793237465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b6f61a2f19e1090800000000000000
+      internalID: -8061845811670062240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e4816a321cac420800000000000000
+      internalID: 2651143689515585108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86253c812ec72b40800000000000000
+      internalID: 5415523720417846927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_52
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114de59379ab892a0800000000000000
+      internalID: -6730424484439862255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d407090d1214d26f0800000000000000
+      internalID: -707837952938446771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_54
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a4f4fa3996e7fa0800000000000000
+      internalID: -5801083186984302025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b48bf4240930130800000000000000
+      internalID: 3531825147268320046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_56
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03334184f4abcbfe0800000000000000
+      internalID: -1171856953348705488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_57
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec7500d6b0005720800000000000000
+      internalID: 2832764950790110435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_58
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe38ea62c74c7900800000000000000
+      internalID: 683500143796305654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_59
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 261
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c75465714c6fd10800000000000000
+      internalID: 2159128675881417823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f86802f236e16d0800000000000000
+      internalID: -3017865646231351510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd46c04094486e20800000000000000
+      internalID: 3343998109675310518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af3d90ba9c7db710800000000000000
+      internalID: 1710660437300559781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeba52a0e07a16d0800000000000000
+      internalID: -3018976490099654941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2baf41c923e567d60800000000000000
+      internalID: 7887595368845998770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3829353b3721cc610800000000000000
+      internalID: 1642708252222526083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbfee6aea925ea210800000000000000
+      internalID: 1346104163941937083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36371ec5b42963b0800000000000000
+      internalID: -5518839505100523973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63682a541cbc165f0800000000000000
+      internalID: -765106430718867914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_69
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127be63d7facbf3c0800000000000000
+      internalID: -4324639851406248159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_70
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077d6317bd388fad0800000000000000
+      internalID: -2668237800696522896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_71
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089d47be668bf57e0800000000000000
+      internalID: -1774496975984207488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_72
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36440633e1b417210800000000000000
+      internalID: 1328925958134056035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_73
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85ab7d124cf0ded0800000000000000
+      internalID: -2391134041241049713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_74
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 197
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8837e9935e86b5ed0800000000000000
+      internalID: -2424228640685395064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49400381dc998bcb0800000000000000
+      internalID: -4847955892711193452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_76
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d097a104fa139c0800000000000000
+      internalID: -3949182708370305735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea46cff1fb0b69760800000000000000
+      internalID: 7464347767335052462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e0049935950c5d0800000000000000
+      internalID: -3044335132514185706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_79
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68728061b3836f740800000000000000
+      internalID: 5185393847387563910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8c456e986fb8960800000000000000
+      internalID: 7605443467880483063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_81
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b5b77fb3a2b0780800000000000000
+      internalID: -8715826216801969297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_82
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c48a05b2294bfd0800000000000000
+      internalID: -2327074392709247992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_83
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2eb2cdf50173b560800000000000000
+      internalID: 7328325289208102447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_84
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0f8963c9d7a16f0800000000000000
+      internalID: -713119481100439342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d101dc5fbb89f3dd0800000000000000
+      internalID: -2504114934744543203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_86
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b75392df2e1cd6f0800000000000000
+      internalID: -658618254757767243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_87
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3932f6554ea9d8cc0800000000000000
+      internalID: -3707136612779482221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_88
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fab2f74db0eb6c30800000000000000
+      internalID: 4353820568344247033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_89
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 133
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d87c5c23498d80a0800000000000000
+      internalID: -6877690134324807470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8bc9ee4d4abef80800000000000000
+      internalID: -8076180272315582266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2c793bc847e4230800000000000000
+      internalID: 3624962897737138931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822f4f3732bafbf10800000000000000
+      internalID: 2287735304485138984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e66988a72017210800000000000000
+      internalID: 1328846090351832669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_94
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600a3e4c6ac0a61e0800000000000000
+      internalID: -2203935157237080058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_95
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7649ff13110aa3d00800000000000000
+      internalID: 953250266856002663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_96
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9084f0ddf7ae9b700800000000000000
+      internalID: 556733863847479305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_97
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22e106cdc10d6290800000000000000
+      internalID: -7895652588408675795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_98
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca19a4444f3af6010800000000000000
+      internalID: 1184345496534815148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_99
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3a5730a310c4510800000000000000
+      internalID: 1534602921704268764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_100
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72244a749f7c3b400800000000000000
+      internalID: 338834270445650471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_101
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54f08f2eade845d0800000000000000
+      internalID: -3077949012930661285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_102
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cd55f760bf86420800000000000000
+      internalID: 2623622788268022912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_103
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1152767da5959a2e0800000000000000
+      internalID: -2114060303377947375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_104
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 69
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bd41f5906034200800000000000000
+      internalID: 162980648835144530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f89fef1b76c1fda0800000000000000
+      internalID: -5912726603641677576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_106
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bec731363de4c7b0800000000000000
+      internalID: -5204774452323692877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ffdee82e954e330800000000000000
+      internalID: 3739212420219797302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_108
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a8e403c1f4c7920800000000000000
+      internalID: 2989351235155298963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_109
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ca5575181d30400800000000000000
+      internalID: 289305154528062502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_110
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc805aa308e39df00800000000000000
+      internalID: 1142012700975761611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_111
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4223db738fb9f53a0800000000000000
+      internalID: -6674444632350445020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_112
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3e1b7ce60c78010800000000000000
+      internalID: 1191132208492045247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_113
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26248294304cee720800000000000000
+      internalID: 2877452730327646818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_114
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed9f8f2df4efdf70800000000000000
+      internalID: 9214335138699124196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_115
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0196502c12e4de70800000000000000
+      internalID: 9139178154271084810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_116
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6aed3fc6415f0fb0800000000000000
+      internalID: -4679432123248154003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_117
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58728af2ef073f200800000000000000
+      internalID: 212637844440098693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_118
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf12074f535218c0800000000000000
+      internalID: -4030067047864852532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plasmat_119
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781af8c330ec46390800000000000000
+      internalID: -7825903739166809721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1892 @@
+fileFormatVersion: 2
+guid: 9e2bf131bbfff7b47ab8890dda387749
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8318282310930114279
+    second: armored_soldiers_0
+  - first:
+      213: 2667499422705221917
+    second: armored_soldiers_1
+  - first:
+      213: 7451643475600370614
+    second: armored_soldiers_2
+  - first:
+      213: 5262075777493309355
+    second: armored_soldiers_3
+  - first:
+      213: 1169316465755164653
+    second: armored_soldiers_4
+  - first:
+      213: 1187730322464274936
+    second: armored_soldiers_5
+  - first:
+      213: 3106300221376863404
+    second: armored_soldiers_6
+  - first:
+      213: -6558815811694534176
+    second: armored_soldiers_7
+  - first:
+      213: 2214306491847976902
+    second: armored_soldiers_8
+  - first:
+      213: -8445845085476022489
+    second: armored_soldiers_9
+  - first:
+      213: -7136974198791185907
+    second: armored_soldiers_10
+  - first:
+      213: -1537473797181051948
+    second: armored_soldiers_11
+  - first:
+      213: -3786966370908141806
+    second: armored_soldiers_12
+  - first:
+      213: -909795425751225360
+    second: armored_soldiers_13
+  - first:
+      213: 6219235293754651893
+    second: armored_soldiers_14
+  - first:
+      213: 8542377032820464238
+    second: armored_soldiers_15
+  - first:
+      213: 3594578081845797864
+    second: armored_soldiers_16
+  - first:
+      213: -3395630369731422134
+    second: armored_soldiers_17
+  - first:
+      213: 5913179790275505883
+    second: armored_soldiers_18
+  - first:
+      213: 959329497767268832
+    second: armored_soldiers_19
+  - first:
+      213: 8263498968475699547
+    second: armored_soldiers_20
+  - first:
+      213: 3643426191509284511
+    second: armored_soldiers_21
+  - first:
+      213: -7739066873678549321
+    second: armored_soldiers_22
+  - first:
+      213: 2954506409912140927
+    second: armored_soldiers_23
+  - first:
+      213: 6407619347673744076
+    second: armored_soldiers_24
+  - first:
+      213: 8175359794023780029
+    second: armored_soldiers_25
+  - first:
+      213: -2688375286390812883
+    second: armored_soldiers_26
+  - first:
+      213: -5009967849293912424
+    second: armored_soldiers_27
+  - first:
+      213: 1048044795409934312
+    second: armored_soldiers_28
+  - first:
+      213: -1249252321085667042
+    second: armored_soldiers_29
+  - first:
+      213: -6205994287654361595
+    second: armored_soldiers_30
+  - first:
+      213: -2667453546749007951
+    second: armored_soldiers_31
+  - first:
+      213: 8528750986503741425
+    second: armored_soldiers_32
+  - first:
+      213: -9147967944510619936
+    second: armored_soldiers_33
+  - first:
+      213: 1367263644242097944
+    second: armored_soldiers_34
+  - first:
+      213: -3530622086612543346
+    second: armored_soldiers_35
+  - first:
+      213: -5764118553777215240
+    second: armored_soldiers_36
+  - first:
+      213: 3538290226757553124
+    second: armored_soldiers_37
+  - first:
+      213: -6811741457078135717
+    second: armored_soldiers_38
+  - first:
+      213: 5008007246641999749
+    second: armored_soldiers_39
+  - first:
+      213: -61274935366078490
+    second: armored_soldiers_40
+  - first:
+      213: -883432283898553536
+    second: armored_soldiers_41
+  - first:
+      213: 3745264723926908544
+    second: armored_soldiers_42
+  - first:
+      213: 2374817894579327187
+    second: armored_soldiers_43
+  - first:
+      213: 9168309245992928498
+    second: armored_soldiers_44
+  - first:
+      213: -652821605362152969
+    second: armored_soldiers_45
+  - first:
+      213: -8227871322680392583
+    second: armored_soldiers_46
+  - first:
+      213: 7899851865143265263
+    second: armored_soldiers_47
+  - first:
+      213: -1752652775708450314
+    second: armored_soldiers_48
+  - first:
+      213: -3146452693062404787
+    second: armored_soldiers_49
+  - first:
+      213: -5489402860210107693
+    second: armored_soldiers_50
+  - first:
+      213: -1672625917724808390
+    second: armored_soldiers_51
+  - first:
+      213: 9169299882243692924
+    second: armored_soldiers_52
+  - first:
+      213: 6676084200354448410
+    second: armored_soldiers_53
+  - first:
+      213: -7522996668560121250
+    second: armored_soldiers_54
+  - first:
+      213: -6002073752007994521
+    second: armored_soldiers_55
+  - first:
+      213: 2276370492260407775
+    second: armored_soldiers_56
+  - first:
+      213: -1296173232520182540
+    second: armored_soldiers_57
+  - first:
+      213: 599320090729993015
+    second: armored_soldiers_58
+  - first:
+      213: -520509314552016988
+    second: armored_soldiers_59
+  - first:
+      213: 3650586202102087159
+    second: armored_soldiers_60
+  - first:
+      213: -6967271647891962357
+    second: armored_soldiers_61
+  - first:
+      213: -227159876576390954
+    second: armored_soldiers_62
+  - first:
+      213: -3828751935878225737
+    second: armored_soldiers_63
+  - first:
+      213: -5617330735161756084
+    second: armored_soldiers_64
+  - first:
+      213: -1757393214445766065
+    second: armored_soldiers_65
+  - first:
+      213: -527413954925245784
+    second: armored_soldiers_66
+  - first:
+      213: 6805493015085508814
+    second: armored_soldiers_67
+  - first:
+      213: -7755684901721908663
+    second: armored_soldiers_68
+  - first:
+      213: 4704799891173252140
+    second: armored_soldiers_69
+  - first:
+      213: 2041484611617487243
+    second: armored_soldiers_70
+  - first:
+      213: 7164900814307910723
+    second: armored_soldiers_71
+  - first:
+      213: -5837225186879561947
+    second: armored_soldiers_72
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: armored_soldiers_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2401
+        width: 169
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91958937f468f8c80800000000000000
+      internalID: -8318282310930114279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2405
+        width: 186
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1187e8879cd40520800000000000000
+      internalID: 2667499422705221917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2399
+        width: 174
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb6404b24e896760800000000000000
+      internalID: 7451643475600370614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2149
+        width: 168
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba71daa3a06a60940800000000000000
+      internalID: 5262075777493309355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2148
+        width: 160
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def0a5b512f3a3010800000000000000
+      internalID: 1169316465755164653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_5
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2147
+        width: 155
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f971777f6aab7010800000000000000
+      internalID: 1187730322464274936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1929
+        width: 172
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac92ece79bcb1b20800000000000000
+      internalID: 3106300221376863404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1929
+        width: 171
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e16bb4f4c76af4a0800000000000000
+      internalID: -6558815811694534176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1929
+        width: 184
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7a07eb50ccabe10800000000000000
+      internalID: 2214306491847976902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1712
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727193c84a45aca80800000000000000
+      internalID: -8445845085476022489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1778
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a5ced87cf54fc90800000000000000
+      internalID: -7136974198791185907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1712
+        width: 41
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db6d833abbc9aae0800000000000000
+      internalID: -1537473797181051948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_12
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1705
+        width: 46
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2178bad562ef17bc0800000000000000
+      internalID: -3786966370908141806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_13
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1774
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fba2dd61e1cf53f0800000000000000
+      internalID: -909795425751225360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_14
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1705
+        width: 45
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f471da7c892f4650800000000000000
+      internalID: 6219235293754651893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_15
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1708
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a18b2e6ae9c8670800000000000000
+      internalID: 8542377032820464238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_16
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1763
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3e2d578b182e130800000000000000
+      internalID: 3594578081845797864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_17
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1708
+        width: 39
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4851a76b2c40e0d0800000000000000
+      internalID: -3395630369731422134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_18
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1687
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdee36c90b5df0250800000000000000
+      internalID: 5913179790275505883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_19
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1691
+        width: 111
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1d8f07819305d00800000000000000
+      internalID: 959329497767268832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_20
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1687
+        width: 101
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b590dc9a788dda270800000000000000
+      internalID: 8263498968475699547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1467
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e34641dc009230800000000000000
+      internalID: 3643426191509284511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_22
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1544
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bea5658eaf499490800000000000000
+      internalID: -7739066873678549321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_23
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1467
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f748d691de3800920800000000000000
+      internalID: 2954506409912140927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_24
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1468
+        width: 41
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2830209df6ce850800000000000000
+      internalID: 6407619347673744076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_25
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1535
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe4cc1fa66b47170800000000000000
+      internalID: 8175359794023780029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_26
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1468
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f8cbfabe8f0bad0800000000000000
+      internalID: -2688375286390812883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_27
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1471
+        width: 42
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89665b6f8c4097ab0800000000000000
+      internalID: -5009967849293912424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_28
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1524
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e72b1b40376b8e00800000000000000
+      internalID: 1048044795409934312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_29
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1471
+        width: 43
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e194bdef1a3c9aee0800000000000000
+      internalID: -1249252321085667042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1446
+        width: 95
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506224e7311efd9a0800000000000000
+      internalID: -6205994287654361595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_31
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1445
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b76b2bc12d4bfad0800000000000000
+      internalID: -2667453546749007951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_32
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1444
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff5150c5d53c5670800000000000000
+      internalID: 8528750986503741425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1259
+        width: 47
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeb8ca5f93eb0180800000000000000
+      internalID: -9147967944510619936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_34
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1325
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8173b555a0f79f210800000000000000
+      internalID: 1367263644242097944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_35
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1259
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e889f431be5b00fc0800000000000000
+      internalID: -3530622086612543346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_36
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1253
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8eed607bcb100b0800000000000000
+      internalID: -5764118553777215240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_37
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1322
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebce1ee6388a1130800000000000000
+      internalID: 3538290226757553124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_38
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1253
+        width: 43
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b545e052c35d771a0800000000000000
+      internalID: -6811741457078135717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_39
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1246
+        width: 39
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fada8ae04008540800000000000000
+      internalID: 5008007246641999749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_40
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1322
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efaedb55ce462ff0800000000000000
+      internalID: -61274935366078490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_41
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1245
+        width: 40
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b5d17b40b6db3f0800000000000000
+      internalID: -883432283898553536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_42
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1236
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ef6735c6ad9f330800000000000000
+      internalID: 3745264723926908544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_43
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1236
+        width: 111
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d054a4fa4c05f020800000000000000
+      internalID: 2374817894579327187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_44
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1235
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f48656fea06c3f70800000000000000
+      internalID: 9168309245992928498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_45
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 920
+        width: 105
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f940be6536b0f6f0800000000000000
+      internalID: -652821605362152969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_46
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 891
+        width: 134
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974030a00aab0dd80800000000000000
+      internalID: -8227871322680392583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_47
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 899
+        width: 134
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe742188a69e1ad60800000000000000
+      internalID: 7899851865143265263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 631
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1ab4126935da7e0800000000000000
+      internalID: -1752652775708450314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_49
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 692
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45b17f32fd8554d0800000000000000
+      internalID: -3146452693062404787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_50
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 632
+        width: 29
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dac928ce29b1d3b0800000000000000
+      internalID: -5489402860210107693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_51
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 626
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ba6ebf693a9c8e0800000000000000
+      internalID: -1672625917724808390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_52
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 688
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c799a2079a5ef3f70800000000000000
+      internalID: 9169299882243692924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_53
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 626
+        width: 40
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1489b4753736ac50800000000000000
+      internalID: 6676084200354448410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_54
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 615
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52e6047362f89790800000000000000
+      internalID: -7522996668560121250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_55
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 615
+        width: 42
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7631edf09b954bca0800000000000000
+      internalID: -6002073752007994521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_56
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 604
+        width: 86
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9dc58e6ea479f10800000000000000
+      internalID: 2276370492260407775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_57
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 578
+        width: 89
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c34cff41130ee0800000000000000
+      internalID: -1296173232520182540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_58
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 584
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73357ba7276315800800000000000000
+      internalID: 599320090729993015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 298
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af48d34987c6c8f0800000000000000
+      internalID: -520509314552016988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_60
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 307
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdbc362fcc79a230800000000000000
+      internalID: 3650586202102087159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_61
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 305
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06cfb5b9574f4f90800000000000000
+      internalID: -6967271647891962357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_62
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 316
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d05179bb47f8dcf0800000000000000
+      internalID: -227159876576390954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_63
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 312
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0a3e0666a8ddac0800000000000000
+      internalID: -3828751935878225737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_64
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 303
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46bcc0557b3b02b0800000000000000
+      internalID: -5617330735161756084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_65
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 222
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a374abe2c7c97e0800000000000000
+      internalID: -1757393214445766065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_66
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 216
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aac8176dcf3ea8f0800000000000000
+      internalID: -527413954925245784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_67
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 216
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8e29517d7f17e50800000000000000
+      internalID: 6805493015085508814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_68
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 140
+        width: 47
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a510b5ca54e5490800000000000000
+      internalID: -7755684901721908663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_69
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 154
+        width: 48
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c9dace29eca4140800000000000000
+      internalID: 4704799891173252140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_70
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 145
+        width: 57
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89f2e1207fc45c10800000000000000
+      internalID: 2041484611617487243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_71
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 11
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344eabf4457de6360800000000000000
+      internalID: 7164900814307910723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: armored_soldiers_72
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 11
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f94169e920efea0800000000000000
+      internalID: -5837225186879561947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
