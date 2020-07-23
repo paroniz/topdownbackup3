@@ -5,11 +5,22 @@ using UnityEngine.SceneManagement;
  
 public class MainMenuController : MonoBehaviour
 {
+
+    public GameObject mainMenu;
+    public GameObject optionsMenu;
+
     public void playGame() {
-        SceneManager.LoadScene("GameScene");
+        SceneManager.LoadScene("ekascene");
     }
  
     public void options() {
+        mainMenu.SetActive(false);
+        optionsMenu.SetActive(true);
+        
+    }
+     public void optionsreturn() {
+        mainMenu.SetActive(true);
+        optionsMenu.SetActive(false);
         
     }
  
