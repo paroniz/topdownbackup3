@@ -1,0 +1,1844 @@
+fileFormatVersion: 2
+guid: 74cf1f904c90003469244bd046e190c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8060193099498371382
+    second: grass_tileset_16x16_preview_0_0
+  - first:
+      213: 2440096713735766389
+    second: grass_tileset_16x16_preview_0_1
+  - first:
+      213: 7683644971390244776
+    second: grass_tileset_16x16_preview_0_2
+  - first:
+      213: -8469714104086408248
+    second: grass_tileset_16x16_preview_0_3
+  - first:
+      213: -3634333796522560893
+    second: grass_tileset_16x16_preview_0_4
+  - first:
+      213: -2563886318548549770
+    second: grass_tileset_16x16_preview_0_5
+  - first:
+      213: 1116085275526571100
+    second: grass_tileset_16x16_preview_0_6
+  - first:
+      213: 3368779711891042781
+    second: grass_tileset_16x16_preview_0_7
+  - first:
+      213: -5998108609590424819
+    second: grass_tileset_16x16_preview_0_8
+  - first:
+      213: -5954587614933803242
+    second: grass_tileset_16x16_preview_0_9
+  - first:
+      213: -6436209082794709618
+    second: grass_tileset_16x16_preview_0_10
+  - first:
+      213: -421564149092661222
+    second: grass_tileset_16x16_preview_0_11
+  - first:
+      213: 7835589975637203470
+    second: grass_tileset_16x16_preview_0_12
+  - first:
+      213: 8319336032488134254
+    second: grass_tileset_16x16_preview_0_13
+  - first:
+      213: -7605013959151741264
+    second: grass_tileset_16x16_preview_0_14
+  - first:
+      213: -4718349826825413299
+    second: grass_tileset_16x16_preview_0_15
+  - first:
+      213: 5861619765035779560
+    second: grass_tileset_16x16_preview_0_16
+  - first:
+      213: 6062690137522310086
+    second: grass_tileset_16x16_preview_0_17
+  - first:
+      213: -4067157874168525510
+    second: grass_tileset_16x16_preview_0_18
+  - first:
+      213: 579123913905219242
+    second: grass_tileset_16x16_preview_0_19
+  - first:
+      213: -7116848513709008128
+    second: grass_tileset_16x16_preview_0_20
+  - first:
+      213: 4150180975775432817
+    second: grass_tileset_16x16_preview_0_21
+  - first:
+      213: 5320929234001922313
+    second: grass_tileset_16x16_preview_0_22
+  - first:
+      213: 3580403797950223133
+    second: grass_tileset_16x16_preview_0_23
+  - first:
+      213: -1832969382990398200
+    second: grass_tileset_16x16_preview_0_24
+  - first:
+      213: -7411672364549383931
+    second: grass_tileset_16x16_preview_0_25
+  - first:
+      213: -796008504519449621
+    second: grass_tileset_16x16_preview_0_26
+  - first:
+      213: 2875146571631747682
+    second: grass_tileset_16x16_preview_0_27
+  - first:
+      213: -7264822691276116597
+    second: grass_tileset_16x16_preview_0_28
+  - first:
+      213: 4557954183365338619
+    second: grass_tileset_16x16_preview_0_29
+  - first:
+      213: -2814361647476188512
+    second: grass_tileset_16x16_preview_0_30
+  - first:
+      213: 923061779688658413
+    second: grass_tileset_16x16_preview_0_31
+  - first:
+      213: 6236032545769453498
+    second: grass_tileset_16x16_preview_0_32
+  - first:
+      213: 9063540488534620917
+    second: grass_tileset_16x16_preview_0_33
+  - first:
+      213: -2593731184313353048
+    second: grass_tileset_16x16_preview_0_34
+  - first:
+      213: -8667943202959676488
+    second: grass_tileset_16x16_preview_0_35
+  - first:
+      213: 5581985322288543177
+    second: grass_tileset_16x16_preview_0_36
+  - first:
+      213: 4867480203552870716
+    second: grass_tileset_16x16_preview_0_37
+  - first:
+      213: -5789523043743627366
+    second: grass_tileset_16x16_preview_0_38
+  - first:
+      213: 4660183840256394635
+    second: grass_tileset_16x16_preview_0_39
+  - first:
+      213: 8583502200851919075
+    second: grass_tileset_16x16_preview_0_40
+  - first:
+      213: 8128870169100683995
+    second: grass_tileset_16x16_preview_0_41
+  - first:
+      213: -1360736618589891263
+    second: grass_tileset_16x16_preview_0_42
+  - first:
+      213: -2918213443572113761
+    second: grass_tileset_16x16_preview_0_43
+  - first:
+      213: -7162536014371846495
+    second: grass_tileset_16x16_preview_0_44
+  - first:
+      213: 3338383232879130459
+    second: grass_tileset_16x16_preview_0_45
+  - first:
+      213: 8837288967517391185
+    second: grass_tileset_16x16_preview_0_46
+  - first:
+      213: 3118672528890506037
+    second: grass_tileset_16x16_preview_0_47
+  - first:
+      213: -8406647287093637382
+    second: grass_tileset_16x16_preview_0_48
+  - first:
+      213: -1750749205735937947
+    second: grass_tileset_16x16_preview_0_49
+  - first:
+      213: -6147500304583432032
+    second: grass_tileset_16x16_preview_0_50
+  - first:
+      213: -1143809783414719152
+    second: grass_tileset_16x16_preview_0_51
+  - first:
+      213: -1076565995348724862
+    second: grass_tileset_16x16_preview_0_52
+  - first:
+      213: 1289843983162975515
+    second: grass_tileset_16x16_preview_0_53
+  - first:
+      213: 4689375851714746734
+    second: grass_tileset_16x16_preview_0_54
+  - first:
+      213: 539829028808682434
+    second: grass_tileset_16x16_preview_0_55
+  - first:
+      213: 2111503425000417336
+    second: grass_tileset_16x16_preview_0_56
+  - first:
+      213: -4930302621205186363
+    second: grass_tileset_16x16_preview_0_57
+  - first:
+      213: 8727430538598014544
+    second: grass_tileset_16x16_preview_0_58
+  - first:
+      213: 5435805982741196635
+    second: grass_tileset_16x16_preview_0_59
+  - first:
+      213: -8983359212283627979
+    second: grass_tileset_16x16_preview_0_60
+  - first:
+      213: 6876946616313116328
+    second: grass_tileset_16x16_preview_0_61
+  - first:
+      213: 5079526066990870262
+    second: grass_tileset_16x16_preview_0_62
+  - first:
+      213: -1918003619246456476
+    second: grass_tileset_16x16_preview_0_63
+  - first:
+      213: 8441319481549044120
+    second: grass_tileset_16x16_preview_0_64
+  - first:
+      213: 6809540445414444392
+    second: grass_tileset_16x16_preview_0_65
+  - first:
+      213: -1409632354350616917
+    second: grass_tileset_16x16_preview_0_66
+  - first:
+      213: 8407306903488872893
+    second: grass_tileset_16x16_preview_0_67
+  - first:
+      213: 263776743768637176
+    second: grass_tileset_16x16_preview_0_68
+  - first:
+      213: 6078732876360108263
+    second: grass_tileset_16x16_preview_0_69
+  - first:
+      213: -2238673497886734634
+    second: grass_tileset_16x16_preview_0_70
+  - first:
+      213: -3554784086066735113
+    second: grass_tileset_16x16_preview_0_71
+  - first:
+      213: -2541906201694498848
+    second: grass_tileset_16x16_preview_0_72
+  - first:
+      213: -8643941554232986185
+    second: grass_tileset_16x16_preview_0_73
+  - first:
+      213: 199018563948581912
+    second: grass_tileset_16x16_preview_0_74
+  - first:
+      213: -4551663286678365647
+    second: grass_tileset_16x16_preview_0_75
+  - first:
+      213: -9191244489616787732
+    second: grass_tileset_16x16_preview_0_76
+  - first:
+      213: -4443002443239417707
+    second: grass_tileset_16x16_preview_0_77
+  - first:
+      213: 3841474179713342971
+    second: grass_tileset_16x16_preview_0_78
+  - first:
+      213: -464629045663833857
+    second: grass_tileset_16x16_preview_0_79
+  - first:
+      213: 2308777509747970679
+    second: grass_tileset_16x16_preview_0_80
+  - first:
+      213: 3644020235603173729
+    second: grass_tileset_16x16_preview_0_81
+  - first:
+      213: 7517010555746887626
+    second: grass_tileset_16x16_preview_0_82
+  - first:
+      213: -2739419237007408979
+    second: grass_tileset_16x16_preview_0_83
+  - first:
+      213: 3392748234428566733
+    second: grass_tileset_16x16_preview_0_84
+  - first:
+      213: 2879845879668637558
+    second: grass_tileset_16x16_preview_0_85
+  - first:
+      213: -4069481307435963649
+    second: grass_tileset_16x16_preview_0_86
+  - first:
+      213: 3961098431413038776
+    second: grass_tileset_16x16_preview_0_87
+  - first:
+      213: -3431927973326546194
+    second: grass_tileset_16x16_preview_0_88
+  - first:
+      213: -7457788275015104397
+    second: grass_tileset_16x16_preview_0_89
+  - first:
+      213: 5373214480731833513
+    second: grass_tileset_16x16_preview_0_90
+  - first:
+      213: -6870797113347884169
+    second: grass_tileset_16x16_preview_0_91
+  - first:
+      213: -7525279511206213805
+    second: grass_tileset_16x16_preview_0_92
+  - first:
+      213: 3059984717298886986
+    second: grass_tileset_16x16_preview_0_93
+  - first:
+      213: -8730434435835556702
+    second: grass_tileset_16x16_preview_0_94
+  - first:
+      213: -8980377573016048928
+    second: grass_tileset_16x16_preview_0_95
+  - first:
+      213: -7032755852487334713
+    second: grass_tileset_16x16_preview_0_96
+  - first:
+      213: -5608741181031159764
+    second: grass_tileset_16x16_preview_0_97
+  - first:
+      213: -6136890299928654399
+    second: grass_tileset_16x16_preview_0_98
+  - first:
+      213: -8213964260806715744
+    second: grass_tileset_16x16_preview_0_99
+  - first:
+      213: 6592930272955377280
+    second: grass_tileset_16x16_preview_0_100
+  - first:
+      213: -3607610851462356984
+    second: grass_tileset_16x16_preview_0_101
+  - first:
+      213: -8857198726229282978
+    second: grass_tileset_16x16_preview_0_102
+  - first:
+      213: -5334437994321660441
+    second: grass_tileset_16x16_preview_0_103
+  - first:
+      213: 992582289616259801
+    second: grass_tileset_16x16_preview_0_104
+  - first:
+      213: -772307225303541212
+    second: grass_tileset_16x16_preview_0_105
+  - first:
+      213: 155805036629641995
+    second: grass_tileset_16x16_preview_0_106
+  - first:
+      213: 8208303972261665288
+    second: grass_tileset_16x16_preview_0_107
+  - first:
+      213: 1528808099328512525
+    second: grass_tileset_16x16_preview_0_108
+  - first:
+      213: -6078919124829057874
+    second: grass_tileset_16x16_preview_0_109
+  - first:
+      213: 4760642364441144303
+    second: grass_tileset_16x16_preview_0_110
+  - first:
+      213: -1396871503397860157
+    second: grass_tileset_16x16_preview_0_111
+  - first:
+      213: 6436601083511434422
+    second: grass_tileset_16x16_preview_0_112
+  - first:
+      213: -4853396081562569479
+    second: grass_tileset_16x16_preview_0_113
+  - first:
+      213: -8607869832645878427
+    second: grass_tileset_16x16_preview_0_114
+  - first:
+      213: 6975380799216557542
+    second: grass_tileset_16x16_preview_0_115
+  - first:
+      213: -5336824182351476026
+    second: grass_tileset_16x16_preview_0_116
+  - first:
+      213: -6315524703891962446
+    second: grass_tileset_16x16_preview_0_117
+  - first:
+      213: 852458551724394473
+    second: grass_tileset_16x16_preview_0_118
+  - first:
+      213: 7584349108882036430
+    second: grass_tileset_16x16_preview_0_119
+  - first:
+      213: 8477205839822699244
+    second: grass_tileset_16x16_preview_0_120
+  - first:
+      213: -2060287330200365300
+    second: grass_tileset_16x16_preview_0_121
+  - first:
+      213: 4893573978909758235
+    second: grass_tileset_16x16_preview_0_122
+  - first:
+      213: -2323633589718816097
+    second: grass_tileset_16x16_preview_0_123
+  - first:
+      213: -3693337196792173478
+    second: grass_tileset_16x16_preview_0_124
+  - first:
+      213: 4975270107810242814
+    second: grass_tileset_16x16_preview_0_125
+  - first:
+      213: -2954711083448691005
+    second: grass_tileset_16x16_preview_0_126
+  - first:
+      213: -3998784890716315641
+    second: grass_tileset_16x16_preview_0_127
+  - first:
+      213: 2497495489563455354
+    second: grass_tileset_16x16_preview_0_128
+  - first:
+      213: -1876838388892477904
+    second: grass_tileset_16x16_preview_0_129
+  - first:
+      213: 9216840514358002056
+    second: grass_tileset_16x16_preview_0_130
+  - first:
+      213: -7008365272266565171
+    second: grass_tileset_16x16_preview_0_131
+  - first:
+      213: 3047915867348501627
+    second: grass_tileset_16x16_preview_0_132
+  - first:
+      213: -6068211818552442244
+    second: grass_tileset_16x16_preview_0_133
+  - first:
+      213: -2315383672085737366
+    second: grass_tileset_16x16_preview_0_134
+  - first:
+      213: -1416483084920732900
+    second: grass_tileset_16x16_preview_0_135
+  - first:
+      213: -2707458294047742938
+    second: grass_tileset_16x16_preview_0_136
+  - first:
+      213: 7777576657275333965
+    second: grass_tileset_16x16_preview_0_137
+  - first:
+      213: -8652936446599262439
+    second: grass_tileset_16x16_preview_0_138
+  - first:
+      213: -2235985284988027588
+    second: grass_tileset_16x16_preview_0_139
+  - first:
+      213: -6441448819138614567
+    second: grass_tileset_16x16_preview_0_140
+  - first:
+      213: 8093647303553138871
+    second: grass_tileset_16x16_preview_0_141
+  - first:
+      213: 1795256143443933946
+    second: grass_tileset_16x16_preview_0_142
+  - first:
+      213: -8284985074850146318
+    second: grass_tileset_16x16_preview_0_143
+  - first:
+      213: 6096328790596206840
+    second: grass_tileset_16x16_preview_0_144
+  - first:
+      213: 3469824805406824737
+    second: grass_tileset_16x16_preview_0_145
+  - first:
+      213: -8668727972041916420
+    second: grass_tileset_16x16_preview_0_146
+  - first:
+      213: -507361504700592324
+    second: grass_tileset_16x16_preview_0_147
+  - first:
+      213: 7733115877836829734
+    second: grass_tileset_16x16_preview_0_148
+  - first:
+      213: -1146241922780303389
+    second: grass_tileset_16x16_preview_0_149
+  - first:
+      213: 8492881106482938225
+    second: grass_tileset_16x16_preview_0_150
+  - first:
+      213: -2996942339852762214
+    second: grass_tileset_16x16_preview_0_151
+  - first:
+      213: 2181503131582513342
+    second: grass_tileset_16x16_preview_0_152
+  - first:
+      213: 5702646031193770317
+    second: grass_tileset_16x16_preview_0_153
+  - first:
+      213: -5149704441943107000
+    second: grass_tileset_16x16_preview_0_154
+  - first:
+      213: -5147188769781635058
+    second: grass_tileset_16x16_preview_0_155
+  - first:
+      213: 4717316996606700185
+    second: grass_tileset_16x16_preview_0_156
+  - first:
+      213: 7219013222267244268
+    second: grass_tileset_16x16_preview_0_157
+  - first:
+      213: -1816182596069092400
+    second: grass_tileset_16x16_preview_0_158
+  - first:
+      213: -8899464477088143195
+    second: grass_tileset_16x16_preview_0_159
+  - first:
+      213: -6090162548791950950
+    second: grass_tileset_16x16_preview_0_160
+  - first:
+      213: -1831826267454526866
+    second: grass_tileset_16x16_preview_0_161
+  - first:
+      213: -5612028403104833256
+    second: grass_tileset_16x16_preview_0_162
+  - first:
+      213: -1980737153367206974
+    second: grass_tileset_16x16_preview_0_163
+  - first:
+      213: -65908256591031710
+    second: grass_tileset_16x16_preview_0_164
+  - first:
+      213: 1834408902198415929
+    second: grass_tileset_16x16_preview_0_165
+  - first:
+      213: -4898229353523786664
+    second: grass_tileset_16x16_preview_0_166
+  - first:
+      213: 389944913509012226
+    second: grass_tileset_16x16_preview_0_167
+  - first:
+      213: 4110457229413563786
+    second: grass_tileset_16x16_preview_0_168
+  - first:
+      213: -1518254730711766994
+    second: grass_tileset_16x16_preview_0_169
+  - first:
+      213: -3612408321171176349
+    second: grass_tileset_16x16_preview_0_170
+  - first:
+      213: -5954433685694087635
+    second: grass_tileset_16x16_preview_0_171
+  - first:
+      213: 6705817040361858860
+    second: grass_tileset_16x16_preview_0_172
+  - first:
+      213: 5113404970100618202
+    second: grass_tileset_16x16_preview_0_173
+  - first:
+      213: -406601962578043948
+    second: grass_tileset_16x16_preview_0_174
+  - first:
+      213: -2117541288904460127
+    second: grass_tileset_16x16_preview_0_175
+  - first:
+      213: 913760783460807192
+    second: grass_tileset_16x16_preview_0_176
+  - first:
+      213: 7510041691203083178
+    second: grass_tileset_16x16_preview_0_177
+  - first:
+      213: -7792323645191447313
+    second: grass_tileset_16x16_preview_0_178
+  - first:
+      213: -3424597564654085447
+    second: grass_tileset_16x16_preview_0_179
+  - first:
+      213: 8905520460194345932
+    second: grass_tileset_16x16_preview_0_180
+  - first:
+      213: -7450786063331763008
+    second: grass_tileset_16x16_preview_0_181
+  - first:
+      213: -1394264440167360114
+    second: grass_tileset_16x16_preview_0_182
+  - first:
+      213: 4471745825543638175
+    second: grass_tileset_16x16_preview_0_183
+  - first:
+      213: -4670890867721022026
+    second: grass_tileset_16x16_preview_0_184
+  - first:
+      213: -561491291756920242
+    second: grass_tileset_16x16_preview_0_185
+  - first:
+      213: -4122780375715097820
+    second: grass_tileset_16x16_preview_0_186
+  - first:
+      213: -362427309193323653
+    second: grass_tileset_16x16_preview_0_187
+  - first:
+      213: -8117429251699285246
+    second: grass_tileset_16x16_preview_0_188
+  - first:
+      213: -8185069621597108213
+    second: grass_tileset_16x16_preview_0_189
+  - first:
+      213: 8698476218844301436
+    second: grass_tileset_16x16_preview_0_190
+  - first:
+      213: -1195429006163171197
+    second: grass_tileset_16x16_preview_0_191
+  - first:
+      213: 3770928088286558035
+    second: grass_tileset_16x16_preview_0_192
+  - first:
+      213: -1852390532179180313
+    second: grass_tileset_16x16_preview_0_193
+  - first:
+      213: 2074049396319887536
+    second: grass_tileset_16x16_preview_0_194
+  - first:
+      213: -5965399581578706954
+    second: grass_tileset_16x16_preview_0_195
+  - first:
+      213: -3601952321760765749
+    second: grass_tileset_16x16_preview_0_196
+  - first:
+      213: 6030761054801419594
+    second: grass_tileset_16x16_preview_0_197
+  - first:
+      213: -1637142711576067880
+    second: grass_tileset_16x16_preview_0_198
+  - first:
+      213: -2863503742466442785
+    second: grass_tileset_16x16_preview_0_199
+  - first:
+      213: -505787194288544459
+    second: grass_tileset_16x16_preview_0_200
+  - first:
+      213: 3622120349947263637
+    second: grass_tileset_16x16_preview_0_201
+  - first:
+      213: -1551590947507095794
+    second: grass_tileset_16x16_preview_0_202
+  - first:
+      213: -8583649178031164211
+    second: grass_tileset_16x16_preview_0_203
+  - first:
+      213: 526189177934079421
+    second: grass_tileset_16x16_preview_0_204
+  - first:
+      213: -2790496700083116754
+    second: grass_tileset_16x16_preview_0_205
+  - first:
+      213: 4748280616666283172
+    second: grass_tileset_16x16_preview_0_206
+  - first:
+      213: 5053491611525185107
+    second: grass_tileset_16x16_preview_0_207
+  - first:
+      213: -7103755240578350196
+    second: grass_tileset_16x16_preview_0_208
+  - first:
+      213: -6329381828902819138
+    second: grass_tileset_16x16_preview_0_209
+  - first:
+      213: -7345542375950404499
+    second: grass_tileset_16x16_preview_0_210
+  - first:
+      213: -6931760229286013616
+    second: grass_tileset_16x16_preview_0_211
+  - first:
+      213: 2226654264936566783
+    second: grass_tileset_16x16_preview_0_212
+  - first:
+      213: 6891574601914008721
+    second: grass_tileset_16x16_preview_0_213
+  - first:
+      213: -8681208212805870072
+    second: grass_tileset_16x16_preview_0_214
+  - first:
+      213: 8352247420273302023
+    second: grass_tileset_16x16_preview_0_215
+  - first:
+      213: -3952631838950389211
+    second: grass_tileset_16x16_preview_0_216
+  - first:
+      213: 5945933457555242779
+    second: grass_tileset_16x16_preview_0_217
+  - first:
+      213: 638243863828359877
+    second: grass_tileset_16x16_preview_0_218
+  - first:
+      213: 276026188283619802
+    second: grass_tileset_16x16_preview_0_219
+  - first:
+      213: 7966566090634727559
+    second: grass_tileset_16x16_preview_0_220
+  - first:
+      213: -6433114497437352555
+    second: grass_tileset_16x16_preview_0_221
+  - first:
+      213: -3634438760914111655
+    second: grass_tileset_16x16_preview_0_222
+  - first:
+      213: 8116229791891059965
+    second: grass_tileset_16x16_preview_0_223
+  - first:
+      213: -1710837352968774632
+    second: grass_tileset_16x16_preview_0_224
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6485ba411742090800000000000000
+      internalID: -8060193099498371382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57181df6807fcd120800000000000000
+      internalID: 2440096713735766389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a79eeb446ac1aa60800000000000000
+      internalID: 7683644971390244776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c350d495e7857a80800000000000000
+      internalID: -8469714104086408248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3827317eaa0409dc0800000000000000
+      internalID: -3634333796522560893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ffd623afe3b6cd0800000000000000
+      internalID: -2563886318548549770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c542ec215a12d7f00800000000000000
+      internalID: 1116085275526571100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1fec5ac4f40ce20800000000000000
+      internalID: 3368779711891042781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b8629bfff62cca0800000000000000
+      internalID: -5998108609590424819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f1eebec1e0d5da0800000000000000
+      internalID: -5954587614933803242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8de0ef80fdfda6a0800000000000000
+      internalID: -6436209082794709618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18ca43d3ad462af0800000000000000
+      internalID: -421564149092661222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a977f619b9dbc60800000000000000
+      internalID: 7835589975637203470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 186
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6610973b08347370800000000000000
+      internalID: 8319336032488134254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b69fd4e810957690800000000000000
+      internalID: -7605013959151741264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d9b06d4dd058eb0800000000000000
+      internalID: -4718349826825413299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5cd5fbe18a85150800000000000000
+      internalID: 5861619765035779560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb084efe80032450800000000000000
+      internalID: 6062690137522310086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d80c0567d8e87c0800000000000000
+      internalID: -4067157874168525510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62141a126790800800000000000000
+      internalID: 579123913905219242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 154
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b9b14cbffdb3d90800000000000000
+      internalID: -7116848513709008128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170cdaedb97689930800000000000000
+      internalID: 4150180975775432817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9090da362fcb7d940800000000000000
+      internalID: 5320929234001922313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d135841d84620b130800000000000000
+      internalID: 3580403797950223133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80db0b2ce0cff86e0800000000000000
+      internalID: -1832969382990398200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509547fc043742990800000000000000
+      internalID: -7411672364549383931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3ade98b7204f4f0800000000000000
+      internalID: -796008504519449621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 122
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262ea4fd29296e720800000000000000
+      internalID: 2875146571631747682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d2a42c04a2e2b90800000000000000
+      internalID: -7264822691276116597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_29
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf52ff14e2b114f30800000000000000
+      internalID: 4557954183365338619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aad2b42ef061f8d0800000000000000
+      internalID: -2814361647476188512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5151c4ccf5fcc00800000000000000
+      internalID: 923061779688658413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7fc5a7f86da8650800000000000000
+      internalID: 6236032545769453498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faf97abd0a28cd70800000000000000
+      internalID: 9063540488534620917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 90
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac3624ea37310cd0800000000000000
+      internalID: -2593731184313353048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bba356e49745b780800000000000000
+      internalID: -8667943202959676488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5f3747312377d40800000000000000
+      internalID: 5581985322288543177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31d304c473cc8340800000000000000
+      internalID: 4867480203552870716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9709b6477b77afa0800000000000000
+      internalID: -5789523043743627366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_39
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b858f72138c4ca040800000000000000
+      internalID: 4660183840256394635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_40
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0ff8a36c9be1770800000000000000
+      internalID: 8583502200851919075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 58
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda0486a95c8fc070800000000000000
+      internalID: 8128870169100683995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14555104141bd1de0800000000000000
+      internalID: -1360736618589891263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e5d1d955c6087d0800000000000000
+      internalID: -2918213443572113761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a68c64917f899c90800000000000000
+      internalID: -7162536014371846495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5771efdcd1545e20800000000000000
+      internalID: 3338383232879130459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1594a567e7b54aa70800000000000000
+      internalID: 8837288967517391185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ba94f3420c74b20800000000000000
+      internalID: 3118672528890506037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grass_tileset_16x16_preview_0_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 26
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe48cc25d6955b80800000000000000
+      internalID: -8406647287093637382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

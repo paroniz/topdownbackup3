@@ -120,7 +120,7 @@ MonoBehaviour:
   juoksunopeus: 5
   rotaatiokerroin: 90
   luotirotaatio: 90
-  luotinopeus: 0.005
+  luotinopeus: 0.05
   hp: 5
   asemoodi: 1
 --- !u!50 &4604336050814229455

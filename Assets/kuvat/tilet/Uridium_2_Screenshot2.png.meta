@@ -1,0 +1,5900 @@
+fileFormatVersion: 2
+guid: 457fb9d5b636c1a4c876c7b21c6a8952
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -523750258114775320
+    second: Uridium_2_Screenshot2_0
+  - first:
+      213: -7856228730791558581
+    second: Uridium_2_Screenshot2_1
+  - first:
+      213: -1965064266806643595
+    second: Uridium_2_Screenshot2_2
+  - first:
+      213: -3961332202514049909
+    second: Uridium_2_Screenshot2_3
+  - first:
+      213: -4823844992869312139
+    second: Uridium_2_Screenshot2_4
+  - first:
+      213: -5992308103432408527
+    second: Uridium_2_Screenshot2_5
+  - first:
+      213: -7011915298839452498
+    second: Uridium_2_Screenshot2_6
+  - first:
+      213: 2847833797534543028
+    second: Uridium_2_Screenshot2_7
+  - first:
+      213: -5893420703866110276
+    second: Uridium_2_Screenshot2_8
+  - first:
+      213: -2282361888538046704
+    second: Uridium_2_Screenshot2_9
+  - first:
+      213: 4521553921188901735
+    second: Uridium_2_Screenshot2_10
+  - first:
+      213: -2205808880257545391
+    second: Uridium_2_Screenshot2_11
+  - first:
+      213: -3086566904096784908
+    second: Uridium_2_Screenshot2_12
+  - first:
+      213: -649453221211786983
+    second: Uridium_2_Screenshot2_13
+  - first:
+      213: -5685843269018399690
+    second: Uridium_2_Screenshot2_14
+  - first:
+      213: -8407362397286845534
+    second: Uridium_2_Screenshot2_15
+  - first:
+      213: -8446391868317683941
+    second: Uridium_2_Screenshot2_16
+  - first:
+      213: 8505735697752000790
+    second: Uridium_2_Screenshot2_17
+  - first:
+      213: 6118742155603429326
+    second: Uridium_2_Screenshot2_18
+  - first:
+      213: -8987363961674003881
+    second: Uridium_2_Screenshot2_19
+  - first:
+      213: -1017642331910197382
+    second: Uridium_2_Screenshot2_20
+  - first:
+      213: -5582506319966413786
+    second: Uridium_2_Screenshot2_21
+  - first:
+      213: 2469975568032897300
+    second: Uridium_2_Screenshot2_22
+  - first:
+      213: 3450165977208757308
+    second: Uridium_2_Screenshot2_23
+  - first:
+      213: -1313695820768028621
+    second: Uridium_2_Screenshot2_24
+  - first:
+      213: -8020722003647197032
+    second: Uridium_2_Screenshot2_25
+  - first:
+      213: 6348212245095394639
+    second: Uridium_2_Screenshot2_26
+  - first:
+      213: 7083310813524611639
+    second: Uridium_2_Screenshot2_27
+  - first:
+      213: 8006556879113226348
+    second: Uridium_2_Screenshot2_28
+  - first:
+      213: -7480438877681818736
+    second: Uridium_2_Screenshot2_29
+  - first:
+      213: 2413367812993072748
+    second: Uridium_2_Screenshot2_30
+  - first:
+      213: -7877104402257654456
+    second: Uridium_2_Screenshot2_31
+  - first:
+      213: 2777468837578603696
+    second: Uridium_2_Screenshot2_32
+  - first:
+      213: 8633266678196794750
+    second: Uridium_2_Screenshot2_33
+  - first:
+      213: 2315001468654212162
+    second: Uridium_2_Screenshot2_34
+  - first:
+      213: -9141879844533829150
+    second: Uridium_2_Screenshot2_35
+  - first:
+      213: -7209180118551204881
+    second: Uridium_2_Screenshot2_36
+  - first:
+      213: -2500501491849930605
+    second: Uridium_2_Screenshot2_37
+  - first:
+      213: -7072159882990286049
+    second: Uridium_2_Screenshot2_38
+  - first:
+      213: -6746508108411893887
+    second: Uridium_2_Screenshot2_39
+  - first:
+      213: 4092132942406989117
+    second: Uridium_2_Screenshot2_40
+  - first:
+      213: -2225627593905891609
+    second: Uridium_2_Screenshot2_41
+  - first:
+      213: -628324769262971006
+    second: Uridium_2_Screenshot2_42
+  - first:
+      213: -5721048548589757270
+    second: Uridium_2_Screenshot2_43
+  - first:
+      213: -1441571210468088470
+    second: Uridium_2_Screenshot2_44
+  - first:
+      213: -4175440228659927179
+    second: Uridium_2_Screenshot2_45
+  - first:
+      213: -592568717650642661
+    second: Uridium_2_Screenshot2_46
+  - first:
+      213: -1678002784946936146
+    second: Uridium_2_Screenshot2_47
+  - first:
+      213: -7237265201148367508
+    second: Uridium_2_Screenshot2_48
+  - first:
+      213: -2412923350191479273
+    second: Uridium_2_Screenshot2_49
+  - first:
+      213: 7199948129268818625
+    second: Uridium_2_Screenshot2_50
+  - first:
+      213: -4609772527174142138
+    second: Uridium_2_Screenshot2_51
+  - first:
+      213: 4878112242684292709
+    second: Uridium_2_Screenshot2_52
+  - first:
+      213: 6257932222895459463
+    second: Uridium_2_Screenshot2_53
+  - first:
+      213: 4509798740588963479
+    second: Uridium_2_Screenshot2_54
+  - first:
+      213: -102273082553523281
+    second: Uridium_2_Screenshot2_55
+  - first:
+      213: 7671092687393437804
+    second: Uridium_2_Screenshot2_56
+  - first:
+      213: 5378538050562403685
+    second: Uridium_2_Screenshot2_57
+  - first:
+      213: -9133827232026149121
+    second: Uridium_2_Screenshot2_58
+  - first:
+      213: 781731941162010209
+    second: Uridium_2_Screenshot2_59
+  - first:
+      213: -3951470626194568459
+    second: Uridium_2_Screenshot2_60
+  - first:
+      213: 2989681683614900009
+    second: Uridium_2_Screenshot2_61
+  - first:
+      213: 9051219760571583766
+    second: Uridium_2_Screenshot2_62
+  - first:
+      213: 6036877289556971507
+    second: Uridium_2_Screenshot2_63
+  - first:
+      213: -8290630262762885134
+    second: Uridium_2_Screenshot2_64
+  - first:
+      213: 4952482665205748205
+    second: Uridium_2_Screenshot2_65
+  - first:
+      213: 9058718288216399339
+    second: Uridium_2_Screenshot2_66
+  - first:
+      213: -964326322137138799
+    second: Uridium_2_Screenshot2_67
+  - first:
+      213: 3109687230355433234
+    second: Uridium_2_Screenshot2_68
+  - first:
+      213: 9153662525086227240
+    second: Uridium_2_Screenshot2_69
+  - first:
+      213: 3501589457931914103
+    second: Uridium_2_Screenshot2_70
+  - first:
+      213: 7669234796329481825
+    second: Uridium_2_Screenshot2_71
+  - first:
+      213: 5354031116269789702
+    second: Uridium_2_Screenshot2_72
+  - first:
+      213: -960857739421839360
+    second: Uridium_2_Screenshot2_73
+  - first:
+      213: -417282238336916771
+    second: Uridium_2_Screenshot2_74
+  - first:
+      213: -8305868495949831157
+    second: Uridium_2_Screenshot2_75
+  - first:
+      213: -6883953805902086556
+    second: Uridium_2_Screenshot2_76
+  - first:
+      213: 3826497581623451317
+    second: Uridium_2_Screenshot2_77
+  - first:
+      213: -1619322590576264971
+    second: Uridium_2_Screenshot2_78
+  - first:
+      213: -4197890212155119785
+    second: Uridium_2_Screenshot2_79
+  - first:
+      213: 1713255734953669970
+    second: Uridium_2_Screenshot2_80
+  - first:
+      213: -4034021556663822156
+    second: Uridium_2_Screenshot2_81
+  - first:
+      213: 5082020981372285035
+    second: Uridium_2_Screenshot2_82
+  - first:
+      213: -8593531671905306882
+    second: Uridium_2_Screenshot2_83
+  - first:
+      213: 4322065145912850025
+    second: Uridium_2_Screenshot2_84
+  - first:
+      213: 6801293610029709421
+    second: Uridium_2_Screenshot2_85
+  - first:
+      213: -6884169643790268849
+    second: Uridium_2_Screenshot2_86
+  - first:
+      213: 5545701569750823997
+    second: Uridium_2_Screenshot2_87
+  - first:
+      213: -5796892063185826080
+    second: Uridium_2_Screenshot2_88
+  - first:
+      213: 8684411326004703222
+    second: Uridium_2_Screenshot2_89
+  - first:
+      213: -167278222658247098
+    second: Uridium_2_Screenshot2_90
+  - first:
+      213: -6865060150927963803
+    second: Uridium_2_Screenshot2_91
+  - first:
+      213: 6602345329290250019
+    second: Uridium_2_Screenshot2_92
+  - first:
+      213: 1133764351778744377
+    second: Uridium_2_Screenshot2_93
+  - first:
+      213: 330131781444810176
+    second: Uridium_2_Screenshot2_94
+  - first:
+      213: 4181576104241052073
+    second: Uridium_2_Screenshot2_95
+  - first:
+      213: -6179792995945975901
+    second: Uridium_2_Screenshot2_96
+  - first:
+      213: 6437403731495603766
+    second: Uridium_2_Screenshot2_97
+  - first:
+      213: 2091901861347555863
+    second: Uridium_2_Screenshot2_98
+  - first:
+      213: -4878656562345262953
+    second: Uridium_2_Screenshot2_99
+  - first:
+      213: 2626687397719928870
+    second: Uridium_2_Screenshot2_100
+  - first:
+      213: 4180727102160185978
+    second: Uridium_2_Screenshot2_101
+  - first:
+      213: -5980252657286303450
+    second: Uridium_2_Screenshot2_102
+  - first:
+      213: 7402590975155875057
+    second: Uridium_2_Screenshot2_103
+  - first:
+      213: 5147984999751573173
+    second: Uridium_2_Screenshot2_104
+  - first:
+      213: -2646055815448133276
+    second: Uridium_2_Screenshot2_105
+  - first:
+      213: 2735331054717760247
+    second: Uridium_2_Screenshot2_106
+  - first:
+      213: 8108309079056455494
+    second: Uridium_2_Screenshot2_107
+  - first:
+      213: 1089463503844443834
+    second: Uridium_2_Screenshot2_108
+  - first:
+      213: -6535640518780229938
+    second: Uridium_2_Screenshot2_109
+  - first:
+      213: 9071202518858529921
+    second: Uridium_2_Screenshot2_110
+  - first:
+      213: -5058388486862094587
+    second: Uridium_2_Screenshot2_111
+  - first:
+      213: 6841390912832993931
+    second: Uridium_2_Screenshot2_112
+  - first:
+      213: 5510878914973346214
+    second: Uridium_2_Screenshot2_113
+  - first:
+      213: 4056029224993507340
+    second: Uridium_2_Screenshot2_114
+  - first:
+      213: 4917417692158015015
+    second: Uridium_2_Screenshot2_115
+  - first:
+      213: -6636495172609354944
+    second: Uridium_2_Screenshot2_116
+  - first:
+      213: -3639188079128539035
+    second: Uridium_2_Screenshot2_117
+  - first:
+      213: 6078839174660526576
+    second: Uridium_2_Screenshot2_118
+  - first:
+      213: -8895045819547585527
+    second: Uridium_2_Screenshot2_119
+  - first:
+      213: 1183754775037482599
+    second: Uridium_2_Screenshot2_120
+  - first:
+      213: 3980213437815081184
+    second: Uridium_2_Screenshot2_121
+  - first:
+      213: 1739858807665086271
+    second: Uridium_2_Screenshot2_122
+  - first:
+      213: 5985590048991955437
+    second: Uridium_2_Screenshot2_123
+  - first:
+      213: 5132250444057458176
+    second: Uridium_2_Screenshot2_124
+  - first:
+      213: 8887221718356186206
+    second: Uridium_2_Screenshot2_125
+  - first:
+      213: -7000342854530171801
+    second: Uridium_2_Screenshot2_126
+  - first:
+      213: 3917409170592272533
+    second: Uridium_2_Screenshot2_127
+  - first:
+      213: -8876331578914955142
+    second: Uridium_2_Screenshot2_128
+  - first:
+      213: -7316099608195545367
+    second: Uridium_2_Screenshot2_129
+  - first:
+      213: 3643351501782736284
+    second: Uridium_2_Screenshot2_130
+  - first:
+      213: 7640034592166947157
+    second: Uridium_2_Screenshot2_131
+  - first:
+      213: 4473312473556253801
+    second: Uridium_2_Screenshot2_132
+  - first:
+      213: 364979501079364884
+    second: Uridium_2_Screenshot2_133
+  - first:
+      213: 6140564216326310622
+    second: Uridium_2_Screenshot2_134
+  - first:
+      213: 4167239661102738908
+    second: Uridium_2_Screenshot2_135
+  - first:
+      213: 395766052691122518
+    second: Uridium_2_Screenshot2_136
+  - first:
+      213: 575850636677742128
+    second: Uridium_2_Screenshot2_137
+  - first:
+      213: -110455999646263914
+    second: Uridium_2_Screenshot2_138
+  - first:
+      213: -8361999554511546536
+    second: Uridium_2_Screenshot2_139
+  - first:
+      213: -3383078505125925152
+    second: Uridium_2_Screenshot2_140
+  - first:
+      213: -4884397782855202868
+    second: Uridium_2_Screenshot2_141
+  - first:
+      213: -4495105338724033548
+    second: Uridium_2_Screenshot2_142
+  - first:
+      213: -4375094662035213241
+    second: Uridium_2_Screenshot2_143
+  - first:
+      213: -4917621371385878570
+    second: Uridium_2_Screenshot2_144
+  - first:
+      213: 2236830103501232804
+    second: Uridium_2_Screenshot2_145
+  - first:
+      213: -2179137817721195669
+    second: Uridium_2_Screenshot2_146
+  - first:
+      213: 3646402390776342508
+    second: Uridium_2_Screenshot2_147
+  - first:
+      213: 5740549113650274978
+    second: Uridium_2_Screenshot2_148
+  - first:
+      213: 7312090646252849341
+    second: Uridium_2_Screenshot2_149
+  - first:
+      213: -2713854046146849113
+    second: Uridium_2_Screenshot2_150
+  - first:
+      213: 1702670158954499754
+    second: Uridium_2_Screenshot2_151
+  - first:
+      213: 7994359454948399979
+    second: Uridium_2_Screenshot2_152
+  - first:
+      213: 5327102199932911095
+    second: Uridium_2_Screenshot2_153
+  - first:
+      213: 1454998597907624218
+    second: Uridium_2_Screenshot2_154
+  - first:
+      213: -7131683984032350785
+    second: Uridium_2_Screenshot2_155
+  - first:
+      213: 5788625237999421868
+    second: Uridium_2_Screenshot2_156
+  - first:
+      213: -4399727187943376573
+    second: Uridium_2_Screenshot2_157
+  - first:
+      213: 4141180006292501000
+    second: Uridium_2_Screenshot2_158
+  - first:
+      213: 8713092160581160337
+    second: Uridium_2_Screenshot2_159
+  - first:
+      213: 1259818851074617671
+    second: Uridium_2_Screenshot2_160
+  - first:
+      213: -1959469125123742506
+    second: Uridium_2_Screenshot2_161
+  - first:
+      213: 4947307542751790607
+    second: Uridium_2_Screenshot2_162
+  - first:
+      213: 88247472449617534
+    second: Uridium_2_Screenshot2_163
+  - first:
+      213: -2398399326718615514
+    second: Uridium_2_Screenshot2_164
+  - first:
+      213: -8444235799170937223
+    second: Uridium_2_Screenshot2_165
+  - first:
+      213: -8229593238410446374
+    second: Uridium_2_Screenshot2_166
+  - first:
+      213: -5557211812919216462
+    second: Uridium_2_Screenshot2_167
+  - first:
+      213: 6488522963136384973
+    second: Uridium_2_Screenshot2_168
+  - first:
+      213: 7252959717974087412
+    second: Uridium_2_Screenshot2_169
+  - first:
+      213: 2246162020595721245
+    second: Uridium_2_Screenshot2_170
+  - first:
+      213: 3100027861994498900
+    second: Uridium_2_Screenshot2_171
+  - first:
+      213: -5089374616564372892
+    second: Uridium_2_Screenshot2_172
+  - first:
+      213: 5648011344144931696
+    second: Uridium_2_Screenshot2_173
+  - first:
+      213: -1433438519529577337
+    second: Uridium_2_Screenshot2_174
+  - first:
+      213: -5603149856481500454
+    second: Uridium_2_Screenshot2_175
+  - first:
+      213: 726216111499926
+    second: Uridium_2_Screenshot2_176
+  - first:
+      213: 1686124658379825330
+    second: Uridium_2_Screenshot2_177
+  - first:
+      213: -1764354346215257852
+    second: Uridium_2_Screenshot2_178
+  - first:
+      213: 5235594318802437900
+    second: Uridium_2_Screenshot2_179
+  - first:
+      213: 7151549003577216332
+    second: Uridium_2_Screenshot2_180
+  - first:
+      213: 7764259245128988869
+    second: Uridium_2_Screenshot2_181
+  - first:
+      213: -7724980547502164732
+    second: Uridium_2_Screenshot2_182
+  - first:
+      213: 985787930042211510
+    second: Uridium_2_Screenshot2_183
+  - first:
+      213: -3500835663274853735
+    second: Uridium_2_Screenshot2_184
+  - first:
+      213: 540756098695274968
+    second: Uridium_2_Screenshot2_185
+  - first:
+      213: 8954901435232606546
+    second: Uridium_2_Screenshot2_186
+  - first:
+      213: 8613120517025909761
+    second: Uridium_2_Screenshot2_187
+  - first:
+      213: -743587913203740285
+    second: Uridium_2_Screenshot2_188
+  - first:
+      213: -9193831918428168845
+    second: Uridium_2_Screenshot2_189
+  - first:
+      213: -1039567986101342844
+    second: Uridium_2_Screenshot2_190
+  - first:
+      213: 7384605062646672277
+    second: Uridium_2_Screenshot2_191
+  - first:
+      213: -6028730474970101271
+    second: Uridium_2_Screenshot2_192
+  - first:
+      213: 8535363580256651955
+    second: Uridium_2_Screenshot2_193
+  - first:
+      213: 1530145479949830586
+    second: Uridium_2_Screenshot2_194
+  - first:
+      213: 883001389778510211
+    second: Uridium_2_Screenshot2_195
+  - first:
+      213: -2321262878033310710
+    second: Uridium_2_Screenshot2_196
+  - first:
+      213: -4873508311420782142
+    second: Uridium_2_Screenshot2_197
+  - first:
+      213: -5062879995171316210
+    second: Uridium_2_Screenshot2_198
+  - first:
+      213: 8059723936306445164
+    second: Uridium_2_Screenshot2_199
+  - first:
+      213: -5938842694240621489
+    second: Uridium_2_Screenshot2_200
+  - first:
+      213: -810255633918499390
+    second: Uridium_2_Screenshot2_201
+  - first:
+      213: 7292440743906255101
+    second: Uridium_2_Screenshot2_202
+  - first:
+      213: 4043842550727929330
+    second: Uridium_2_Screenshot2_203
+  - first:
+      213: -2552512758681337533
+    second: Uridium_2_Screenshot2_204
+  - first:
+      213: -3737745730685721720
+    second: Uridium_2_Screenshot2_205
+  - first:
+      213: -7435057308214128270
+    second: Uridium_2_Screenshot2_206
+  - first:
+      213: -3663109344749305362
+    second: Uridium_2_Screenshot2_207
+  - first:
+      213: -1302758294149481314
+    second: Uridium_2_Screenshot2_208
+  - first:
+      213: 6238835972213151602
+    second: Uridium_2_Screenshot2_209
+  - first:
+      213: 6460223060029723495
+    second: Uridium_2_Screenshot2_210
+  - first:
+      213: 5745958155238601138
+    second: Uridium_2_Screenshot2_211
+  - first:
+      213: 4308916364042875491
+    second: Uridium_2_Screenshot2_212
+  - first:
+      213: -7213456428721841353
+    second: Uridium_2_Screenshot2_213
+  - first:
+      213: -31944293947305388
+    second: Uridium_2_Screenshot2_214
+  - first:
+      213: 287953335433367621
+    second: Uridium_2_Screenshot2_215
+  - first:
+      213: 4384078253720477350
+    second: Uridium_2_Screenshot2_216
+  - first:
+      213: -7169094666985173522
+    second: Uridium_2_Screenshot2_217
+  - first:
+      213: -4555209607539091014
+    second: Uridium_2_Screenshot2_218
+  - first:
+      213: 1800929982021968179
+    second: Uridium_2_Screenshot2_219
+  - first:
+      213: 1828821603451205767
+    second: Uridium_2_Screenshot2_220
+  - first:
+      213: 3402867532873973180
+    second: Uridium_2_Screenshot2_221
+  - first:
+      213: -7351770310740826989
+    second: Uridium_2_Screenshot2_222
+  - first:
+      213: -4434143917321792131
+    second: Uridium_2_Screenshot2_223
+  - first:
+      213: 6292567355686153144
+    second: Uridium_2_Screenshot2_224
+  - first:
+      213: -1095207989522447889
+    second: Uridium_2_Screenshot2_225
+  - first:
+      213: -1508031694313813346
+    second: Uridium_2_Screenshot2_226
+  - first:
+      213: 5296885691904805410
+    second: Uridium_2_Screenshot2_227
+  - first:
+      213: 1025717779941125882
+    second: Uridium_2_Screenshot2_228
+  - first:
+      213: 7041635555669659450
+    second: Uridium_2_Screenshot2_229
+  - first:
+      213: 5628428469022242281
+    second: Uridium_2_Screenshot2_230
+  - first:
+      213: -6037153031925125720
+    second: Uridium_2_Screenshot2_231
+  - first:
+      213: 4383387391121070485
+    second: Uridium_2_Screenshot2_232
+  - first:
+      213: 901034011885332168
+    second: Uridium_2_Screenshot2_233
+  - first:
+      213: -901614519420463124
+    second: Uridium_2_Screenshot2_234
+  - first:
+      213: 7529222422251625354
+    second: Uridium_2_Screenshot2_235
+  - first:
+      213: 5005074409632069018
+    second: Uridium_2_Screenshot2_236
+  - first:
+      213: 5700622029639927639
+    second: Uridium_2_Screenshot2_237
+  - first:
+      213: 2057079968165596374
+    second: Uridium_2_Screenshot2_238
+  - first:
+      213: -2186274683829470970
+    second: Uridium_2_Screenshot2_239
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6bc0a4ae34bb8f0800000000000000
+      internalID: -523750258114775320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4283fae79119f290800000000000000
+      internalID: -7856228730791558581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5743d20f570bab4e0800000000000000
+      internalID: -1965064266806643595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8495df89558609c0800000000000000
+      internalID: -3961332202514049909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5795a7c69824e0db0800000000000000
+      internalID: -4823844992869312139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132773e478b07dca0800000000000000
+      internalID: -5992308103432408527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea42c89bf2ca0be90800000000000000
+      internalID: -7011915298839452498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bce56910c9858720800000000000000
+      internalID: 2847833797534543028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbeb022381d563ea0800000000000000
+      internalID: -5893420703866110276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fccc074fb6350e0800000000000000
+      internalID: -2282361888538046704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7633d39c559cfbe30800000000000000
+      internalID: 4521553921188901735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bc8d1a2846361e0800000000000000
+      internalID: -2205808880257545391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd75d901cf4a25d0800000000000000
+      internalID: -3086566904096784908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911307b7cbdacf6f0800000000000000
+      internalID: -649453221211786983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ccc95fba3d711b0800000000000000
+      internalID: -5685843269018399690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3bdbb917c035b80800000000000000
+      internalID: -8407362397286845534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f2d2fb85368ca80800000000000000
+      internalID: -8446391868317683941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6190ed14d817a0670800000000000000
+      internalID: 8505735697752000790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec743f072932ae450800000000000000
+      internalID: 6118742155603429326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a064d0818764380800000000000000
+      internalID: -8987363961674003881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fa71ad0bb90e1f0800000000000000
+      internalID: -1017642331910197382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c57025414f682b0800000000000000
+      internalID: -5582506319966413786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4199e7051bd174220800000000000000
+      internalID: 2469975568032897300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_23
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c9aaf2da371ef20800000000000000
+      internalID: 3450165977208757308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338d43c7c90d4cde0800000000000000
+      internalID: -1313695820768028621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_25
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890137255dba0b090800000000000000
+      internalID: -8020722003647197032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d22b31761691850800000000000000
+      internalID: 6348212245095394639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_27
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73251d9e7a9fc4260800000000000000
+      internalID: 7083310813524611639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68018d9f010d1f60800000000000000
+      internalID: 8006556879113226348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_29
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093e0cb4974203890800000000000000
+      internalID: -7480438877681818736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e30d54d310e7120800000000000000
+      internalID: 2413367812993072748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_31
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d44c4e747eea290800000000000000
+      internalID: -7877104402257654456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcf69e213d8b8620800000000000000
+      internalID: 2777468837578603696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_33
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75f2258d468fc770800000000000000
+      internalID: 8633266678196794750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_34
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24454a10299802020800000000000000
+      internalID: 2315001468654212162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1024797b4812180800000000000000
+      internalID: -9141879844533829150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb62f7c0e8d3fb90800000000000000
+      internalID: -7209180118551204881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_37
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39853f1342f6c4dd0800000000000000
+      internalID: -2500501491849930605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b889b6e04aadd90800000000000000
+      internalID: -7072159882990286049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_39
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18701d3be969f52a0800000000000000
+      internalID: -6746508108411893887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35b7d5ea3d2ac830800000000000000
+      internalID: 4092132942406989117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e69ee6ce7bfc11e0800000000000000
+      internalID: -2225627593905891609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_42
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287508c83fdb747f0800000000000000
+      internalID: -628324769262971006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac1b8e08a0ca90b0800000000000000
+      internalID: -5721048548589757270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65ae913f928efbe0800000000000000
+      internalID: -1441571210468088470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57769d50c3bdd06c0800000000000000
+      internalID: -4175440228659927179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_46
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19bc6f04e5c6c7f0800000000000000
+      internalID: -592568717650642661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea62f178b5986b8e0800000000000000
+      internalID: -1678002784946936146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_48
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d614ce4a1109b90800000000000000
+      internalID: -7237265201148367508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71667994ff2938ed0800000000000000
+      internalID: -2412923350191479273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_50
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c26e463daa5be360800000000000000
+      internalID: 7199948129268818625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_51
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6473e666f4cc600c0800000000000000
+      internalID: -4609772527174142138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e6ea74d3982b340800000000000000
+      internalID: 4878112242684292709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c87266334a8d650800000000000000
+      internalID: 6257932222895459463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7962f458f06069e30800000000000000
+      internalID: 4509798740588963479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3205c5c27a49ef0800000000000000
+      internalID: -102273082553523281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_56
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68be2fe722357a60800000000000000
+      internalID: 7671092687393437804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56da1ba3cd764aa40800000000000000
+      internalID: 5378538050562403685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeba4b86802e3180800000000000000
+      internalID: -9133827232026149121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_59
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166c9860f0549da00800000000000000
+      internalID: 781731941162010209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa4849b66e8929c0800000000000000
+      internalID: -3951470626194568459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f9b57b6ab7d7920800000000000000
+      internalID: 2989681683614900009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d8dd4ba646c9d70800000000000000
+      internalID: 9051219760571583766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_63
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff8aacf8eb47c350800000000000000
+      internalID: 6036877289556971507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff2aef93b3c1fc80800000000000000
+      internalID: -8290630262762885134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_65
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de15edf9eb0cab440800000000000000
+      internalID: 4952482665205748205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_66
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed1979b94807bd70800000000000000
+      internalID: 9058718288216399339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_67
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199f479b1560e92f0800000000000000
+      internalID: -964326322137138799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21767e76f04d72b20800000000000000
+      internalID: 3109687230355433234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_69
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bd1918197580f70800000000000000
+      internalID: 9153662525086227240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_70
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bc84d4f05289030800000000000000
+      internalID: 3501589457931914103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_71
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166b846f9689e6a60800000000000000
+      internalID: 7669234796329481825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_72
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60226a1fee65d4a40800000000000000
+      internalID: 5354031116269789702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_73
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00093121af85aa2f0800000000000000
+      internalID: -960857739421839360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd229dcd304853af0800000000000000
+      internalID: -417282238336916771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_75
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b046dcbfb90abbc80800000000000000
+      internalID: -8305868495949831157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ef10d7c784770a0800000000000000
+      internalID: -6883953805902086556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_77
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be9e8ed6437a1530800000000000000
+      internalID: 3826497581623451317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_78
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8bfe3fea20789e0800000000000000
+      internalID: -1619322590576264971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_79
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a76ae7191eb5c0800000000000000
+      internalID: -4197890212155119785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25570538305b6c710800000000000000
+      internalID: 1713255734953669970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8d8c274c64408c0800000000000000
+      internalID: -4034021556663822156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_82
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60f6c72827f68640800000000000000
+      internalID: 5082020981372285035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_83
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6f3029974adb880800000000000000
+      internalID: -8593531671905306882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_84
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9667b36d95f0bfb30800000000000000
+      internalID: 4322065145912850025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_85
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6874f6e08c036e50800000000000000
+      internalID: 6801293610029709421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_86
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f468a50de248670a0800000000000000
+      internalID: -6884169643790268849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_87
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34f25ff13a46fc40800000000000000
+      internalID: 5545701569750823997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_88
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee078cb16d4d8fa0800000000000000
+      internalID: -5796892063185826080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffa3e9c61a358870800000000000000
+      internalID: 8684411326004703222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_90
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646ebcfb755bdadf0800000000000000
+      internalID: -167278222658247098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_91
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569cf365a286ab0a0800000000000000
+      internalID: -6865060150927963803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_92
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3270ec4a81e30ab50800000000000000
+      internalID: 6602345329290250019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_93
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938e5c6cba0fbbf00800000000000000
+      internalID: 1133764351778744377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_94
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5b51a2b1dd49400800000000000000
+      internalID: 330131781444810176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_95
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9bc86df41f70a30800000000000000
+      internalID: 4181576104241052073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_96
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af613b1307fc3aa0800000000000000
+      internalID: -6179792995945975901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_97
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ec1934690465950800000000000000
+      internalID: 6437403731495603766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_98
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a7996d8ade70d10800000000000000
+      internalID: 2091901861347555863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_99
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790484c64b78b4cb0800000000000000
+      internalID: -4878656562345262953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620771d754ed37420800000000000000
+      internalID: 2626687397719928870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a2b13262de40a30800000000000000
+      internalID: 4180727102160185978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_102
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6213d5794efd10da0800000000000000
+      internalID: -5980252657286303450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_103
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcada375494bb660800000000000000
+      internalID: 7402590975155875057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be5b330511517740800000000000000
+      internalID: 5147984999751573173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_105
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4618b585142574bd0800000000000000
+      internalID: -2646055815448133276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_106
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2fb831a19d5f520800000000000000
+      internalID: 2735331054717760247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_107
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6471c32d520868070800000000000000
+      internalID: 8108309079056455494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab68666d84d8e1f00800000000000000
+      internalID: 1089463503844443834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_109
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec66472539dbc45a0800000000000000
+      internalID: -6535640518780229938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_110
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cf03e21a263ed70800000000000000
+      internalID: 9071202518858529921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_111
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fb8a0c87efcc9b0800000000000000
+      internalID: -5058388486862094587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_112
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8afef8b9c081fe50800000000000000
+      internalID: 6841390912832993931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_113
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a92d2fdc239a7c40800000000000000
+      internalID: 5510878914973346214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_114
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0847522719e94830800000000000000
+      internalID: 4056029224993507340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_115
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726bc41665d2e3440800000000000000
+      internalID: 4917417692158015015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043560b5dce66e3a0800000000000000
+      internalID: -6636495172609354944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_117
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56015b829b10f7dc0800000000000000
+      internalID: -3639188079128539035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_118
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f19e54b5006c5450800000000000000
+      internalID: 6078839174660526576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_119
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904fa0184f27e8480800000000000000
+      internalID: -8895045819547585527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766184332ba8d6010800000000000000
+      internalID: 1183754775037482599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_121
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8443b980f8c3730800000000000000
+      internalID: 3980213437815081184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_122
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f463e0e58352810800000000000000
+      internalID: 1739858807665086271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_123
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de94741cf66111350800000000000000
+      internalID: 5985590048991955437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_124
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006b268469a693740800000000000000
+      internalID: 5132250444057458176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_125
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54d1caf011c55b70800000000000000
+      internalID: 8887221718356186206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_126
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cf8c16349c9de90800000000000000
+      internalID: -7000342854530171801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_127
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5909205a2ee6d5630800000000000000
+      internalID: 3917409170592272533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_128
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a702132357fe0d480800000000000000
+      internalID: -8876331578914955142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_129
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e641203b2ef77a90800000000000000
+      internalID: -7316099608195545367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_130
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d55a733e8cf8230800000000000000
+      internalID: 3643351501782736284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_131
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559aec1abfad60a60800000000000000
+      internalID: 7640034592166947157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_132
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cf4ab7ef5641e30800000000000000
+      internalID: 4473312473556253801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_133
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41582282ceaa01500800000000000000
+      internalID: 364979501079364884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_134
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaca92ee9aa73550800000000000000
+      internalID: 6140564216326310622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_135
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdda2fd846205d930800000000000000
+      internalID: 4167239661102738908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65910d8c02b0e7500800000000000000
+      internalID: 395766052691122518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_137
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03efbd26a15ddf700800000000000000
+      internalID: 575850636677742128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_138
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69516c18ad4977ef0800000000000000
+      internalID: -110455999646263914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_139
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8575d5d75b534fb80800000000000000
+      internalID: -8361999554511546536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eea5be1604ec01d0800000000000000
+      internalID: -3383078505125925152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_141
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7c53b5812273cb0800000000000000
+      internalID: -4884397782855202868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_142
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb5461b28d2e91c0800000000000000
+      internalID: -4495105338724033548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_143
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744feaac59a8843c0800000000000000
+      internalID: -4375094662035213241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_144
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7ecaada6911cbb0800000000000000
+      internalID: -4917621371385878570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_145
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa571eb021da0f10800000000000000
+      internalID: 2236830103501232804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_146
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63bb1a43b522c1e0800000000000000
+      internalID: -2179137817721195669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_147
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7eb5aa7af9a9230800000000000000
+      internalID: 3646402390776342508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2eece01078aaf40800000000000000
+      internalID: 5740549113650274978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_149
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db88b5f93b3c97560800000000000000
+      internalID: 7312090646252849341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_150
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a61927af14765ad0800000000000000
+      internalID: -2713854046146849113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_151
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae042a0d7911a710800000000000000
+      internalID: 1702670158954499754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_152
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b1cfe719ba1fe60800000000000000
+      internalID: 7994359454948399979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_153
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdf3350a3bade940800000000000000
+      internalID: 5327102199932911095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_154
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11b9f01481313410800000000000000
+      internalID: 1454998597907624218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_155
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdb869a33b270d90800000000000000
+      internalID: -7131683984032350785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_156
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca901d80cf3555050800000000000000
+      internalID: 5788625237999421868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_157
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349b10eee6701f2c0800000000000000
+      internalID: -4399727187943376573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_158
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802b30a564d687930800000000000000
+      internalID: 4141180006292501000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_159
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d4ea6f72f1be870800000000000000
+      internalID: 8713092160581160337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741b4abf196cb7110800000000000000
+      internalID: 1259818851074617671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_161
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d467a066319ec4e0800000000000000
+      internalID: -1959469125123742506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_162
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06c4588ffd58a440800000000000000
+      internalID: 4947307542751790607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_163
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e7fafcb94893100800000000000000
+      internalID: 88247472449617534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_164
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620a665058c27bed0800000000000000
+      internalID: -2398399326718615514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_165
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e87c6b74c00da80800000000000000
+      internalID: -8444235799170937223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_166
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9b69a4d8c9acd80800000000000000
+      internalID: -8229593238410446374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_167
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6785dac41d0e2b0800000000000000
+      internalID: -5557211812919216462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_168
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf85bed14ddb0a50800000000000000
+      internalID: 6488522963136384973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_169
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f610188f60b7a460800000000000000
+      internalID: 7252959717974087412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_170
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14e4910578fb2f10800000000000000
+      internalID: 2246162020595721245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_171
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45beef37ae2850b20800000000000000
+      internalID: 3100027861994498900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_172
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a6aca30c8ee59b0800000000000000
+      internalID: -5089374616564372892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_173
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b922f9464c16e40800000000000000
+      internalID: 5648011344144931696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_174
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784e31cd2476b1ce0800000000000000
+      internalID: -1433438519529577337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_175
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2a32d64ec9d32b0800000000000000
+      internalID: -5603149856481500454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_176
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a2b5d5d74920000800000000000000
+      internalID: 726216111499926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_177
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0a1cd7171566710800000000000000
+      internalID: 1686124658379825330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_178
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4094cefe111c387e0800000000000000
+      internalID: -1764354346215257852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_179
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07c5482b4198a840800000000000000
+      internalID: 5235594318802437900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dc400ade76f3360800000000000000
+      internalID: 7151549003577216332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_181
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8b4f985a030cb60800000000000000
+      internalID: 7764259245128988869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_182
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405b459ee1b5bc490800000000000000
+      internalID: -7724980547502164732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_183
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc980246e83ead00800000000000000
+      internalID: 985787930042211510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_184
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99abb7133888a6fc0800000000000000
+      internalID: -3500835663274853735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_185
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1abd48ec6218700800000000000000
+      internalID: 540756098695274968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_186
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259dca50963364c70800000000000000
+      internalID: 8954901435232606546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_187
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c45f8d973f78770800000000000000
+      internalID: 8613120517025909761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_188
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381973e8bbe3ea5f0800000000000000
+      internalID: -743587913203740285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_189
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37dd079c492f86080800000000000000
+      internalID: -9193831918428168845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_190
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48daf8cac66b291f0800000000000000
+      internalID: -1039567986101342844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_191
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b2b9ddd236b7660800000000000000
+      internalID: 7384605062646672277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_192
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9c5d81395a55ca0800000000000000
+      internalID: -6028730474970101271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_193
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba010634f3b37670800000000000000
+      internalID: 8535363580256651955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_194
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9441bf43b2c3510800000000000000
+      internalID: 1530145479949830586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_195
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381acede51d014c00800000000000000
+      internalID: 883001389778510211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_196
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c068406b739cfd0800000000000000
+      internalID: -2321262878033310710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_197
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9b9dff202dd5cb0800000000000000
+      internalID: -4873508311420782142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_198
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ed16bf7790db9b0800000000000000
+      internalID: -5062879995171316210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_199
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b3243c734e9df60800000000000000
+      internalID: 8059723936306445164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c2dd0f80ef49da0800000000000000
+      internalID: -5938842694240621489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_201
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5670b3bc461c4f0800000000000000
+      internalID: -810255633918499390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_202
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df02e163834f33560800000000000000
+      internalID: 7292440743906255101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_203
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd6fbbef5d9e1830800000000000000
+      internalID: 4043842550727929330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_204
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34185267b27a39cd0800000000000000
+      internalID: -2552512758681337533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_205
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883aeb5bf0cd02cc0800000000000000
+      internalID: -3737745730685721720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_206
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271993355ce51d890800000000000000
+      internalID: -7435057308214128270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_207
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1cdcc75750a2dc0800000000000000
+      internalID: -3663109344749305362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cb609db3cabede0800000000000000
+      internalID: -1302758294149481314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_209
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27791bf034cc49650800000000000000
+      internalID: 6238835972213151602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_210
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763dbd635a257a950800000000000000
+      internalID: 6460223060029723495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_211
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b17141bf7ebdbf40800000000000000
+      internalID: 5745958155238601138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_212
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362b4ad7a985ccb30800000000000000
+      internalID: 4308916364042875491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_213
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bd64bb897a4eb90800000000000000
+      internalID: -7213456428721841353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_214
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4529baa75d28e8ff0800000000000000
+      internalID: -31944293947305388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_215
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540156e68040ff300800000000000000
+      internalID: 287953335433367621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_216
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae1684a1ff57dc30800000000000000
+      internalID: 4384078253720477350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_217
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed83354262428c90800000000000000
+      internalID: -7169094666985173522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_218
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab99f291ff4a8c0c0800000000000000
+      internalID: -4555209607539091014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_219
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33125c3e6403ef810800000000000000
+      internalID: 1800929982021968179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_220
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788f44f0f87416910800000000000000
+      internalID: 1828821603451205767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_221
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdb9a2fdf9693f20800000000000000
+      internalID: 3402867532873973180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_222
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394a70e8ad349f990800000000000000
+      internalID: -7351770310740826989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_223
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75531da991c672c0800000000000000
+      internalID: -4434143917321792131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_224
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb64e8aba0b35750800000000000000
+      internalID: 6292567355686153144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_225
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1485dd22a0dc0f0800000000000000
+      internalID: -1095207989522447889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_226
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a0566f925621be0800000000000000
+      internalID: -1508031694313813346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_227
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ac5d10971528940800000000000000
+      internalID: 5296885691904805410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_228
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe6139e2e41c3e00800000000000000
+      internalID: 1025717779941125882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_229
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f437dca3ae8b160800000000000000
+      internalID: 7041635555669659450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_230
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e534c33fd13c1e40800000000000000
+      internalID: 5628428469022242281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_231
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad2e6dbd49b73ca0800000000000000
+      internalID: -6037153031925125720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_232
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59992b8ab9be4dc30800000000000000
+      internalID: 4383387391121070485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_233
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c668f0f8ad118c00800000000000000
+      internalID: 901034011885332168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_234
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7db9d1f52dc73f0800000000000000
+      internalID: -901614519420463124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_235
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bd639c6eb2d7860800000000000000
+      internalID: 7529222422251625354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_236
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95748458a8957540800000000000000
+      internalID: 5005074409632069018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_237
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7574473688dac1f40800000000000000
+      internalID: 5700622029639927639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_238
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc051905573c8c10800000000000000
+      internalID: 2057079968165596374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Uridium_2_Screenshot2_239
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6093ae822cac8a1e0800000000000000
+      internalID: -2186274683829470970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

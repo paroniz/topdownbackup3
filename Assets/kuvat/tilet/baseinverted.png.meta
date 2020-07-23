@@ -1,0 +1,5249 @@
+fileFormatVersion: 2
+guid: 52e0739506d8a0247b23708dbfb0b65a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7057202592896033095
+    second: baseinverted_0
+  - first:
+      213: 7454806042723551360
+    second: baseinverted_1
+  - first:
+      213: -5667819440868701242
+    second: baseinverted_2
+  - first:
+      213: 1463233067837835119
+    second: baseinverted_3
+  - first:
+      213: -4825770384769854018
+    second: baseinverted_4
+  - first:
+      213: 4346501607401970222
+    second: baseinverted_5
+  - first:
+      213: 8407098297933196701
+    second: baseinverted_6
+  - first:
+      213: -1076103817871021257
+    second: baseinverted_7
+  - first:
+      213: -2036032897611824593
+    second: baseinverted_8
+  - first:
+      213: 4843642963658836810
+    second: baseinverted_9
+  - first:
+      213: 1409034578737897128
+    second: baseinverted_10
+  - first:
+      213: 5762553955860378237
+    second: baseinverted_11
+  - first:
+      213: 8135828500187669599
+    second: baseinverted_12
+  - first:
+      213: 2459440924172238863
+    second: baseinverted_13
+  - first:
+      213: -5816544837946632249
+    second: baseinverted_14
+  - first:
+      213: 7838639231787155386
+    second: baseinverted_15
+  - first:
+      213: -2615848668595967495
+    second: baseinverted_16
+  - first:
+      213: 3186964763382015863
+    second: baseinverted_17
+  - first:
+      213: 9024227474003286654
+    second: baseinverted_18
+  - first:
+      213: 4333453321235505881
+    second: baseinverted_19
+  - first:
+      213: -4455065568833677133
+    second: baseinverted_20
+  - first:
+      213: 4801558344126248351
+    second: baseinverted_21
+  - first:
+      213: -1780821334604439939
+    second: baseinverted_22
+  - first:
+      213: -5495263917149660227
+    second: baseinverted_23
+  - first:
+      213: 5409577724857901510
+    second: baseinverted_24
+  - first:
+      213: -2858867521423016844
+    second: baseinverted_25
+  - first:
+      213: -3412734525509981159
+    second: baseinverted_26
+  - first:
+      213: -6503528935158427982
+    second: baseinverted_27
+  - first:
+      213: -7676381188481119191
+    second: baseinverted_28
+  - first:
+      213: -6144143200148284376
+    second: baseinverted_29
+  - first:
+      213: 6696054182954824415
+    second: baseinverted_30
+  - first:
+      213: -5410344204210402644
+    second: baseinverted_31
+  - first:
+      213: -1272067415360888631
+    second: baseinverted_32
+  - first:
+      213: 6504388292695418977
+    second: baseinverted_33
+  - first:
+      213: -875968621077562538
+    second: baseinverted_34
+  - first:
+      213: 594492178383838383
+    second: baseinverted_35
+  - first:
+      213: 2235764238364057441
+    second: baseinverted_36
+  - first:
+      213: 397007797673493513
+    second: baseinverted_37
+  - first:
+      213: 8142870760204454522
+    second: baseinverted_38
+  - first:
+      213: -2969008228528714601
+    second: baseinverted_39
+  - first:
+      213: -4213364128500790998
+    second: baseinverted_40
+  - first:
+      213: 4594971640240765032
+    second: baseinverted_41
+  - first:
+      213: -259144744893866993
+    second: baseinverted_42
+  - first:
+      213: 4123583312315226100
+    second: baseinverted_43
+  - first:
+      213: -8337310417215726482
+    second: baseinverted_44
+  - first:
+      213: 3084887945243269605
+    second: baseinverted_45
+  - first:
+      213: -7110170894956764815
+    second: baseinverted_46
+  - first:
+      213: -350405252688213557
+    second: baseinverted_47
+  - first:
+      213: -4595936713437423709
+    second: baseinverted_48
+  - first:
+      213: 555359953118680586
+    second: baseinverted_49
+  - first:
+      213: 5602960828713547244
+    second: baseinverted_50
+  - first:
+      213: 4902375649144606399
+    second: baseinverted_51
+  - first:
+      213: 8070271697390890514
+    second: baseinverted_52
+  - first:
+      213: 1124032409529102742
+    second: baseinverted_53
+  - first:
+      213: -113546511998067386
+    second: baseinverted_54
+  - first:
+      213: 6894441882920580522
+    second: baseinverted_55
+  - first:
+      213: 5568024154489435426
+    second: baseinverted_56
+  - first:
+      213: -7328566194710906257
+    second: baseinverted_57
+  - first:
+      213: 1081996155960079158
+    second: baseinverted_58
+  - first:
+      213: -5569131149353351230
+    second: baseinverted_59
+  - first:
+      213: 2753206895634915498
+    second: baseinverted_60
+  - first:
+      213: 7676999587609778149
+    second: baseinverted_61
+  - first:
+      213: -536909742580993414
+    second: baseinverted_62
+  - first:
+      213: -8086715111848584434
+    second: baseinverted_63
+  - first:
+      213: -6021573434741614029
+    second: baseinverted_64
+  - first:
+      213: -1704992838870656034
+    second: baseinverted_65
+  - first:
+      213: -7240535460446057870
+    second: baseinverted_66
+  - first:
+      213: 8488450465159819298
+    second: baseinverted_67
+  - first:
+      213: 6854967165105163443
+    second: baseinverted_68
+  - first:
+      213: -5182344205246720983
+    second: baseinverted_69
+  - first:
+      213: -1379736142163277058
+    second: baseinverted_70
+  - first:
+      213: 3001944274198204765
+    second: baseinverted_71
+  - first:
+      213: 652010539212599116
+    second: baseinverted_72
+  - first:
+      213: -7708753505301278006
+    second: baseinverted_73
+  - first:
+      213: -7380378210767894314
+    second: baseinverted_74
+  - first:
+      213: 3681791393504501474
+    second: baseinverted_75
+  - first:
+      213: -4747891512217067143
+    second: baseinverted_76
+  - first:
+      213: 4538120032824300801
+    second: baseinverted_77
+  - first:
+      213: 713341802757920766
+    second: baseinverted_78
+  - first:
+      213: 2019763412889681848
+    second: baseinverted_79
+  - first:
+      213: 3827408287491899954
+    second: baseinverted_80
+  - first:
+      213: 1054031162476151441
+    second: baseinverted_81
+  - first:
+      213: 5888366295702339131
+    second: baseinverted_82
+  - first:
+      213: -1250902023369897784
+    second: baseinverted_83
+  - first:
+      213: 3395735533617998654
+    second: baseinverted_84
+  - first:
+      213: 2821336638639654531
+    second: baseinverted_85
+  - first:
+      213: -2495546063102115567
+    second: baseinverted_86
+  - first:
+      213: -5839188647526874018
+    second: baseinverted_87
+  - first:
+      213: -2267436669592194177
+    second: baseinverted_88
+  - first:
+      213: -7088349227400278148
+    second: baseinverted_89
+  - first:
+      213: 7817455041160235359
+    second: baseinverted_90
+  - first:
+      213: 6531795149444907731
+    second: baseinverted_91
+  - first:
+      213: -6135235262151121018
+    second: baseinverted_92
+  - first:
+      213: -2624570016399028023
+    second: baseinverted_93
+  - first:
+      213: -2845629664321216072
+    second: baseinverted_94
+  - first:
+      213: -3351126317698938611
+    second: baseinverted_95
+  - first:
+      213: -1216220824534321085
+    second: baseinverted_96
+  - first:
+      213: -8822152953482916300
+    second: baseinverted_97
+  - first:
+      213: -1841760175216055713
+    second: baseinverted_98
+  - first:
+      213: -140453635190222149
+    second: baseinverted_99
+  - first:
+      213: -7886376053291651976
+    second: baseinverted_100
+  - first:
+      213: 1671785100450305594
+    second: baseinverted_101
+  - first:
+      213: -8191409490208318566
+    second: baseinverted_102
+  - first:
+      213: 812568010761081347
+    second: baseinverted_103
+  - first:
+      213: -5089694046176035043
+    second: baseinverted_104
+  - first:
+      213: -2991831993854853738
+    second: baseinverted_105
+  - first:
+      213: 80582924902778511
+    second: baseinverted_106
+  - first:
+      213: -4720190218730094756
+    second: baseinverted_107
+  - first:
+      213: -2965865225980244848
+    second: baseinverted_108
+  - first:
+      213: 6606321194664506450
+    second: baseinverted_109
+  - first:
+      213: 6804263429573227732
+    second: baseinverted_110
+  - first:
+      213: 5053646637251541728
+    second: baseinverted_111
+  - first:
+      213: 4659836774391492220
+    second: baseinverted_112
+  - first:
+      213: 4749837531863569379
+    second: baseinverted_113
+  - first:
+      213: -1762344764569326882
+    second: baseinverted_114
+  - first:
+      213: -5974563564089469166
+    second: baseinverted_115
+  - first:
+      213: -2998157356149520413
+    second: baseinverted_116
+  - first:
+      213: -6922242882695021319
+    second: baseinverted_117
+  - first:
+      213: 8812483703940522917
+    second: baseinverted_118
+  - first:
+      213: 8528878893173885757
+    second: baseinverted_119
+  - first:
+      213: -354757789901207206
+    second: baseinverted_120
+  - first:
+      213: -7740426252546435248
+    second: baseinverted_121
+  - first:
+      213: -4900535203173261005
+    second: baseinverted_122
+  - first:
+      213: -7206610365703657983
+    second: baseinverted_123
+  - first:
+      213: 5248416141248603266
+    second: baseinverted_124
+  - first:
+      213: -8593924665985591390
+    second: baseinverted_125
+  - first:
+      213: 3200357189334020420
+    second: baseinverted_126
+  - first:
+      213: -451739555318883958
+    second: baseinverted_127
+  - first:
+      213: -1281063635489228401
+    second: baseinverted_128
+  - first:
+      213: 2221214140581493868
+    second: baseinverted_129
+  - first:
+      213: -6966259204975661598
+    second: baseinverted_130
+  - first:
+      213: 4657848130677436341
+    second: baseinverted_131
+  - first:
+      213: -7039173971049768945
+    second: baseinverted_132
+  - first:
+      213: 4824196111877340081
+    second: baseinverted_133
+  - first:
+      213: 3239134715383679580
+    second: baseinverted_134
+  - first:
+      213: -4365495139876899871
+    second: baseinverted_135
+  - first:
+      213: -5196948220156096370
+    second: baseinverted_136
+  - first:
+      213: -69742868672567301
+    second: baseinverted_137
+  - first:
+      213: -6124675048790096917
+    second: baseinverted_138
+  - first:
+      213: -7103793745523917103
+    second: baseinverted_139
+  - first:
+      213: 6279682120871760642
+    second: baseinverted_140
+  - first:
+      213: 3747715280006465471
+    second: baseinverted_141
+  - first:
+      213: -7383094098379495385
+    second: baseinverted_142
+  - first:
+      213: -5541289921395389177
+    second: baseinverted_143
+  - first:
+      213: 6363393989880953303
+    second: baseinverted_144
+  - first:
+      213: 4954485638568484238
+    second: baseinverted_145
+  - first:
+      213: 1613639774721573331
+    second: baseinverted_146
+  - first:
+      213: -6221064382046001238
+    second: baseinverted_147
+  - first:
+      213: -8980222894117791920
+    second: baseinverted_148
+  - first:
+      213: -2061533203343987764
+    second: baseinverted_149
+  - first:
+      213: -5615392382332410413
+    second: baseinverted_150
+  - first:
+      213: -8995243088442723668
+    second: baseinverted_151
+  - first:
+      213: -5059378023643252771
+    second: baseinverted_152
+  - first:
+      213: 4385132946401903810
+    second: baseinverted_153
+  - first:
+      213: -8025093652892448085
+    second: baseinverted_154
+  - first:
+      213: -7345939272974589259
+    second: baseinverted_155
+  - first:
+      213: 7530634453031982581
+    second: baseinverted_156
+  - first:
+      213: -4826588028938557375
+    second: baseinverted_157
+  - first:
+      213: -8151938472736566560
+    second: baseinverted_158
+  - first:
+      213: -5568543617087269097
+    second: baseinverted_159
+  - first:
+      213: -8517519534804542809
+    second: baseinverted_160
+  - first:
+      213: -7495092165453166073
+    second: baseinverted_161
+  - first:
+      213: 8396193129078134005
+    second: baseinverted_162
+  - first:
+      213: -901270790235442096
+    second: baseinverted_163
+  - first:
+      213: -5458430492207595016
+    second: baseinverted_164
+  - first:
+      213: -8934706952600601354
+    second: baseinverted_165
+  - first:
+      213: -2815656581639980335
+    second: baseinverted_166
+  - first:
+      213: 4440626815869892702
+    second: baseinverted_167
+  - first:
+      213: -4742515107745959946
+    second: baseinverted_168
+  - first:
+      213: -831436558038162959
+    second: baseinverted_169
+  - first:
+      213: -2016633780237201550
+    second: baseinverted_170
+  - first:
+      213: -665757617032176054
+    second: baseinverted_171
+  - first:
+      213: -5934877012291259633
+    second: baseinverted_172
+  - first:
+      213: 2842650235521173213
+    second: baseinverted_173
+  - first:
+      213: 9136468621743512484
+    second: baseinverted_174
+  - first:
+      213: -3368381788204183873
+    second: baseinverted_175
+  - first:
+      213: 4723800596121483225
+    second: baseinverted_176
+  - first:
+      213: -6341728180063884624
+    second: baseinverted_177
+  - first:
+      213: -2641527290283370893
+    second: baseinverted_178
+  - first:
+      213: -6717999728241966812
+    second: baseinverted_179
+  - first:
+      213: 8646698037560149548
+    second: baseinverted_180
+  - first:
+      213: -410956711216052279
+    second: baseinverted_181
+  - first:
+      213: 5399296339199622807
+    second: baseinverted_182
+  - first:
+      213: -379285641028758807
+    second: baseinverted_183
+  - first:
+      213: -4890524458231873393
+    second: baseinverted_184
+  - first:
+      213: 5479654303177068880
+    second: baseinverted_185
+  - first:
+      213: -5524183339281039637
+    second: baseinverted_186
+  - first:
+      213: 1519878376937668633
+    second: baseinverted_187
+  - first:
+      213: -1621505275637419488
+    second: baseinverted_188
+  - first:
+      213: -5197385264363833168
+    second: baseinverted_189
+  - first:
+      213: 3463723446250131625
+    second: baseinverted_190
+  - first:
+      213: -5061509631326395685
+    second: baseinverted_191
+  - first:
+      213: -7872573446773900240
+    second: baseinverted_192
+  - first:
+      213: -5256000016300061817
+    second: baseinverted_193
+  - first:
+      213: 1861282580364534600
+    second: baseinverted_194
+  - first:
+      213: 5500789180253883697
+    second: baseinverted_195
+  - first:
+      213: -7969645621590351908
+    second: baseinverted_196
+  - first:
+      213: 5787516955715227440
+    second: baseinverted_197
+  - first:
+      213: -8599138521682433251
+    second: baseinverted_198
+  - first:
+      213: 7163617062421861844
+    second: baseinverted_199
+  - first:
+      213: 5179450344624005731
+    second: baseinverted_200
+  - first:
+      213: -5430178370951847430
+    second: baseinverted_201
+  - first:
+      213: -8323991177816795851
+    second: baseinverted_202
+  - first:
+      213: 4418001496392024151
+    second: baseinverted_203
+  - first:
+      213: 675938211410582030
+    second: baseinverted_204
+  - first:
+      213: 6133004810167541603
+    second: baseinverted_205
+  - first:
+      213: -7190432948320517180
+    second: baseinverted_206
+  - first:
+      213: 4929961714468849027
+    second: baseinverted_207
+  - first:
+      213: 6485762716636570104
+    second: baseinverted_208
+  - first:
+      213: -686439506296696630
+    second: baseinverted_209
+  - first:
+      213: 7047583950106360886
+    second: baseinverted_210
+  - first:
+      213: 422420540436092307
+    second: baseinverted_211
+  - first:
+      213: -7476087925950365466
+    second: baseinverted_212
+  - first:
+      213: 5790254996721687788
+    second: baseinverted_213
+  - first:
+      213: -3158118584425990498
+    second: baseinverted_214
+  - first:
+      213: -7738626044596492254
+    second: baseinverted_215
+  - first:
+      213: -5841050759423966095
+    second: baseinverted_216
+  - first:
+      213: 3451667831974695182
+    second: baseinverted_217
+  - first:
+      213: 7895616017166578634
+    second: baseinverted_218
+  - first:
+      213: 5437557538863864093
+    second: baseinverted_219
+  - first:
+      213: 1525391951595667267
+    second: baseinverted_220
+  - first:
+      213: 2908662310447509053
+    second: baseinverted_221
+  - first:
+      213: -2348257167877181352
+    second: baseinverted_222
+  - first:
+      213: 7534190121276421283
+    second: baseinverted_223
+  - first:
+      213: -5139923461963625590
+    second: baseinverted_224
+  - first:
+      213: -1053966961013720610
+    second: baseinverted_225
+  - first:
+      213: 497901171722679906
+    second: baseinverted_226
+  - first:
+      213: 4154787497426927118
+    second: baseinverted_227
+  - first:
+      213: 3685875065429635036
+    second: baseinverted_228
+  - first:
+      213: -1350281346908659974
+    second: baseinverted_229
+  - first:
+      213: -7791639006275326593
+    second: baseinverted_230
+  - first:
+      213: -6961834913690794057
+    second: baseinverted_231
+  - first:
+      213: 7097153204678467398
+    second: baseinverted_232
+  - first:
+      213: -2924112020698239100
+    second: baseinverted_233
+  - first:
+      213: -7023954269426549208
+    second: baseinverted_234
+  - first:
+      213: -4758104090996774793
+    second: baseinverted_235
+  - first:
+      213: 577551483201984953
+    second: baseinverted_236
+  - first:
+      213: 3485741558709172941
+    second: baseinverted_237
+  - first:
+      213: 1559026509855558525
+    second: baseinverted_238
+  - first:
+      213: 1366497834312380533
+    second: baseinverted_239
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baseinverted_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be5776e1a7cf0e90800000000000000
+      internalID: -7057202592896033095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08809fd399ac47760800000000000000
+      internalID: 7454806042723551360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbc7f77f3cd751b0800000000000000
+      internalID: -5667819440868701242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67441009b27e4410800000000000000
+      internalID: 1463233067837835119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb55130376b670db0800000000000000
+      internalID: -4825770384769854018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2adbd4ee20e15c30800000000000000
+      internalID: 4346501607401970222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_6
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d6918fb530ca470800000000000000
+      internalID: 8407098297933196701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_7
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b2b527749e011f0800000000000000
+      internalID: -1076103817871021257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2286d2fdde8eb3e0800000000000000
+      internalID: -2036032897611824593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_9
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b84bbdc93183340800000000000000
+      internalID: 4843642963658836810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_10
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae1ae5eb75ed8310800000000000000
+      internalID: 1409034578737897128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_11
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d727412aa44b8ff40800000000000000
+      internalID: 5762553955860378237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_12
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f546f2b5ae448e070800000000000000
+      internalID: 8135828500187669599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_13
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0048576d70b12220800000000000000
+      internalID: 2459440924172238863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_14
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c71f0a894b774fa0800000000000000
+      internalID: -5816544837946632249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_15
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf3d15b9d078cc60800000000000000
+      internalID: 7838639231787155386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_16
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a82ace73a2bbd0800000000000000
+      internalID: -2615848668595967495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_17
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7776219219f5a3c20800000000000000
+      internalID: 3186964763382015863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_18
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 527
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a5940431f7c3d70800000000000000
+      internalID: 9024227474003286654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2aaf606d4832c30800000000000000
+      internalID: 4333453321235505881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_20
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b85896187d6c22c0800000000000000
+      internalID: -4455065568833677133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_21
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9535fdcfdf82a240800000000000000
+      internalID: 4801558344126248351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e177e6e604947e0800000000000000
+      internalID: -1780821334604439939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_23
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbd54f1596ecb3b0800000000000000
+      internalID: -5495263917149660227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_24
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c16503974ea21b40800000000000000
+      internalID: 5409577724857901510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cfdadd2234358d0800000000000000
+      internalID: -2858867521423016844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_26
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c244ec70883a0d0800000000000000
+      internalID: -3412734525509981159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be486104e2deb5a0800000000000000
+      internalID: -6503528935158427982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_28
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c8714faf3087590800000000000000
+      internalID: -7676381188481119191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_29
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c9702005e9bbaa0800000000000000
+      internalID: -6144143200148284376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_30
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd27acb5dc92dec50800000000000000
+      internalID: 6696054182954824415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_31
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa027b8c989ae4b0800000000000000
+      internalID: -5410344204210402644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_32
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0a019ec65b85ee0800000000000000
+      internalID: -1272067415360888631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_33
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168e153c0ba344a50800000000000000
+      internalID: 6504388292695418977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_34
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b78422e2fe7d3f0800000000000000
+      internalID: -875968621077562538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_35
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac115a8c7f004800800000000000000
+      internalID: 594492178383838383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_36
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f163daab7070f10800000000000000
+      internalID: 2235764238364057441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_37
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90483611d74728500800000000000000
+      internalID: 397007797673493513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_38
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ac6e940d9410170800000000000000
+      internalID: 8142870760204454522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_39
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c85532fb6fbc6d0800000000000000
+      internalID: -2969008228528714601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_40
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29465306af1785c0800000000000000
+      internalID: -4213364128500790998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_41
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8687b819c5e94cf30800000000000000
+      internalID: 4594971640240765032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_42
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c113f3a35576cf0800000000000000
+      internalID: -259144744893866993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_43
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f71744cc29e93930800000000000000
+      internalID: 4123583312315226100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_44
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c51b7395ceb4c80800000000000000
+      internalID: -8337310417215726482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_45
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e91c14ed39bfca20800000000000000
+      internalID: 3084887945243269605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_46
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171e7c90e39935d90800000000000000
+      internalID: -7110170894956764815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_47
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9861a774c132bf0800000000000000
+      internalID: -350405252688213557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_48
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7d261d8e3f730c0800000000000000
+      internalID: -4595936713437423709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_49
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06dd185fe805b700800000000000000
+      internalID: 555359953118680586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_50
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce536ed1037b1cd40800000000000000
+      internalID: 5602960828713547244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_51
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe0ac2ddacb80440800000000000000
+      internalID: 4902375649144606399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_52
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e6fd3c95d5fff60800000000000000
+      internalID: 8070271697390890514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_53
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6913206658d599f00800000000000000
+      internalID: 1124032409529102742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_54
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dded68c0a9c6ef0800000000000000
+      internalID: -113546511998067386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_55
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa57e0c3d5afdaf50800000000000000
+      internalID: 6894441882920580522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_56
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 431
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2253325c778954d40800000000000000
+      internalID: 5568024154489435426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_57
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6af153dfd3bb4a90800000000000000
+      internalID: -7328566194710906257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_58
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633b65c65c5040f00800000000000000
+      internalID: 1081996155960079158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_59
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c70b37e9b876b2b0800000000000000
+      internalID: -5569131149353351230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_60
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0a97f951b553620800000000000000
+      internalID: 2753206895634915498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_61
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e71d40537e2a8a60800000000000000
+      internalID: 7676999587609778149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_62
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72730d0f638c88f0800000000000000
+      internalID: -536909742580993414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_63
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0b5b76737736cf80800000000000000
+      internalID: -8086715111848584434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_64
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a1c416dd21f6ca0800000000000000
+      internalID: -6021573434741614029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_65
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb9786eb06a658e0800000000000000
+      internalID: -1704992838870656034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_66
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a4e785c53748b90800000000000000
+      internalID: -7240535460446057870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_67
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220b95d69b80dc570800000000000000
+      internalID: 8488450465159819298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_68
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc4f07415cb12f50800000000000000
+      internalID: 6854967165105163443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_69
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924177e076d9418b0800000000000000
+      internalID: -5182344205246720983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_70
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa0792f9413adce0800000000000000
+      internalID: -1379736142163277058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_71
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d511a13996c09a920800000000000000
+      internalID: 3001944274198204765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_72
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fe39381286c0900800000000000000
+      internalID: 652010539212599116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_73
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac258779781050590800000000000000
+      internalID: -7708753505301278006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_74
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d88527ce11a39990800000000000000
+      internalID: -7380378210767894314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_75
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 383
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee1de2f3c9581330800000000000000
+      internalID: 3681791393504501474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_76
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971a53633d91c1eb0800000000000000
+      internalID: -4747891512217067143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_77
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10593983024aafe30800000000000000
+      internalID: 4538120032824300801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_78
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef792d4179c46e900800000000000000
+      internalID: 713341802757920766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_79
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfbe937f14a70c10800000000000000
+      internalID: 2019763412889681848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_80
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232475a1f8fad1530800000000000000
+      internalID: 3827408287491899954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_81
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192459df1cba0ae00800000000000000
+      internalID: 1054031162476151441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_82
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e78b2b2fda7b150800000000000000
+      internalID: 5888366295702339131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_83
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c84830cc37e3aee0800000000000000
+      internalID: -1250902023369897784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_84
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3be878f973102f20800000000000000
+      internalID: 3395735533617998654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_85
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38649e989b6672720800000000000000
+      internalID: 2821336638639654531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_86
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1118c2cd31a0e5dd0800000000000000
+      internalID: -2495546063102115567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_87
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54caa7ccd807fea0800000000000000
+      internalID: -5839188647526874018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_88
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f733346cc527880e0800000000000000
+      internalID: -2267436669592194177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_89
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f44e0feef11ad90800000000000000
+      internalID: -7088349227400278148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_90
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5941f7f0fd2d7c60800000000000000
+      internalID: 7817455041160235359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_91
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2884cd41995aa50800000000000000
+      internalID: 6531795149444907731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_92
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6872802f8044bdaa0800000000000000
+      internalID: -6135235262151121018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_93
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c01564c977a39bd0800000000000000
+      internalID: -2624570016399028023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_94
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 335
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e1d7a5ea4288d0800000000000000
+      internalID: -2845629664321216072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_95
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09871c7e586e71d0800000000000000
+      internalID: -3351126317698938611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_96
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348f2399a9d1f1fe0800000000000000
+      internalID: -1216220824534321085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_97
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ecc7d61aa619580800000000000000
+      internalID: -8822152953482916300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_98
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a29c2f0e0c076e0800000000000000
+      internalID: -1841760175216055713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_99
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb21317b9220d0ef0800000000000000
+      internalID: -140453635190222149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_100
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c676a63c6fd8290800000000000000
+      internalID: -7886376053291651976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_101
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36912df0bf533710800000000000000
+      internalID: 1671785100450305594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_102
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b9e56f774425e80800000000000000
+      internalID: -8191409490208318566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_103
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3029245fc42d64b00800000000000000
+      internalID: 812568010761081347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_104
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fb14a3b36cd59b0800000000000000
+      internalID: -5089694046176035043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_105
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69df1aa27a0ea76d0800000000000000
+      internalID: -2991831993854853738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_106
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86cac54eb94e1100800000000000000
+      internalID: 80582924902778511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_107
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fb15431048e7eb0800000000000000
+      internalID: -4720190218730094756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_108
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c83c17a4127d6d0800000000000000
+      internalID: -2965865225980244848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_109
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254bc10ff1e5eab50800000000000000
+      internalID: 6606321194664506450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_110
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4b4e5e9899d6e50800000000000000
+      internalID: 6804263429573227732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_111
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eab9b957d8222640800000000000000
+      internalID: 5053646637251541728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_112
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e28e08bd01ba040800000000000000
+      internalID: 4659836774391492220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_113
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 287
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3db8bc110dae140800000000000000
+      internalID: 4749837531863569379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_114
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda631026c4ea87e0800000000000000
+      internalID: -1762344764569326882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_115
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2179472d716161da0800000000000000
+      internalID: -5974563564089469166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_116
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7cbfdf4c76466d0800000000000000
+      internalID: -2998157356149520413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_117
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcbcf716c04fef90800000000000000
+      internalID: -6922242882695021319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_118
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a32b4afc3b3c4a70800000000000000
+      internalID: 8812483703940522917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_119
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bc4f75a2aac5670800000000000000
+      internalID: 8528878893173885757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_120
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59c2af6ba5a31bf0800000000000000
+      internalID: -354757789901207206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_121
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0579cd6755b749490800000000000000
+      internalID: -7740426252546435248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_122
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331af85623dcdfbb0800000000000000
+      internalID: -4900535203173261005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_123
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106e59dfd0afcfb90800000000000000
+      internalID: -7206610365703657983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_124
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284ac845cae16d840800000000000000
+      internalID: 5248416141248603266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_125
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a716718c0f3cb880800000000000000
+      internalID: -8593924665985591390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_126
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4413f9058e3f96c20800000000000000
+      internalID: 3200357189334020420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_127
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89993294491bb9f0800000000000000
+      internalID: -451739555318883958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_128
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f897eff296fb83ee0800000000000000
+      internalID: -1281063635489228401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_129
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c3f6b0e7653de10800000000000000
+      internalID: 2221214140581493868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_130
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed61227920e25f90800000000000000
+      internalID: -6966259204975661598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_131
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfeebe423004a040800000000000000
+      internalID: 4657848130677436341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_132
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 239
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0817678194df4e90800000000000000
+      internalID: -7039173971049768945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_133
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbf447ddccf2f240800000000000000
+      internalID: 4824196111877340081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_134
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a841aacd7b3fc20800000000000000
+      internalID: 3239134715383679580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e371f6bc45aa63c0800000000000000
+      internalID: -4365495139876899871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_136
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e805f7dd02bb0e7b0800000000000000
+      internalID: -5196948220156096370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_137
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7a72ffa39380ff0800000000000000
+      internalID: -69742868672567301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_138
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be30b283e78c00ba0800000000000000
+      internalID: -6124675048790096917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_139
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1deb768d9314a6d90800000000000000
+      internalID: -7103793745523917103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_140
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203dee42e99e52750800000000000000
+      internalID: 6279682120871760642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_141
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7c610e03f820430800000000000000
+      internalID: 3747715280006465471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_142
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728aecae80bf98990800000000000000
+      internalID: -7383094098379495385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_143
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d86cdec226913b0800000000000000
+      internalID: -5541289921395389177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_144
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9b5bc7e115f4850800000000000000
+      internalID: 6363393989880953303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_145
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d16a3307ed1c440800000000000000
+      internalID: 4954485638568484238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_146
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d188bf53dcc46610800000000000000
+      internalID: 1613639774721573331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_147
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa72057b7e65aa9a0800000000000000
+      internalID: -6221064382046001238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_148
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05757486bd6df5380800000000000000
+      internalID: -8980222894117791920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_149
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb220a5976f363e0800000000000000
+      internalID: -2061533203343987764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_150
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d564a0416e1212b0800000000000000
+      internalID: -5615392382332410413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_151
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 191
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca27515e11a7a2380800000000000000
+      internalID: -8995243088442723668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_152
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd773544e7a79c9b0800000000000000
+      internalID: -5059378023643252771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_153
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4c52b6e2f1bdc30800000000000000
+      internalID: 4385132946401903810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_154
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa8a1a67d321a090800000000000000
+      internalID: -8025093652892448085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_155
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b222c4d62bfd0a90800000000000000
+      internalID: -7345939272974589259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_156
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f51a42d220328860800000000000000
+      internalID: 7530634453031982581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_157
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148e6f192c3840db0800000000000000
+      internalID: -4826588028938557375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_158
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e252bd562f7ede80800000000000000
+      internalID: -8151938472736566560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_159
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7179e3b651f88b2b0800000000000000
+      internalID: -5568543617087269097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_160
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa56806c11bbc980800000000000000
+      internalID: -8517519534804542809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_161
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac95fd2651cf790800000000000000
+      internalID: -7495092165453166073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_162
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4174c7a25458470800000000000000
+      internalID: 8396193129078134005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_163
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054b49dcdfa0e73f0800000000000000
+      internalID: -901270790235442096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_164
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f14ec82362cf34b0800000000000000
+      internalID: -5458430492207595016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_165
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc370e5d5b810480800000000000000
+      internalID: -8934706952600601354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_166
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dabbd9c147cce8d0800000000000000
+      internalID: -2815656581639980335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_167
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58bff3cf8640ad30800000000000000
+      internalID: 4440626815869892702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_168
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffe0ece2a33f2eb0800000000000000
+      internalID: -4742515107745959946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_169
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1acd80bd42674f0800000000000000
+      internalID: -831436558038162959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_170
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 143
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f88eee24a7304e0800000000000000
+      internalID: -2016633780237201550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_171
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e594289f0c2c6f0800000000000000
+      internalID: -665757617032176054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_172
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f037fb83dc413ada0800000000000000
+      internalID: -5934877012291259633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_173
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd68be4045f137720800000000000000
+      internalID: 2842650235521173213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_174
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab568cedc14bce70800000000000000
+      internalID: 9136468621743512484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_175
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbec13e2c9a1141d0800000000000000
+      internalID: -3368381788204183873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_176
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d779994d9f4e8140800000000000000
+      internalID: 4723800596121483225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_177
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba2535f1d7adf7a0800000000000000
+      internalID: -6341728180063884624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_178
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376d826cce8675bd0800000000000000
+      internalID: -2641527290283370893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_179
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42187f437ded4c2a0800000000000000
+      internalID: -6717999728241966812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_180
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2607d09d0e3ff770800000000000000
+      internalID: 8646698037560149548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_181
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c787e96c0dfb4af0800000000000000
+      internalID: -410956711216052279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_182
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e7f0fe9672eea40800000000000000
+      internalID: 5399296339199622807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_183
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2131218b18cbaf0800000000000000
+      internalID: -379285641028758807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_184
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80cab59aed512cb0800000000000000
+      internalID: -4890524458231873393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_185
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0515fc86e84ab0c40800000000000000
+      internalID: 5479654303177068880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_186
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeb50475882653b0800000000000000
+      internalID: -5524183339281039637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_187
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910ca27c451b71510800000000000000
+      internalID: 1519878376937668633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_188
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022b53cfa814f79e0800000000000000
+      internalID: -1621505275637419488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_189
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 95
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b87eb493ad2fd7b0800000000000000
+      internalID: -5197385264363833168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_190
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a05eed6f1e911030800000000000000
+      internalID: 3463723446250131625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_191
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2629daec7e1c9b0800000000000000
+      internalID: -5061509631326395685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_192
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c7edc29200fb290800000000000000
+      internalID: -7872573446773900240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_193
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78bccf825dfee07b0800000000000000
+      internalID: -5256000016300061817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_194
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843204535aa94d910800000000000000
+      internalID: 1861282580364534600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_195
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d48517d9ab65c40800000000000000
+      internalID: 5500789180253883697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_196
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf1c5b3881266190800000000000000
+      internalID: -7969645621590351908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_197
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fc4f4f104615050800000000000000
+      internalID: 5787516955715227440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_198
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1badb02319b9a880800000000000000
+      internalID: -8599138521682433251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_199
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5159883c74a6360800000000000000
+      internalID: 7163617062421861844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_200
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362a61385aa11e740800000000000000
+      internalID: 5179450344624005731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_201
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1e76cba8124a4b0800000000000000
+      internalID: -5430178370951847430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_202
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5359ebc402e3b7c80800000000000000
+      internalID: -8323991177816795851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_203
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750479114f4ef4d30800000000000000
+      internalID: 4418001496392024151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_204
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a9d35d83a616900800000000000000
+      internalID: 675938211410582030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_205
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f5ccb716fcc1550800000000000000
+      internalID: 6133004810167541603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_206
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3471e7453763c90800000000000000
+      internalID: -7190432948320517180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_207
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385013b2f0eba6440800000000000000
+      internalID: 4929961714468849027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baseinverted_208
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 47
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f16896e3de020a50800000000000000
+      internalID: 6485762716636570104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

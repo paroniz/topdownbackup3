@@ -9,7 +9,7 @@ public class heroampuu : MonoBehaviour {
     
     void Start() {}
 
-    void Update() {
+    void FixedUpdate() {
         if(Input.GetMouseButtonDown(0)) 
         {
             Rigidbody2D ammus = Instantiate(panos, transform.position, transform.rotation);

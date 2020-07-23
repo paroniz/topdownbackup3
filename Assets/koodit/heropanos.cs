@@ -12,7 +12,7 @@ public class heropanos : MonoBehaviour {
     void Start() 
     { 
         fabu = GameObject.Find("fabu1");
-        this.ani = this.GetComponent<Animator>();
+        //this.ani = this.GetComponent<Animator>();
     }
 
     void Update() 
@@ -51,7 +51,8 @@ public class heropanos : MonoBehaviour {
 
    IEnumerator osui()
     {
-       ani.SetInteger("osui", 1);
+       //ani.SetInteger("osui", 1);
+
         //transform.gameObject.tag = "kuollutmonsu"; 
        // kuolinhuuto.Play();
         //GameObject kuolinanimaatio = Instantiate(kuolinani, transform.position, transform.rotation);
