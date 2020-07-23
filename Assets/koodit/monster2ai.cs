@@ -41,6 +41,6 @@ using UnityEngine;
         Rigidbody2D ammus3 = Instantiate(panos, transform.position+new Vector3(1,1,0), transform.rotation);
         ammus3.transform.Rotate(new Vector3(0, 0, luotirotaatio2));
         ammus3.AddForce(transform.right * 10f * luotinopeus2);
-        Debug.Log(luotinopeus2);
+        
     }
 }

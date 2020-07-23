@@ -8,11 +8,12 @@ public class PauseMenu : MonoBehaviour {
     public GameObject pausemenu;
     public GameObject paneeli;
     public GameObject canvas2;
+    private GameObject hero;
 
     void Start() {}
 
     void Update() {
-        if (Input.GetKeyDown(KeyCode.Escape) &&  (!canvas2.active))
+        if ((Input.GetKeyDown(KeyCode.Escape) || (Input.GetButtonDown("Start"))) &&  (!canvas2.active))
         {
             if (GameIsPaused)
             {
@@ -23,13 +24,21 @@ public class PauseMenu : MonoBehaviour {
                 Pause();
             }
         }
+
+        hero = GameObject.FindWithTag("hero");
     }
 
-    void Resume()
+   public void Resume()
     {
         pausemenu.SetActive(false);
+        paneeli.SetActive(true);
         Time.timeScale = 1f;
         GameIsPaused = false;
+        
+        if(hero.GetComponent<joystickrotaatio>().enabled == true)
+        {
+            Cursor.visible = false;
+        }
     }
 
     void Pause ()
