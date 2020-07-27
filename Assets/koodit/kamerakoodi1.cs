@@ -4,11 +4,40 @@ using UnityEngine;
 
 public class kamerakoodi1 : MonoBehaviour {
          
-         public GameObject target;
-    public Rigidbody2D target2;
+        
+    private GameObject target;
+    private Rigidbody2D target2;
+    string ladattu;
+    string tuhottu;
+    public GameObject rahatscreeni;
+    public GameObject rahatukku;
+    
    
     void Start() {
+        Time.timeScale = 1f;
+        ladattu = PlayerPrefs.GetString("ladattu");
+        tuhottu = PlayerPrefs.GetString("tuhottu1");
         
+        // if(ladattu =="joo")
+        // {
+        //     target = GameObject.FindWithTag("hero");
+        //     target.GetComponent<herodelaus>().hp = PlayerPrefs.GetInt("hp"); 
+        //     rahatscreeni.GetComponent<UnityEngine.UI.Text>().text = PlayerPrefs.GetString("rahat");;
+        //     float playerPositionX = PlayerPrefs.GetFloat("playerPositionX");
+        //     float playerPositionY = PlayerPrefs.GetFloat("playerPositionY");
+        //     Vector3 playerPosition = new Vector3(playerPositionX, playerPositionY);
+        //     target.transform.position =  playerPosition;
+        
+        //     if(tuhottu =="joo")
+        //     {
+        //         Destroy(rahatukku);
+        //     }
+        // }
+        
+        // else
+        // {
+        //     Debug.Log("ei ladattu");
+        // }
     }
 
 

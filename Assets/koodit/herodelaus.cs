@@ -59,6 +59,7 @@ public class herodelaus : MonoBehaviour {
 
         if (hp <= 0)
         {
+            hp = 0;
             kuollut = true;
             StartCoroutine(kuolema());
         }

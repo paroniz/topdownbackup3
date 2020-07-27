@@ -6,14 +6,47 @@ public class heroampuu : MonoBehaviour {
 
     public Rigidbody2D panos;
     public float luotinopeus = 80f;
-    
+    public int asemoodi = 1;
+    public float luotirotaatio = 90;
+    private Vector3 herorotaatio;
+    private GameObject hero;
+
+
+
     void Start() {}
 
-    void FixedUpdate() {
-        if(Input.GetMouseButtonDown(0)) 
-        {
-            Rigidbody2D ammus = Instantiate(panos, transform.position, transform.rotation);
-            ammus.AddForce(new Vector2(luotinopeus,0), ForceMode2D.Impulse);
-        }
+    void Update() {
+      hero = GameObject.FindWithTag("hero");
+        if(Input.GetButtonDown("Fire1")) 
+      { 
+       float angleX = hero.transform.rotation.eulerAngles.x; 
+       float angleY = hero.transform.rotation.eulerAngles.y;
+        float angleZ = hero.transform.rotation.eulerAngles.z;
+         if (asemoodi == 1)
+         {
+            Rigidbody2D ammus = Instantiate(panos, transform.position + new Vector3 (1f,1f,0) , transform.rotation);
+            ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
+            herorotaatio = hero.transform.rotation.eulerAngles;
+            ammus.AddForce(new Vector3 (angleX, angleY, angleZ ) * 900f * luotinopeus);
+           
+         }
+
+        //  if (asemoodi == 2)
+        //  {
+        //     Rigidbody2D ammus = Instantiate(panos, transform.position + new Vector3 (0.2f,0.2f,0), transform.rotation);
+        //     Rigidbody2D ammus2 = Instantiate(panos, transform.position, transform.rotation);
+        //     ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
+        //     ammus.AddForce(lookPos * 900f * luotinopeus);
+        //     ammus2.transform.Rotate(new Vector3(0, 0, luotirotaatio));
+        //     ammus2.AddForce(lookPos * 900f * luotinopeus);
+            
+        //  }
+        //  if (asemoodi == 3)
+        //  {
+        //     Rigidbody2D ammus = Instantiate(panos, transform.position+ new Vector3 (0.2f,0.2f,0), transform.rotation);
+        //     ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
+        //     ammus.AddForce(lookPos * 900f * luotinopeus);
+        //  }
+      }
     }
 }

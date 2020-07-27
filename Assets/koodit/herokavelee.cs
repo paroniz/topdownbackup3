@@ -45,7 +45,7 @@ public int asemoodi = 1;
       
          if (asemoodi == 1)
          {
-            Rigidbody2D ammus = Instantiate(panos, transform.position + new Vector3 (0.2f,0.2f,0) , transform.rotation);
+            Rigidbody2D ammus = Instantiate(panos, transform.position + new Vector3 (0,0,0) , transform.rotation);
             ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
             ammus.AddForce(lookPos * 900f * luotinopeus);
            
