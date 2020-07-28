@@ -22,12 +22,17 @@ public class heroampuu : MonoBehaviour {
        float angleX = hero.transform.rotation.eulerAngles.x; 
        float angleY = hero.transform.rotation.eulerAngles.y;
         float angleZ = hero.transform.rotation.eulerAngles.z;
+      string anglex= angleX.ToString(); 
+     string  angley= angleY.ToString(); 
+        Debug.Log(anglex);
+        Debug.Log(angley);
          if (asemoodi == 1)
          {
-            Rigidbody2D ammus = Instantiate(panos, transform.position + new Vector3 (1f,1f,0) , transform.rotation);
+            Rigidbody2D ammus = Instantiate(panos, transform.position, transform.rotation);
             ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
             herorotaatio = hero.transform.rotation.eulerAngles;
-            ammus.AddForce(new Vector3 (angleX, angleY, angleZ ) * 900f * luotinopeus);
+            
+            ammus.AddForce(ammus.transform.right * 900f * luotinopeus);
            
          }
 

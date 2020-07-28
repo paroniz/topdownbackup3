@@ -40,34 +40,34 @@ public int asemoodi = 1;
       transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
       this.transform.Rotate(new Vector3(0, 0, rotaatiokerroin));
 
-      if(Input.GetButtonDown("Fire1")) 
-      { 
+      // if(Input.GetButtonDown("Fire1")) 
+      // { 
       
-         if (asemoodi == 1)
-         {
-            Rigidbody2D ammus = Instantiate(panos, transform.position + new Vector3 (0,0,0) , transform.rotation);
-            ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
-            ammus.AddForce(lookPos * 900f * luotinopeus);
+      //    if (asemoodi == 1)
+      //    {
+      //       Rigidbody2D ammus = Instantiate(panos, transform.position + new Vector3 (0,0,0) , transform.rotation);
+      //       ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
+      //       ammus.AddForce(Vector3.up * 900f * luotinopeus);
            
-         }
+      //    }
 
-         if (asemoodi == 2)
-         {
-            Rigidbody2D ammus = Instantiate(panos, transform.position + new Vector3 (0.2f,0.2f,0), transform.rotation);
-            Rigidbody2D ammus2 = Instantiate(panos, transform.position, transform.rotation);
-            ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
-            ammus.AddForce(lookPos * 900f * luotinopeus);
-            ammus2.transform.Rotate(new Vector3(0, 0, luotirotaatio));
-            ammus2.AddForce(lookPos * 900f * luotinopeus);
+      //    if (asemoodi == 2)
+      //    {
+      //       Rigidbody2D ammus = Instantiate(panos, transform.position + new Vector3 (0.2f,0.2f,0), transform.rotation);
+      //       Rigidbody2D ammus2 = Instantiate(panos, transform.position, transform.rotation);
+      //       ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
+      //       ammus.AddForce(lookPos * 900f * luotinopeus);
+      //       ammus2.transform.Rotate(new Vector3(0, 0, luotirotaatio));
+      //       ammus2.AddForce(lookPos * 900f * luotinopeus);
             
-         }
-         if (asemoodi == 3)
-         {
-            Rigidbody2D ammus = Instantiate(panos, transform.position+ new Vector3 (0.2f,0.2f,0), transform.rotation);
-            ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
-            ammus.AddForce(lookPos * 900f * luotinopeus);
-         }
-      }
+      //    }
+      //    if (asemoodi == 3)
+      //    {
+      //       Rigidbody2D ammus = Instantiate(panos, transform.position+ new Vector3 (0.2f,0.2f,0), transform.rotation);
+      //       ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
+      //       ammus.AddForce(lookPos * 900f * luotinopeus);
+      //    }
+      // }
    }
 
     void OnCollisionEnter2D(Collision2D collision)

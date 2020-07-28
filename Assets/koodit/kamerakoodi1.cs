@@ -11,18 +11,21 @@ public class kamerakoodi1 : MonoBehaviour {
     string tuhottu;
     public GameObject rahatscreeni;
     public GameObject rahatukku;
+   
+     
     
    
     void Start() {
         Time.timeScale = 1f;
         ladattu = PlayerPrefs.GetString("ladattu");
         tuhottu = PlayerPrefs.GetString("tuhottu1");
+    
         
         // if(ladattu =="joo")
         // {
         //     target = GameObject.FindWithTag("hero");
         //     target.GetComponent<herodelaus>().hp = PlayerPrefs.GetInt("hp"); 
-        //     rahatscreeni.GetComponent<UnityEngine.UI.Text>().text = PlayerPrefs.GetString("rahat");;
+        //     rahatscreeni.GetComponent<UnityEngine.UI.Text>().text = PlayerPrefs.GetString("rahat");
         //     float playerPositionX = PlayerPrefs.GetFloat("playerPositionX");
         //     float playerPositionY = PlayerPrefs.GetFloat("playerPositionY");
         //     Vector3 playerPosition = new Vector3(playerPositionX, playerPositionY);

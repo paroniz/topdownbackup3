@@ -34,7 +34,7 @@ PrefabInstance:
     - target: {fileID: 3250802170712029656, guid: 16f646bf78e37fc4d9589c0cd89d286c,
         type: 3}
       propertyPath: m_Name
-      value: plasmaprojectile Variant
+      value: vihuprojektiili
       objectReference: {fileID: 0}
     - target: {fileID: 3250802170712029656, guid: 16f646bf78e37fc4d9589c0cd89d286c,
         type: 3}
@@ -100,6 +100,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4599595027278650995, guid: 16f646bf78e37fc4d9589c0cd89d286c,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4599595027278650995, guid: 16f646bf78e37fc4d9589c0cd89d286c,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8906832787825090216, guid: 16f646bf78e37fc4d9589c0cd89d286c,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -965197124849176680, guid: 16f646bf78e37fc4d9589c0cd89d286c, type: 3}

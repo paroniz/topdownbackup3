@@ -586,6 +586,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f518ee7e3af76e544b7834024c14696a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  firstcontrols2: {fileID: 0}
+  firstcontrols3: {fileID: 0}
+  pausemenu: {fileID: 0}
+  options2: {fileID: 0}
 --- !u!1 &435788098
 GameObject:
   m_ObjectHideFlags: 0
@@ -1512,6 +1516,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f518ee7e3af76e544b7834024c14696a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  firstcontrols2: {fileID: 0}
+  firstcontrols3: {fileID: 0}
+  pausemenu: {fileID: 0}
+  options2: {fileID: 0}
 --- !u!114 &2023902734
 MonoBehaviour:
   m_ObjectHideFlags: 0
