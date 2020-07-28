@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -1046642303943520924}
   - component: {fileID: 7469096748359982168}
   - component: {fileID: 5461123500170430588}
-  m_Layer: 8
+  m_Layer: 12
   m_Name: heroproje1
   m_TagString: heroprojektiili
   m_Icon: {fileID: 0}
