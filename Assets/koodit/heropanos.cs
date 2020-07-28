@@ -43,7 +43,7 @@ public class heropanos : MonoBehaviour {
 
         if(collision.collider.tag == "heroprojektiili")
         {
-            Physics2D.IgnoreLayerCollision(8,8);
+           // Destroy(gameObject); 
         }
 
          

@@ -91,7 +91,7 @@ public class herodelaus : MonoBehaviour {
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        
+        Debug.Log("osui");
         if(collision.collider.tag == "projektiili")
         {
            // audio.Play();
