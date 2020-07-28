@@ -1577,6 +1577,7 @@ MonoBehaviour:
   luotinopeus3: 20
   rotaatiokerroin2: 90
   ammussekunnit: 1
+  laukaus: {fileID: 0}
 --- !u!60 &416422420
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -130307,5 +130308,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: solttu1
       objectReference: {fileID: 0}
+    - target: {fileID: 6669883325516739709, guid: a0a28ffd70e26a54ebf169b2c2f272ff,
+        type: 3}
+      propertyPath: luotirotaatio2
+      value: 270
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669883325516739709, guid: a0a28ffd70e26a54ebf169b2c2f272ff,
+        type: 3}
+      propertyPath: rotaatiokerroin2
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669883325516739709, guid: a0a28ffd70e26a54ebf169b2c2f272ff,
+        type: 3}
+      propertyPath: laukaus
+      value: 
+      objectReference: {fileID: 8300000, guid: a01a4e0dbfda8a249937c9a0a7fdc859, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a0a28ffd70e26a54ebf169b2c2f272ff, type: 3}

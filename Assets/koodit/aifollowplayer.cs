@@ -11,10 +11,14 @@ using UnityEngine;
     public float luotinopeus3 = 80f;
     public float rotaatiokerroin2 = 90f;
     public float ammussekunnit = 1f;
+    public AudioClip laukaus;
+    private AudioSource audio;
 
     void Start()
     {
-        
+        audio = gameObject.AddComponent<AudioSource>(); 
+        audio.clip = laukaus;
+        audio.volume = 0.15f;
     }
      
     void Update()
@@ -40,7 +44,8 @@ using UnityEngine;
     {
         Rigidbody2D ammus3 = Instantiate(panos, transform.position, transform.rotation);
         ammus3.transform.Rotate(new Vector3(0, 0, luotirotaatio2));
-        ammus3.AddForce(ammus3.transform.right * 10f * luotinopeus3);
+        ammus3.AddForce(-ammus3.transform.right * 10f * luotinopeus3);
+        audio.Play();
         
     }
 }

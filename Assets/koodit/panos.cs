@@ -5,11 +5,14 @@ using UnityEngine;
 public class panos : MonoBehaviour {
          
     public float lifetime = 2f;     
-    public float damage = 10;      
+    public float damage = 10;     
+   // private Animator ani = null; 
+    //private bool osui;
+    
 
     void Start() 
     { 
-    
+  //  this.ani = this.GetComponent<Animator>();
    
         
     }
@@ -22,11 +25,28 @@ public class panos : MonoBehaviour {
         {   
             Destroy(gameObject);  
         }
+
+    //      osui = ani.GetBool("osui");
+
+    //    if (osui){
+    //     this.transform.localScale = new Vector3 (2, 2, 2) ;
+        //transform.gameObject.tag = "kuollutmonsu"; 
+       // kuolinhuuto.Play();
+       
     }
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-      
-        
+        StartCoroutine(osui2());
+
     }
+
+       IEnumerator osui2()
+    {
+   
+        //GameObject kuolinanimaatio = Instantiate(kuolinani, transform.position, transform.rotation);
+        yield return new WaitForSeconds(0.5f);
+        Destroy(gameObject); 
+    //ani.SetBool("osui", false);
+    } 
 }
