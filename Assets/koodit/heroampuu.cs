@@ -10,10 +10,16 @@ public class heroampuu : MonoBehaviour {
     public float luotirotaatio = 90;
     private Vector3 herorotaatio;
     private GameObject hero;
+public AudioClip laukaus;
+    private AudioSource audio;
 
 
+    void Start() {
 
-    void Start() {}
+       audio = gameObject.AddComponent<AudioSource>(); 
+        audio.clip = laukaus;
+        audio.volume = 0.3f;
+    }
 
     void Update() {
       hero = GameObject.FindWithTag("hero");
@@ -33,6 +39,7 @@ public class heroampuu : MonoBehaviour {
             herorotaatio = hero.transform.rotation.eulerAngles;
             
             ammus.AddForce(ammus.transform.right * 900f * luotinopeus);
+            audio.Play();
            
          }
 

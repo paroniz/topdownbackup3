@@ -72971,6 +72971,7 @@ MonoBehaviour:
   luotinopeus: 0.05
   asemoodi: 1
   luotirotaatio: 270
+  laukaus: {fileID: 8300000, guid: 9270ddc8630a1654bbce8a26e755b058, type: 3}
 --- !u!1 &1535322562
 GameObject:
   m_ObjectHideFlags: 0
@@ -130307,6 +130308,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: solttu1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669883325516739707, guid: a0a28ffd70e26a54ebf169b2c2f272ff,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6669883325516739709, guid: a0a28ffd70e26a54ebf169b2c2f272ff,
         type: 3}

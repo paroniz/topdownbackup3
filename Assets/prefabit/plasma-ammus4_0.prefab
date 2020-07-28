@@ -156,3 +156,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lifetime: 2
   damage: 10
+  osuma: {fileID: 8300000, guid: 6a0c53dfd71c7fe4a8caf911c459dee8, type: 3}

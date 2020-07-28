@@ -184,6 +184,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lifetime: 2
   damage: 10
+  osuma: {fileID: 8300000, guid: 181c68120cf5c6048897a415bc077598, type: 3}
 --- !u!50 &5461123500170430588
 Rigidbody2D:
   serializedVersion: 4
