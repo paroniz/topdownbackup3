@@ -12,6 +12,14 @@ public class uuspeli2 : MonoBehaviour {
     public void Load() {
                 SceneManager.LoadScene("ekascene");  
                 PlayerPrefs.SetString("ladattu", "ei");
+                PlayerPrefs.SetString("ohjain", "ei");
+
+    }
+
+     public void Loadohjain() {
+                SceneManager.LoadScene("ekascene");  
+                PlayerPrefs.SetString("ladattu", "ei");
+                 PlayerPrefs.SetString("ohjain", "joo");
 
     }
     public void Quit(){

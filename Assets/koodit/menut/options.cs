@@ -22,14 +22,18 @@ string texti2;
 
 public GameObject pausemenu;
     public GameObject options2;
-
+        private string contru;
     void Start() {
+            hero = GameObject.FindWithTag("hero");
         texti = o_Text.text;
        texti2 = o_Text2.text;
 
         o_Text.text = "Mouse";                
         o_Text2.text = "Controller";
-       
+        contru = PlayerPrefs.GetString("ohjain");
+       if (contru == "joo") {
+               vaihto();
+       } 
     }
 
     void Update() {
