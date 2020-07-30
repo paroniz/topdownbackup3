@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/gameover.unity
     guid: d65bd0ec4cf13954b9eeff876d0cad99
+  - enabled: 1
+    path: Assets/Scenes/mouseorcontroller.unity
+    guid: ec140e15f4d42b34db23e57b418e6070
   m_configObjects: {}

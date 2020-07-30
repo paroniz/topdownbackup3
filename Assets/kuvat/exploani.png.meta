@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 677c494ac27cafe4f92e5ae8294b3348
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8461644996347450604
+    second: exploani_0
+  - first:
+      213: -9063959742948421115
+    second: exploani_1
+  - first:
+      213: -1703856100219335709
+    second: exploani_2
+  - first:
+      213: -1490281595113614632
+    second: exploani_3
+  - first:
+      213: -8794921117439703633
+    second: exploani_4
+  - first:
+      213: 5128928499838390163
+    second: exploani_5
+  - first:
+      213: 5426163396890253808
+    second: exploani_6
+  - first:
+      213: -4135396291656686955
+    second: exploani_7
+  - first:
+      213: -5271541272336540941
+    second: exploani_8
+  - first:
+      213: 710381379605866371
+    second: exploani_9
+  - first:
+      213: 4379511434947850029
+    second: exploani_10
+  - first:
+      213: -5555835394014634162
+    second: exploani_11
+  - first:
+      213: 8623453391247469277
+    second: exploani_12
+  - first:
+      213: -3769697210789040874
+    second: exploani_13
+  - first:
+      213: -3145391859760059331
+    second: exploani_14
+  - first:
+      213: 6550523601150542689
+    second: exploani_15
+  - first:
+      213: 96494879456177841
+    second: exploani_16
+  - first:
+      213: 7967700642881151202
+    second: exploani_17
+  - first:
+      213: -8701776120926071064
+    second: exploani_18
+  - first:
+      213: 7997371263948133441
+    second: exploani_19
+  - first:
+      213: -3610211215569790331
+    second: exploani_20
+  - first:
+      213: -7851638061068746102
+    second: exploani_21
+  - first:
+      213: -1954455727910684343
+    second: exploani_22
+  - first:
+      213: -2368810923762287354
+    second: exploani_23
+  - first:
+      213: 4251070986381194613
+    second: exploani_24
+  - first:
+      213: -1882774741975655729
+    second: exploani_25
+  - first:
+      213: -3777604928958162533
+    second: exploani_26
+  - first:
+      213: 962592715108454767
+    second: exploani_27
+  - first:
+      213: -5667484669091992235
+    second: exploani_28
+  - first:
+      213: 8982878933975809676
+    second: exploani_29
+  - first:
+      213: -4477629598239783062
+    second: exploani_30
+  - first:
+      213: -3435954581543023484
+    second: exploani_31
+  - first:
+      213: -4296955141342827381
+    second: exploani_32
+  - first:
+      213: -1396430368457721020
+    second: exploani_33
+  - first:
+      213: -4528166199594185433
+    second: exploani_34
+  - first:
+      213: -4240267044231985897
+    second: exploani_35
+  - first:
+      213: -8903045615599374327
+    second: exploani_36
+  - first:
+      213: -6257204287020341142
+    second: exploani_37
+  - first:
+      213: 3452849695687923303
+    second: exploani_38
+  - first:
+      213: -5245839237899296591
+    second: exploani_39
+  - first:
+      213: -3136952904250691994
+    second: exploani_40
+  - first:
+      213: -1290612563200135476
+    second: exploani_41
+  - first:
+      213: 6943494610407717967
+    second: exploani_42
+  - first:
+      213: 7524342280319952493
+    second: exploani_43
+  - first:
+      213: -3596413014027471653
+    second: exploani_44
+  - first:
+      213: -5284840100496041062
+    second: exploani_45
+  - first:
+      213: 5577431149193980366
+    second: exploani_46
+  - first:
+      213: 4225011821271317485
+    second: exploani_47
+  - first:
+      213: 9009423038962144598
+    second: exploani_48
+  - first:
+      213: 2874130077833393486
+    second: exploani_49
+  - first:
+      213: 379685921982384853
+    second: exploani_50
+  - first:
+      213: -7380091511287897146
+    second: exploani_51
+  - first:
+      213: 3179551893157420686
+    second: exploani_52
+  - first:
+      213: -6042944337861447352
+    second: exploani_53
+  - first:
+      213: -4218747760701456125
+    second: exploani_54
+  - first:
+      213: -2423827685146205702
+    second: exploani_55
+  - first:
+      213: -1368208963727217366
+    second: exploani_56
+  - first:
+      213: -2045696406504062405
+    second: exploani_57
+  - first:
+      213: 5287833316806266759
+    second: exploani_58
+  - first:
+      213: -7249324616297482426
+    second: exploani_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: exploani_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 250
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41baf3125b2329a80800000000000000
+      internalID: -8461644996347450604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploani_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 332
+        width: 250
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5025e1ff2a8563280800000000000000
+      internalID: -9063959742948421115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploani_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 332
+        width: 250
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb4b0e77efaa58e0800000000000000
+      internalID: -1703856100219335709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploani_3
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 332
+        width: 250
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d253fbf8c4715be0800000000000000
+      internalID: -1490281595113614632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exploani_4
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 17
+        width: 82
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5cc6757d922f580800000000000000
+      internalID: -8794921117439703633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

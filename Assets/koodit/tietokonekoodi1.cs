@@ -11,6 +11,9 @@ public class tietokonekoodi1 : MonoBehaviour {
     public GameObject ovi;
     private SpriteRenderer tietorenderer;
     public GameObject elektroovi;
+    public GameObject rajahdysani;
+    public bool kytketty;
+
     
      
     void Start() {}
@@ -24,6 +27,8 @@ public class tietokonekoodi1 : MonoBehaviour {
             Destroy(ovi);
             Destroy(elektroovi);
             voikoskea = false;
+            GameObject rajahjdys = Instantiate(rajahdysani, new Vector2(-23.5f, 50f), transform.rotation);
+            kytketty = true;
         }       
         }
     

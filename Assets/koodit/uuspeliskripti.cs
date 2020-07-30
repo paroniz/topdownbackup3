@@ -10,7 +10,7 @@ public class uuspeliskripti : MonoBehaviour {
     void Update() {}
 
     public void Load() {
-                SceneManager.LoadScene("ekascene");  
+                SceneManager.LoadScene("mouseorcontroller");  
                 PlayerPrefs.SetString("ladattu", "ei");
 
     }

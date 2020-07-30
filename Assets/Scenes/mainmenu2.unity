@@ -453,7 +453,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &382905921
 RectTransform:
   m_ObjectHideFlags: 0
@@ -764,6 +764,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   firstcontrols2: {fileID: 0}
   firstcontrols3: {fileID: 0}
+  vaihtoteksti: {fileID: 0}
+  o_Text: {fileID: 0}
+  o_Text2: {fileID: 0}
+  o_Color: {r: 0, g: 0, b: 0, a: 0}
   pausemenu: {fileID: 1690289065}
   options2: {fileID: 2112074193}
 --- !u!222 &544464288
@@ -1312,7 +1316,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 
 --- !u!222 &1023086437
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -3155,8 +3159,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f518ee7e3af76e544b7834024c14696a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  firstcontrols2: {fileID: 0}
-  firstcontrols3: {fileID: 0}
+  firstcontrols2: {fileID: 874981142}
+  firstcontrols3: {fileID: 1158150035}
+  vaihtoteksti: {fileID: 0}
+  o_Text: {fileID: 482188138}
+  o_Text2: {fileID: 1810651831}
+  o_Color: {r: 0, g: 0, b: 0, a: 0}
   pausemenu: {fileID: 1690289065}
   options2: {fileID: 2112074193}
 --- !u!1 &2112074193
@@ -3177,7 +3185,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2112074194
 MonoBehaviour:
   m_ObjectHideFlags: 0
