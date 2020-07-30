@@ -7,12 +7,12 @@ ScriptsOnlyBuild:
     - aseenvaihtokoodi
     - avaaviesti1
     - brikkikoodi1
+    - gameoverscript
     - heroampuu
     - herodelaus
     - herokavelee
     - heropanos
     - hissikoodi1
-    - hissikoodi2
     - introkoodi1
     - joystickrotaatio
     - kamerakoodi1
@@ -31,8 +31,10 @@ ScriptsOnlyBuild:
     - rahakoodi1
     - rahamaasta
     - sampleagentscript
+    - tallennuskysymyksella
     - tallennusskripti
     - tietokonekoodi1
+    - tietokonekoodi2
     - uuspeliskripti
     - viestikoodi1
     NavMeshComponents.dll:
@@ -98,6 +100,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 61
       Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
@@ -117,71 +121,71 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11196}
     - Class: 114
-      Script: {instanceID: 11250}
+      Script: {instanceID: 11246}
     - Class: 114
-      Script: {instanceID: 11280}
+      Script: {instanceID: 11252}
     - Class: 114
-      Script: {instanceID: 11296}
+      Script: {instanceID: 11282}
     - Class: 114
-      Script: {instanceID: 11316}
+      Script: {instanceID: 11298}
     - Class: 114
-      Script: {instanceID: 11396}
+      Script: {instanceID: 11318}
     - Class: 114
-      Script: {instanceID: 11416}
+      Script: {instanceID: 11398}
     - Class: 114
-      Script: {instanceID: 11450}
+      Script: {instanceID: 11418}
     - Class: 114
-      Script: {instanceID: 11512}
+      Script: {instanceID: 11452}
     - Class: 114
-      Script: {instanceID: 11566}
+      Script: {instanceID: 11514}
     - Class: 114
-      Script: {instanceID: 11672}
+      Script: {instanceID: 11568}
     - Class: 114
-      Script: {instanceID: 11678}
+      Script: {instanceID: 11674}
     - Class: 114
-      Script: {instanceID: 11750}
+      Script: {instanceID: 11680}
     - Class: 114
-      Script: {instanceID: 12068}
+      Script: {instanceID: 11752}
     - Class: 114
-      Script: {instanceID: 12106}
+      Script: {instanceID: 12070}
     - Class: 114
-      Script: {instanceID: 12240}
+      Script: {instanceID: 12108}
     - Class: 114
       Script: {instanceID: 12242}
     - Class: 114
-      Script: {instanceID: 12408}
+      Script: {instanceID: 12244}
     - Class: 114
-      Script: {instanceID: 12494}
+      Script: {instanceID: 12410}
     - Class: 114
-      Script: {instanceID: 12790}
+      Script: {instanceID: 12496}
     - Class: 114
-      Script: {instanceID: 12864}
+      Script: {instanceID: 12792}
     - Class: 114
-      Script: {instanceID: 12960}
+      Script: {instanceID: 12866}
     - Class: 114
-      Script: {instanceID: 12982}
+      Script: {instanceID: 12962}
     - Class: 114
-      Script: {instanceID: 13010}
+      Script: {instanceID: 12984}
     - Class: 114
-      Script: {instanceID: 13080}
+      Script: {instanceID: 13012}
     - Class: 114
-      Script: {instanceID: 13242}
+      Script: {instanceID: 13082}
     - Class: 114
       Script: {instanceID: 13244}
     - Class: 114
-      Script: {instanceID: 13284}
+      Script: {instanceID: 13246}
     - Class: 114
-      Script: {instanceID: 13348}
+      Script: {instanceID: 13286}
     - Class: 114
-      Script: {instanceID: 13486}
+      Script: {instanceID: 13350}
     - Class: 114
-      Script: {instanceID: 13528}
+      Script: {instanceID: 13488}
     - Class: 114
-      Script: {instanceID: 13570}
+      Script: {instanceID: 13530}
     - Class: 114
-      Script: {instanceID: 13664}
+      Script: {instanceID: 13572}
     - Class: 114
-      Script: {instanceID: 13728}
+      Script: {instanceID: 13666}
     - Class: 114
       Script: {instanceID: 13746}
     - Class: 114
@@ -193,7 +197,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 14368}
     - Class: 114
-      Script: {instanceID: 14446}
+      Script: {instanceID: 14450}
+    - Class: 114
+      Script: {instanceID: 19270}
+    - Class: 114
+      Script: {instanceID: 28562}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -244,15 +252,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11196}
     - Class: 114
-      Script: {instanceID: 11512}
+      Script: {instanceID: 11514}
     - Class: 114
-      Script: {instanceID: 11566}
+      Script: {instanceID: 11568}
     - Class: 114
-      Script: {instanceID: 12242}
+      Script: {instanceID: 12244}
     - Class: 114
       Script: {instanceID: 13746}
     - Class: 114
       Script: {instanceID: 14368}
+    - Class: 114
+      Script: {instanceID: 14390}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -289,15 +299,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11196}
     - Class: 114
-      Script: {instanceID: 11512}
+      Script: {instanceID: 11514}
     - Class: 114
-      Script: {instanceID: 11566}
+      Script: {instanceID: 11568}
     - Class: 114
-      Script: {instanceID: 12242}
+      Script: {instanceID: 12244}
     - Class: 114
-      Script: {instanceID: 12840}
+      Script: {instanceID: 12842}
     - Class: 114
-      Script: {instanceID: 12960}
+      Script: {instanceID: 12962}
     - Class: 114
       Script: {instanceID: 13746}
     - Class: 114
@@ -350,29 +360,90 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11196}
     - Class: 114
-      Script: {instanceID: 11292}
+      Script: {instanceID: 11294}
     - Class: 114
-      Script: {instanceID: 11512}
+      Script: {instanceID: 11514}
     - Class: 114
-      Script: {instanceID: 11566}
+      Script: {instanceID: 11568}
     - Class: 114
-      Script: {instanceID: 11672}
+      Script: {instanceID: 11674}
     - Class: 114
-      Script: {instanceID: 12242}
+      Script: {instanceID: 12244}
     - Class: 114
-      Script: {instanceID: 12294}
+      Script: {instanceID: 12296}
     - Class: 114
-      Script: {instanceID: 12960}
+      Script: {instanceID: 12962}
     - Class: 114
-      Script: {instanceID: 13316}
+      Script: {instanceID: 13318}
     - Class: 114
-      Script: {instanceID: 13334}
+      Script: {instanceID: 13336}
     - Class: 114
       Script: {instanceID: 13746}
     - Class: 114
       Script: {instanceID: 13906}
     - Class: 114
       Script: {instanceID: 14026}
+    - Class: 114
+      Script: {instanceID: 14138}
+    - Class: 114
+      Script: {instanceID: 14214}
+    - Class: 114
+      Script: {instanceID: 14368}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Scenes/mouseorcontroller.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11196}
+    - Class: 114
+      Script: {instanceID: 11294}
+    - Class: 114
+      Script: {instanceID: 11514}
+    - Class: 114
+      Script: {instanceID: 11568}
+    - Class: 114
+      Script: {instanceID: 11674}
+    - Class: 114
+      Script: {instanceID: 12244}
+    - Class: 114
+      Script: {instanceID: 12962}
+    - Class: 114
+      Script: {instanceID: 13746}
+    - Class: 114
+      Script: {instanceID: 13906}
     - Class: 114
       Script: {instanceID: 14138}
     - Class: 114
@@ -414,6 +485,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 27b69ea2229e366e1cb54f3669ae2cd3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: tietokonekoodi2
   - hash:
       serializedVersion: 2
       Hash: d0791a42c1f24679e1cfe95fc0dd229e
@@ -854,7 +931,7 @@ ScriptsOnlyBuild:
     className: rahamaasta
   - hash:
       serializedVersion: 2
-      Hash: 502f620dbd9fdf1b8cc9bcca1836234b
+      Hash: aae7a501330df56eae6d5991d42a160c
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: kytkinkoodi1
@@ -938,7 +1015,7 @@ ScriptsOnlyBuild:
     className: viestikoodi1
   - hash:
       serializedVersion: 2
-      Hash: 0c63da8a24259fbda81c6f080b02657b
+      Hash: 60899d84888a1994fcffe2d6d4c34fd8
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: tietokonekoodi1
@@ -972,12 +1049,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: AudioTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: hissikoodi2
   - hash:
       serializedVersion: 2
       Hash: ae83e830e7a90c0aff918c4c2e520825
@@ -1034,7 +1105,7 @@ ScriptsOnlyBuild:
     className: TMP_ColorGradient
   - hash:
       serializedVersion: 2
-      Hash: 9a1717e95557b1313a3223842fa615fa
+      Hash: 2b2a0f16abbccf3423f301af461cb17f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: options
@@ -1100,6 +1171,12 @@ ScriptsOnlyBuild:
     className: Toggle
   - hash:
       serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: gameoverscript
+  - hash:
+      serializedVersion: 2
       Hash: 8220b46879dc5e37db1b940c938f5744
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
@@ -1110,6 +1187,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 1e5e2d0c82966e2a20b0aa85b57ac6be
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: tallennuskone
   - hash:
       serializedVersion: 2
       Hash: 0fd6822f6177297bd0eb4d83cc7a9030
@@ -1128,10 +1211,17 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 628824c1112e83f323f83ea3e006d675
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: tallennuskysymyksella
   platform: 5
   scenePathNames:
   - Assets/Scenes/mainmenu2.unity
   - Assets/Scenes/ekascene.unity
   - Assets/Scenes/mainmenu.unity
   - Assets/Scenes/gameover.unity
+  - Assets/Scenes/mouseorcontroller.unity
   playerPath: C:/Users/Imre/unitykirja/builditestit/topdownshooter/Topdownshooter.exe
