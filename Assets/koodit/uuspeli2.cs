@@ -13,6 +13,7 @@ public class uuspeli2 : MonoBehaviour {
                 SceneManager.LoadScene("ekascene");  
                 PlayerPrefs.SetString("ladattu", "ei");
                 PlayerPrefs.SetString("ohjain", "ei");
+                Debug.Log("mouse");
 
     }
 
@@ -20,6 +21,7 @@ public class uuspeli2 : MonoBehaviour {
                 SceneManager.LoadScene("ekascene");  
                 PlayerPrefs.SetString("ladattu", "ei");
                  PlayerPrefs.SetString("ohjain", "joo");
+                 Debug.Log("ohjain");
 
     }
     public void Quit(){
