@@ -77,8 +77,8 @@ public GameObject pausemenu;
               o_Text2.text = "Controller";
               o_Text.text = "Mouse";
 
-     hero.GetComponent<herokavelee>().enabled=false;
-     hero.GetComponent<joystickrotaatio>().enabled=true;
+    // hero.GetComponent<herokavelee>().enabled=false;
+     //hero.GetComponent<joystickrotaatio>().enabled=true;
       Debug.Log("vaihtaa2");
       kontrollermoodi = false;
       }
