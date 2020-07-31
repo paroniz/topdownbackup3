@@ -34,26 +34,22 @@ IEnumerator transfo()
         this.GetComponent<SpriteRenderer>().enabled = false;
         this.GetComponent<BoxCollider2D>().enabled = false;
         Rigidbody2D seuraavahero = Instantiate(heroskini, transform.position, transform.rotation);
-       // seuraavahero.GetComponent<Joystickrotaatio>().enabled = false;
-
-        if(PlayerPrefs.GetString("ohjain")== "joo" ){
-        seuraavahero.GetComponent<joystickrotaatio>().enabled = false;
-        }
-        else
-        {
-        seuraavahero.GetComponent<herokavelee>().enabled = false;
-        }
+         
         Destroy(edellinenhero);
         GameObject transani = Instantiate(transofani, transform.position, transform.rotation);
+        seuraavahero.GetComponent<joystickrotaatio>().enabled = false;
+        seuraavahero.GetComponent<herokavelee>().enabled = false;
         yield return new WaitForSeconds(1f);
         Destroy(transani);
-         
         if(PlayerPrefs.GetString("ohjain")== "joo" ){
         seuraavahero.GetComponent<joystickrotaatio>().enabled = true;
+        seuraavahero.GetComponent<herokavelee>().enabled = false;
         }
         else
         {
         seuraavahero.GetComponent<herokavelee>().enabled = true;
+        seuraavahero.GetComponent<joystickrotaatio>().enabled = false;
+
         }
 
         Destroy(gameObject);

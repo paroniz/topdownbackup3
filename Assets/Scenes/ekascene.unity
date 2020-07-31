@@ -1127,7 +1127,7 @@ MonoBehaviour:
     m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
-    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_SelectedColor: {r: 0.08627451, g: 0.06666667, b: 0.06666667, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
@@ -1146,7 +1146,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 216954498}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 519420034}
+        m_MethodName: vaihdaohjaimeen
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &216954498
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2784,6 +2795,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6aea420c041544c47ac424fa639178a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  teleani: {fileID: 0}
 --- !u!1 &468312977
 GameObject:
   m_ObjectHideFlags: 0
@@ -3199,7 +3211,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &502295458
 Transform:
   m_ObjectHideFlags: 0
@@ -31341,6 +31353,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 6308612363831087574, guid: 92a42e647d77f794a884c605b2a0dac3,
+        type: 3}
+      propertyPath: m_Name
+      value: tietokone22
+      objectReference: {fileID: 0}
     - target: {fileID: 6308612363831087575, guid: 92a42e647d77f794a884c605b2a0dac3,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -31354,7 +31371,7 @@ PrefabInstance:
     - target: {fileID: 6308612364238426317, guid: 92a42e647d77f794a884c605b2a0dac3,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 20.5
+      value: 20.52
       objectReference: {fileID: 0}
     - target: {fileID: 6308612364238426317, guid: 92a42e647d77f794a884c605b2a0dac3,
         type: 3}
@@ -31409,7 +31426,17 @@ PrefabInstance:
     - target: {fileID: 6308612364238426319, guid: 92a42e647d77f794a884c605b2a0dac3,
         type: 3}
       propertyPath: m_Name
-      value: tietokone1 (1)
+      value: tietokone31
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308612364677138012, guid: 92a42e647d77f794a884c605b2a0dac3,
+        type: 3}
+      propertyPath: m_Name
+      value: tietokone33
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308612364703810772, guid: 92a42e647d77f794a884c605b2a0dac3,
+        type: 3}
+      propertyPath: m_Name
+      value: tietokone44
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92a42e647d77f794a884c605b2a0dac3, type: 3}
@@ -31532,23 +31559,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 2, y: 2}
   m_EdgeRadius: 0
---- !u!114 &970827756
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 970827749}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3f24685003c8fd640babcc2469c6cd77, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  auki1: 0
-  mySprite: {fileID: 0}
-  voikoskea: 1
-  tiet2: {fileID: 0}
-  kytketty: 0
 --- !u!61 &970827757
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -32500,7 +32510,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1189750771
 RectTransform:
   m_ObjectHideFlags: 0
@@ -32956,7 +32966,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 519420034}
-        m_MethodName: vaihto
+        m_MethodName: vaihdanappikseen
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -141750,7 +141760,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6, y: -23.4}
+  m_AnchoredPosition: {x: -0.000007629395, y: -1.07}
   m_SizeDelta: {x: 800, y: 455}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1788777018
@@ -142335,7 +142345,6 @@ GameObject:
   - component: {fileID: 1913896640}
   - component: {fileID: 1913896639}
   - component: {fileID: 1913896641}
-  - component: {fileID: 1913896643}
   - component: {fileID: 1913896642}
   m_Layer: 0
   m_Name: loossitrigger
@@ -142447,18 +142456,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6aea420c041544c47ac424fa639178a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1913896643
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1913896638}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8d5bdd2cac4523741829f224388527c9, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  teleani: {fileID: 5581699867660549201, guid: 9f7e5621e88ecfc4a9d7a4aa7246a3c7, type: 3}
 --- !u!1 &1927903986
 GameObject:
   m_ObjectHideFlags: 0
@@ -144541,12 +144539,12 @@ PrefabInstance:
     - target: {fileID: 4604336050814229454, guid: cd773859c82118a4291e92f9c41022d6,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.08
+      value: -21.8
       objectReference: {fileID: 0}
     - target: {fileID: 4604336050814229454, guid: cd773859c82118a4291e92f9c41022d6,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 77.83
+      value: 45.44
       objectReference: {fileID: 0}
     - target: {fileID: 4604336050814229454, guid: cd773859c82118a4291e92f9c41022d6,
         type: 3}

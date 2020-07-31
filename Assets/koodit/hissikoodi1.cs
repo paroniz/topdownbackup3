@@ -6,7 +6,7 @@ using UnityEngine;
 public class hissikoodi1 : MonoBehaviour {
     
 
-     //public Color uuskolori = Color.white; 
+    public GameObject teleani;
     private GameObject hissi;
     private GameObject alusta;
     private GameObject spacearound;
@@ -15,20 +15,23 @@ public class hissikoodi1 : MonoBehaviour {
     private bool kytketty2;
     private GameObject tietokone1;
     private GameObject tietokone2;
+    private GameObject hero;
    
      //private Tilemap katto2;
     void Start() {
         hissi = GameObject.Find("loossi");  
         spacearound = GameObject.Find("spacearound");
         tietokone1 = GameObject.Find("tietokone1");
-        tietokone2 = GameObject.Find("tietokone2");
+        tietokone2 = GameObject.Find("tietokone31");
+        
        
     }
 
     void Update() {
         kohde = GameObject.FindGameObjectWithTag("hero");
         kytketty1 = tietokone1.GetComponent<tietokonekoodi1>().kytketty;
-        kytketty2 = tietokone1.GetComponent<tietokonekoodi1>().kytketty;
+        kytketty2 = tietokone2.GetComponent<tietokonekoodi2>().kytketty;
+        hero = GameObject.FindGameObjectWithTag("hero");
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -54,4 +57,25 @@ public class hissikoodi1 : MonoBehaviour {
             //hissi.transform.position = new Vector3(0, 0,0);
         }
     }
+
+
+    IEnumerator transfo()
+    {
+        //this.GetComponent<BoxCollider2D>().enabled = false;
+        GameObject transani = Instantiate(teleani, transform.position, transform.rotation);
+        hero.GetComponent<joystickrotaatio>().enabled = false;
+        hero.GetComponent<herokavelee>().enabled = false;
+        yield return new WaitForSeconds(1f);
+        Destroy(transani);
+        if(PlayerPrefs.GetString("ohjain")== "joo" ){
+        hero.GetComponent<joystickrotaatio>().enabled = true;
+        hero.GetComponent<herokavelee>().enabled = false;
+        }
+        else
+        {
+        hero.GetComponent<herokavelee>().enabled = true;
+        hero.GetComponent<joystickrotaatio>().enabled = false;
+        }
+
+    } 
 }
