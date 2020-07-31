@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 1285794107160232226}
   - component: {fileID: 2501946110725389265}
   - component: {fileID: -8301210806895919038}
-  - component: {fileID: -4688608111065843172}
+  - component: {fileID: -7462655974760907229}
   m_Layer: 10
   m_Name: hero2
   m_TagString: hero
@@ -221,7 +221,7 @@ MonoBehaviour:
   rotationSpeed: 4
   joystickDeadzone: 0.6
   juoksunopeus: 10
---- !u!114 &-4688608111065843172
+--- !u!114 &-7462655974760907229
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -230,11 +230,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 5611546556375139242}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bffa758b60d704b48af27b4af1b13755, type: 3}
+  m_Script: {fileID: 11500000, guid: 9adb17c1b081dca468f5c62ba3e72ff7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  kuolinaani: {fileID: 0}
-  kuolinani: {fileID: 0}
-  sydan2: {fileID: 0}
-  sydan1: {fileID: 0}
-  hp: 10

@@ -143838,6 +143838,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6ef2fe1fda6f2fd41b7fbafcc9a71374, type: 3}
+--- !u!1 &2130400084 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7525210050300780723, guid: 6ef2fe1fda6f2fd41b7fbafcc9a71374,
+    type: 3}
+  m_PrefabInstance: {fileID: 2130400083}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2130400085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2130400084}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92f8dda5de42e194ba8bbc9ffcbacdb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hp: 5
 --- !u!1001 &548550382149018278
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -144340,6 +144359,12 @@ PrefabInstance:
       propertyPath: edellisennimi
       value: '"hero1"'
       objectReference: {fileID: 0}
+    - target: {fileID: 3887111006555917537, guid: fcba909a18d88044c9b9b2ddf199ddbd,
+        type: 3}
+      propertyPath: transofani
+      value: 
+      objectReference: {fileID: 5581699867660549201, guid: 9f7e5621e88ecfc4a9d7a4aa7246a3c7,
+        type: 3}
     - target: {fileID: 3887111006555917542, guid: fcba909a18d88044c9b9b2ddf199ddbd,
         type: 3}
       propertyPath: m_Name

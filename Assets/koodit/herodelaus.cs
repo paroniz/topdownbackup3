@@ -82,7 +82,7 @@ public class herodelaus : MonoBehaviour {
            // vaihdasydan2.transform.parent = kamera.transform;
            // holderi2 = vaihdasydan2;
            // Destroy(holderi);
-
+        PlayerPrefs.SetInt("currenthp", hp);
         hpstring = hp.ToString();
         hptext.GetComponent<Text>().text = hpstring;
 

@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 9152782969546937675}
   - component: {fileID: -965197124849176680}
   - component: {fileID: -3929365153925097021}
-  m_Layer: 8
+  m_Layer: 12
   m_Name: plasmaprojectile
   m_TagString: heroprojektiili
   m_Icon: {fileID: 0}
@@ -114,6 +114,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   lifetime: 2
   damage: 10
+  osuma: {fileID: 0}
 --- !u!50 &-3929365153925097021
 Rigidbody2D:
   serializedVersion: 4
