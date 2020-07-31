@@ -10,7 +10,7 @@ public class volumeskenekoodi : MonoBehaviour {
 
     void Start() {
 
-        PlayerPrefs.SetFloat("volume",1f);
+        AudioListener.volume = PlayerPrefs.GetFloat("volume");
     }
 
     void Update() {}

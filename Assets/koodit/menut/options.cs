@@ -14,9 +14,7 @@ public GameObject vaihtoteksti;
 private Color normicolor;
 private Color altcolor;
 private bool kontrollermoodi = true;
-public Text o_Text;
-public Text o_Text2;
-public Color o_Color;
+
 string texti;
 string texti2;
 
@@ -25,11 +23,7 @@ public GameObject pausemenu;
         private string contru;
     void Start() {
             hero = GameObject.FindWithTag("hero");
-        texti = o_Text.text;
-       texti2 = o_Text2.text;
-
-        o_Text.text = "Mouse";                
-        o_Text2.text = "Controller";
+       
         contru = PlayerPrefs.GetString("ohjain");
        if (contru == "joo") {
                vaihto();
@@ -47,9 +41,9 @@ public GameObject pausemenu;
               Color normicolor = new Color(202f/255f, 43f/255f, 176f/255f);
              Color altcolor = new Color(63f/255f, 0f/255f, 62f/255f);
               //o_Text.color = o_Color;
-              o_Text2.color = normicolor;
-            o_Text.color = altcolor;
-              o_Text2.text = "Controller";
+        //       o_Text2.color = normicolor;
+        //     o_Text.color = altcolor;
+        //       o_Text2.text = "Controller";
               
               //playerprefs!
         //vaihtoteksti = vaihtoteksti.GetComponent<mouse>.text ();
@@ -72,10 +66,10 @@ public GameObject pausemenu;
      //Panel.gameObject.SetActive(false);
      Color normicolor = new Color(202f/255f, 43f/255f, 176f/255f);
       Color altcolor = new Color(63f/255f, 0f/255f, 62f/255f);
-                 o_Text.color = normicolor;
-              o_Text2.color = altcolor;
-              o_Text2.text = "Controller";
-              o_Text.text = "Mouse";
+        //          o_Text.color = normicolor;
+        //       o_Text2.color = altcolor;
+        //       o_Text2.text = "Controller";
+        //       o_Text.text = "Mouse";
 
     // hero.GetComponent<herokavelee>().enabled=false;
      //hero.GetComponent<joystickrotaatio>().enabled=true;
@@ -84,6 +78,15 @@ public GameObject pausemenu;
       }
  
  }
+
+public void vaihdaohjaimeen(){
+
+}
+
+public void vaihdanappikseen(){
+         hero.GetComponent<herokavelee>().enabled=true;
+       hero.GetComponent<joystickrotaatio>().enabled=false;
+}
 
 public void vaihdaoptionsiin(){
         pausemenu.SetActive(false);
