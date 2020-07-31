@@ -15,7 +15,7 @@ public class sampleagentscript : MonoBehaviour {
 
     void Update() {
         target = GameObject.FindWithTag("hero");
-        target2 = target.GetComponent<Rigidbody2D>();
+       target2 = target.GetComponent<Rigidbody2D>();
         agent.SetDestination (target2.position);
     }
 }

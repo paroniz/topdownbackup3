@@ -40,9 +40,10 @@ public class hissikoodi1 : MonoBehaviour {
          if(other.tag == "hero" && kytketty1 && kytketty2)
         {
         Debug.Log("yolo");
-        hissi.transform.position = new Vector3(0, 0, -200);  
-        spacearound.transform.position = new Vector3(0, 0, -200);  
-        kohde.transform.position = new Vector3(2.09f,74.45f,0f);
+        StartCoroutine(transfo());
+        // hissi.transform.position = new Vector3(0, 0, -200);  
+        // spacearound.transform.position = new Vector3(0, 0, -200);  
+        
         
         }
         
@@ -62,10 +63,13 @@ public class hissikoodi1 : MonoBehaviour {
     IEnumerator transfo()
     {
         //this.GetComponent<BoxCollider2D>().enabled = false;
+        Debug.Log("transfo");
         GameObject transani = Instantiate(teleani, transform.position, transform.rotation);
         hero.GetComponent<joystickrotaatio>().enabled = false;
         hero.GetComponent<herokavelee>().enabled = false;
         yield return new WaitForSeconds(1f);
+        kohde.transform.position = new Vector3(2.09f,74.45f,0f);
+        GameObject transani2 = Instantiate(teleani, hero.transform.position, transform.rotation);
         Destroy(transani);
         if(PlayerPrefs.GetString("ohjain")== "joo" ){
         hero.GetComponent<joystickrotaatio>().enabled = true;
@@ -76,6 +80,7 @@ public class hissikoodi1 : MonoBehaviour {
         hero.GetComponent<herokavelee>().enabled = true;
         hero.GetComponent<joystickrotaatio>().enabled = false;
         }
-
+         yield return new WaitForSeconds(1f);
+         Destroy(transani2);
     } 
 }
