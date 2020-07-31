@@ -7,14 +7,14 @@ public class heropanos : MonoBehaviour {
     public float lifetime = 2f;     
     public float damage = 10;      
     private GameObject fabu;
-    private Animator ani = null;
+   // private Animator ani = null;
      public AudioClip osuma;
     private AudioSource audio;  
 
     void Start() 
     { 
         fabu = GameObject.Find("fabu1");
-        this.ani = this.GetComponent<Animator>();
+       // this.ani = this.GetComponent<Animator>();
         audio = gameObject.AddComponent<AudioSource>(); 
         audio.clip = osuma;
         audio.volume = 1f;
@@ -56,7 +56,7 @@ public class heropanos : MonoBehaviour {
 
    IEnumerator osui()
     {
-       ani.SetInteger("osui", 1);
+      // ani.SetInteger("osui", 1);
     audio.Play();
         //transform.gameObject.tag = "kuollutmonsu"; 
        // kuolinhuuto.Play();

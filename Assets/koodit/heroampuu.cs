@@ -43,22 +43,23 @@ public AudioClip laukaus;
            
          }
 
-        //  if (asemoodi == 2)
-        //  {
-        //     Rigidbody2D ammus = Instantiate(panos, transform.position + new Vector3 (0.2f,0.2f,0), transform.rotation);
-        //     Rigidbody2D ammus2 = Instantiate(panos, transform.position, transform.rotation);
-        //     ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
-        //     ammus.AddForce(lookPos * 900f * luotinopeus);
-        //     ammus2.transform.Rotate(new Vector3(0, 0, luotirotaatio));
-        //     ammus2.AddForce(lookPos * 900f * luotinopeus);
+       if (asemoodi == 2)
+       {
+            Rigidbody2D ammus = Instantiate(panos, transform.position + new Vector3 (0.2f,0.2f,0), transform.rotation);
+            Rigidbody2D ammus2 = Instantiate(panos, transform.position, transform.rotation);
+         ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
+           ammus.AddForce(-ammus.transform.right * 900f * luotinopeus);
+           ammus2.transform.Rotate(new Vector3(0, 0, luotirotaatio));
+            ammus2.AddForce(-ammus.transform.right * 900f * luotinopeus);
+            audio.Play();
             
-        //  }
-        //  if (asemoodi == 3)
-        //  {
-        //     Rigidbody2D ammus = Instantiate(panos, transform.position+ new Vector3 (0.2f,0.2f,0), transform.rotation);
-        //     ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
-        //     ammus.AddForce(lookPos * 900f * luotinopeus);
-        //  }
+        }
+        // if (asemoodi == 3)
+        //   {
+        //      Rigidbody2D ammus = Instantiate(panos, transform.position+ new Vector3 (0.2f,0.2f,0), transform.rotation);
+        //      ammus.transform.Rotate(new Vector3(0, 0, luotirotaatio));
+        //  ammus.AddForce(lookPos * 900f * luotinopeus);
+        // }
       }
     }
 }
