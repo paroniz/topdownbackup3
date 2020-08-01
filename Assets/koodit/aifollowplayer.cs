@@ -13,6 +13,7 @@ using UnityEngine;
     public float ammussekunnit = 1f;
     public AudioClip laukaus;
     private AudioSource audio;
+    public float ampumisetaisyys = 10f;
 
     void Start()
     {
@@ -29,7 +30,7 @@ using UnityEngine;
         Quaternion q = Quaternion.AngleAxis(angle,Vector3.forward);
         transform.rotation = Quaternion.RotateTowards(transform.rotation,q,180);
          
-        transform.Translate(Vector3.up * Time.deltaTime * nopeus);
+        //transform.Translate(Vector3.up * Time.deltaTime * nopeus);
         this.transform.Rotate(new Vector3(0, 0, rotaatiokerroin2));
 
 
@@ -40,7 +41,7 @@ using UnityEngine;
             float distance = Vector3.Distance (this.transform.position, kohde.transform.position);
             string distance2 = distance.ToString();
             Debug.Log(distance2);
-            if(distance < 10)
+            if(distance < ampumisetaisyys)
             {
                 Ammu();
                 ammussekunnit = 1f; 

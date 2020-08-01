@@ -1724,6 +1724,7 @@ MonoBehaviour:
   rotaatiokerroin2: 90
   ammussekunnit: 1
   laukaus: {fileID: 0}
+  ampumisetaisyys: 10
 --- !u!60 &416422420
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -1793,6 +1794,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 1180237411}
   target2: {fileID: 0}
+  hyokkaysetaisyys: 10
 --- !u!1 &423340590
 GameObject:
   m_ObjectHideFlags: 0
@@ -145187,12 +145189,12 @@ PrefabInstance:
     - target: {fileID: 6669883325516739705, guid: a0a28ffd70e26a54ebf169b2c2f272ff,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.43
+      value: 7.64
       objectReference: {fileID: 0}
     - target: {fileID: 6669883325516739705, guid: a0a28ffd70e26a54ebf169b2c2f272ff,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 45.25
+      value: 50.27
       objectReference: {fileID: 0}
     - target: {fileID: 6669883325516739705, guid: a0a28ffd70e26a54ebf169b2c2f272ff,
         type: 3}
