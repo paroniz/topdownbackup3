@@ -32,11 +32,19 @@ using UnityEngine;
         transform.Translate(Vector3.up * Time.deltaTime * nopeus);
         this.transform.Rotate(new Vector3(0, 0, rotaatiokerroin2));
 
+
+
         ammussekunnit -= Time.deltaTime;
         if (ammussekunnit <= 0f) 
         {  
-            Ammu();
-            ammussekunnit = 1f; 
+            float distance = Vector3.Distance (this.transform.position, kohde.transform.position);
+            string distance2 = distance.ToString();
+            Debug.Log(distance2);
+            if(distance < 10)
+            {
+                Ammu();
+                ammussekunnit = 1f; 
+            }
         }
     }
 
