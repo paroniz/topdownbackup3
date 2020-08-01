@@ -4,41 +4,28 @@ using UnityEngine;
 
 public class tallennuskone : MonoBehaviour {
 
-    public bool auki1 = false;
- 
-    public bool voikoskea = true;
-    private bool triggered = false;
     public GameObject tiet2;
     private GameObject tiet22;
-
+    public bool auki1 = false;
+    public bool voikoskea = true;
+    public bool kytketty;
+    private bool triggered = false;
     private SpriteRenderer tietorenderer;
 
- 
-    public bool kytketty;
+    void Start() {}
 
-    
-     
-    void Start() {
-        
-    }
-
-    void Update() {
-
-       
-
-        if(triggered && Input.GetKeyDown(KeyCode.E) && voikoskea == true )
+    void Update() 
+    {
+        if(triggered && Input.GetKeyDown(KeyCode.E) && voikoskea == true)
         {
-            Debug.Log("yoylotietokone");
-            
+            //Debug.Log("tietokone");
             voikoskea = false;
-        
             kytketty = true;
             tiet22 = Instantiate(tiet2, transform.position, transform.rotation);
             Destroy(gameObject);
         }       
-        }
+    }
     
-
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "hero")

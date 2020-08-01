@@ -18,18 +18,16 @@ public class patsasaktivointikoodi5 : MonoBehaviour {
         if (collision.tag == "hero" && Input.GetKeyDown(KeyCode.E)  && voikoskea5 == true)
         {
             this.GetComponent<SpriteRenderer>().sprite = mySprite;
-
+            
             if(GameObject.Find("irvistys4").GetComponent<patsasaktivointikoodi4>().auki4 == true)
             {
                 auki5 = true;
                 Debug.Log("oikea jarjestys5");
             }
-
             else
             {
                 Debug.Log("vaara jarjestys5");
             }
-            
             voikoskea5 = false;
         } 
     }

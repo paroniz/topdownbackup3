@@ -26,11 +26,11 @@ public class herodelaus : MonoBehaviour {
     public int hp = 10; 
     private string hpstring;
 
-    void Start() {
+    void Start() 
+    {
         audio = gameObject.AddComponent<AudioSource>(); 
         audio.clip = kuolinaani;
         audio.volume = 1.0f;
-
         heart3 =  GameObject.Find("3heart");
         kamera =  GameObject.Find("kamera");
         hptext = GameObject.Find("hpui");
@@ -82,22 +82,23 @@ public class herodelaus : MonoBehaviour {
            // vaihdasydan2.transform.parent = kamera.transform;
            // holderi2 = vaihdasydan2;
            // Destroy(holderi);
+
         PlayerPrefs.SetInt("currenthp", hp);
         hpstring = hp.ToString();
         hptext.GetComponent<Text>().text = hpstring;
-
-        }
+    }
     
 
     void OnCollisionEnter2D(Collision2D collision)
     {
         Debug.Log("osui");
+        
         if(collision.collider.tag == "projektiili")
         {
            // audio.Play();
            // osunut = true;
            // iskutime = 1.5f;
-           Debug.Log("osui");
+            Debug.Log("osui");
             hp--;
         }
 

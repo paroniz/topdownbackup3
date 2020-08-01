@@ -26,11 +26,11 @@ public class herodelaus2 : MonoBehaviour {
     public int hp; 
     private string hpstring;
 
-    void Start() {
+    void Start() 
+    {
         audio = gameObject.AddComponent<AudioSource>(); 
         audio.clip = kuolinaani;
         audio.volume = 1.0f;
-
         heart3 =  GameObject.Find("3heart");
         kamera =  GameObject.Find("kamera");
         hptext = GameObject.Find("hpui");
@@ -87,13 +87,12 @@ public class herodelaus2 : MonoBehaviour {
 
         hpstring = hp.ToString();
         hptext.GetComponent<Text>().text = hpstring;
-
-        }
+    }
     
-
     void OnCollisionEnter2D(Collision2D collision)
     {
         Debug.Log("osui");
+        
         if(collision.collider.tag == "projektiili")
         {
            // audio.Play();
@@ -102,12 +101,11 @@ public class herodelaus2 : MonoBehaviour {
            Debug.Log("osui");
             hp--;
         }
-
         // if(collision.collider.tag == "arkku")
         // {
         //     GetComponent<Renderer>().enabled = false;
         // }
-
+        
         // if(collision.collider.tag == "kuollutmonsu")
         // {}
     }

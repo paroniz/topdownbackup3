@@ -29,13 +29,10 @@ public int asemoodi = 1;
       body.angularVelocity = 0f;
       horizontal = Input.GetAxisRaw("Horizontal");
       vertical = Input.GetAxisRaw("Vertical"); 
-
       mousePos = new Vector3(Input.GetAxisRaw("testi1"), Input.GetAxisRaw("testi2"), 10);
-
-     mousePos = new Vector3(Input.mousePosition.x, Input.mousePosition.y, 10);
+      mousePos = new Vector3(Input.mousePosition.x, Input.mousePosition.y, 10);
       Vector3 lookPos = Camera.main.ScreenToWorldPoint(mousePos);
       lookPos = lookPos - transform.position;
-      
       float angle = Mathf.Atan2(lookPos.y, lookPos.x) * Mathf.Rad2Deg;
       transform.rotation = Quaternion.AngleAxis(angle, Vector3.forward);
       this.transform.Rotate(new Vector3(0, 0, rotaatiokerroin));

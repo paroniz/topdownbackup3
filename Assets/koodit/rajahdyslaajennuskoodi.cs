@@ -6,11 +6,10 @@ public class rajahdyslaajennuskoodi : MonoBehaviour {
     
   private GameObject rajahdys  = null; 
 
-    void Start() {
+  void Start() 
+  {
+    this.transform.localScale = new Vector3 (2, 2, 2) ;
+  }
 
-  
-        this.transform.localScale = new Vector3 (2, 2, 2) ;
-    }
-
-    void Update() {}
+  void Update() {}
 }

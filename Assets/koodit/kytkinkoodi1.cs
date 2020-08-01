@@ -19,7 +19,6 @@ public class kytkinkoodi1 : MonoBehaviour {
     {
         if (collision.collider.tag == "hero" && Input.GetKeyDown(KeyCode.E) && voikoskea)
         {
-
             if(GameObject.Find("irvistys5").GetComponent<patsasaktivointikoodi5>().auki5 == true)
             {
                 Debug.Log("oviauki");
@@ -28,10 +27,8 @@ public class kytkinkoodi1 : MonoBehaviour {
                 GameObject.Find("testiovi").GetComponent<brikkikoodi1>().tuhoa = true;
                 this.GetComponent<SpriteRenderer>().sprite = mySprite;
                 voikoskea = false;
-
                 GameObject uusiammus = Instantiate(uusovi, new Vector2(-9.5f, 98.5f), transform.rotation);
             }
-
             else
             {
                 Debug.Log("resetoitu");

@@ -8,8 +8,8 @@ public class volumeskenekoodi : MonoBehaviour {
     int volume;
     float currentvolume;
 
-    void Start() {
-
+    void Start() 
+    {
         AudioListener.volume = PlayerPrefs.GetFloat("volume");
     }
 
@@ -17,24 +17,23 @@ public class volumeskenekoodi : MonoBehaviour {
 
     public void VolumeUp()
     {
-
-       currentvolume = PlayerPrefs.GetFloat("volume");
-       if (currentvolume< 1.5f)
-       {
-       currentvolume += 0.1f;
-       Debug.Log("volumeup");
+        currentvolume = PlayerPrefs.GetFloat("volume");
+       
+        if(currentvolume < 1.5f)
+        {
+        currentvolume += 0.1f;
+        //Debug.Log("volumeup");
         PlayerPrefs.SetFloat("volume", currentvolume);
-         AudioListener.volume = PlayerPrefs.GetFloat("volume");
-       }
+        AudioListener.volume = PlayerPrefs.GetFloat("volume");
+        }
     }
 
     public void VolumeDown()
     {
         currentvolume = PlayerPrefs.GetFloat("volume");
-       currentvolume -= 0.1f;
-
-          Debug.Log("down");
+        currentvolume -= 0.1f;
+        //Debug.Log("down");
         PlayerPrefs.SetFloat("volume", currentvolume);
-         AudioListener.volume = PlayerPrefs.GetFloat("volume");
+        AudioListener.volume = PlayerPrefs.GetFloat("volume");
     }
 }

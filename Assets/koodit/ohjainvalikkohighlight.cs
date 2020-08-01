@@ -8,7 +8,8 @@ public class ohjainvalikkohighlight : MonoBehaviour {
     
 public GameObject firstcontrols2;
 
-    void Start() {
+    void Start() 
+    {
         EventSystem es = EventSystem.current;
         es.firstSelectedGameObject = firstcontrols2;
         es.SetSelectedGameObject(firstcontrols2);

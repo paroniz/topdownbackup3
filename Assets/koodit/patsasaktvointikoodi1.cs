@@ -11,18 +11,16 @@ public class patsasaktvointikoodi1 : MonoBehaviour {
      
     void Start() {}
 
-    void Update() {
-
+    void Update() 
+    {
         if(triggered && Input.GetKeyDown(KeyCode.E) && voikoskea == true )
         {
-            Debug.Log("yoylo76");
+            //Debug.Log("yoylo76");
             this.GetComponent<SpriteRenderer>().sprite = mySprite;
-            
             auki1 = true;
             voikoskea = false;
         }       
-        }
-    
+    }
 
     void OnTriggerEnter2D(Collider2D collision)
     {

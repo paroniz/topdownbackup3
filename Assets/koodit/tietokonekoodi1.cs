@@ -14,13 +14,11 @@ public class tietokonekoodi1 : MonoBehaviour {
     public GameObject rajahdysani;
     public bool kytketty;
 
-    
-     
     void Start() {}
 
-    void Update() {
-
-        if(triggered && Input.GetKeyDown(KeyCode.E) && voikoskea == true )
+    void Update() 
+    {
+        if(triggered && Input.GetKeyDown(KeyCode.E) && voikoskea == true)
         {
             Debug.Log("yoylotietokone");
             this.GetComponent<SpriteRenderer>().sprite =mySprite;
@@ -30,9 +28,8 @@ public class tietokonekoodi1 : MonoBehaviour {
             GameObject rajahjdys = Instantiate(rajahdysani, new Vector2(-23.5f, 50f), transform.rotation);
             kytketty = true;
         }       
-        }
+    }
     
-
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "hero")

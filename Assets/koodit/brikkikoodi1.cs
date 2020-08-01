@@ -13,7 +13,8 @@ public class brikkikoodi1 : MonoBehaviour {
 
 
 
-    void Update() {
+    void Update() 
+    {
         //onkoauki = patsas.GetComponent<patsasaktvointikoodi1>();
         
         // if (patsas.GetComponent<patsasaktvointikoodi1>().auki == true)
@@ -22,7 +23,8 @@ public class brikkikoodi1 : MonoBehaviour {
         //     Destroy(gameObject);
         // }
 
-        if(tuhoa){
+        if(tuhoa)
+        {
             Destroy(gameObject);
         }
     }

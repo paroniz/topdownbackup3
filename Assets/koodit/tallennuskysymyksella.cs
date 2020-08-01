@@ -6,11 +6,11 @@ using UnityEngine.UI;
 
 public class tallennuskysymyksella : MonoBehaviour {
     
-    private bool triggered;
-    private GameObject player;
     public GameObject rahatscreeni;
     public GameObject tallennuspaneeli;
+    private GameObject player;
     public bool ladattu = false;
+    private bool triggered;
     int hp;
     string rahat;
 
@@ -18,26 +18,24 @@ public class tallennuskysymyksella : MonoBehaviour {
 
     void Update() 
     {
-
         player = GameObject.FindGameObjectWithTag("hero");
-
         if (triggered && Input.GetKeyDown(KeyCode.E))
         {
             Time.timeScale = 0f;
             tallennuspaneeli.SetActive(true);
-    
         }
     }
 
-    public void SaveButton(){
-        Debug.Log("savetest1");
+    public void SaveButton()
+    {
+        //Debug.Log("savetest1");
         Save();
         tallennuspaneeli.SetActive(false);
         Time.timeScale = 1f;
     }
 
     public void NoButton(){
-        Debug.Log("savetest2");
+        //Debug.Log("savetest2");
         tallennuspaneeli.SetActive(false);
         Time.timeScale = 1f;
     }
@@ -57,12 +55,11 @@ public class tallennuskysymyksella : MonoBehaviour {
             PlayerPrefs.SetInt("hp", hp);
             PlayerPrefs.SetString("rahat", rahat);
             PlayerPrefs.SetInt("savettu", 1);
-            PlayerPrefs.Save();
-            
+            PlayerPrefs.Save(); 
     }
 
-    public void Load() {
-        
+    public void Load() 
+    {
         if(PlayerPrefs.HasKey("playerPositionX") && PlayerPrefs.GetInt("savettu")==1)
         {
             SceneManager.LoadScene("ekascene");
@@ -81,7 +78,7 @@ public class tallennuskysymyksella : MonoBehaviour {
         }
     }
 
-void OnTriggerEnter2D(Collider2D collision)
+    void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "hero")
         {
@@ -96,5 +93,4 @@ void OnTriggerEnter2D(Collider2D collision)
             triggered = false;
         }
     }  
-
 }

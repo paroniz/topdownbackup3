@@ -29,7 +29,6 @@ public class patsasaktivointikoodi4 : MonoBehaviour {
             {
                 Debug.Log("vaara jarjestys4");
             }
-
             voikoskea4 = false;
         } 
     }

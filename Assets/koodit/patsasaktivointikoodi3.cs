@@ -18,6 +18,7 @@ public class patsasaktivointikoodi3 : MonoBehaviour {
         if (collision.tag == "hero" && Input.GetKeyDown(KeyCode.E)  && voikoskea3 == true)
         {
             this.GetComponent<SpriteRenderer>().sprite = mySprite;
+            
             if(GameObject.Find("irvistys2").GetComponent<patsasaktivointikoodi2>().auki2 == true)
             {
                 auki3 = true;

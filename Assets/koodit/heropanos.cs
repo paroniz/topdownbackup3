@@ -7,14 +7,14 @@ public class heropanos : MonoBehaviour {
     public float lifetime = 2f;     
     public float damage = 10;      
     private GameObject fabu;
-   // private Animator ani = null;
-     public AudioClip osuma;
+    // private Animator ani = null;
+    public AudioClip osuma;
     private AudioSource audio;  
 
     void Start() 
     { 
         fabu = GameObject.Find("fabu1");
-       // this.ani = this.GetComponent<Animator>();
+        // this.ani = this.GetComponent<Animator>();
         audio = gameObject.AddComponent<AudioSource>(); 
         audio.clip = osuma;
         audio.volume = 1f;
@@ -32,14 +32,10 @@ public class heropanos : MonoBehaviour {
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        
         if(collision.collider.tag == "seina" || collision.collider.tag == "ampuja1")
         {
-             
              StartCoroutine(osui());
         }
-
-        
 
         if(collision.collider.tag == "hero")
         {
@@ -50,20 +46,16 @@ public class heropanos : MonoBehaviour {
         {
            // Destroy(gameObject); 
         }
-
-         
     }
 
-   IEnumerator osui()
+    IEnumerator osui()
     {
-      // ani.SetInteger("osui", 1);
-    audio.Play();
+        // ani.SetInteger("osui", 1);
+        audio.Play();
         //transform.gameObject.tag = "kuollutmonsu"; 
-       // kuolinhuuto.Play();
+        // kuolinhuuto.Play();
         //GameObject kuolinanimaatio = Instantiate(kuolinani, transform.position, transform.rotation);
         yield return new WaitForSeconds(0.3f);
         Destroy(gameObject); 
     } 
-
-
 }

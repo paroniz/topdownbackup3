@@ -14,18 +14,18 @@ public class PauseMenu : MonoBehaviour {
     void Start() {}
 
     void Update() {
-        if ((Input.GetKeyDown(KeyCode.Escape) || (Input.GetButtonDown("Start"))) &&  (!canvas2.active))
+        if((Input.GetKeyDown(KeyCode.Escape) || (Input.GetButtonDown("Start"))) && (!canvas2.active))
         {
             if (GameIsPaused)
             {
                 Resume();
 
-            }else
+            }
+            else
             {
                 Pause();
             }
         }
-
         hero = GameObject.FindWithTag("hero");
     }
 

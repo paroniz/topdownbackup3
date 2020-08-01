@@ -6,24 +6,22 @@ public class hpnlisayskoodi : MonoBehaviour {
     
     private bool triggered = false;
     private GameObject hero;
-     public bool voikoskea = true;
-    void Start() {
+    public bool voikoskea = true;
+    
+    void Start() {}
 
-    }
-
-
-   void Update() {
-hero = GameObject.FindGameObjectWithTag("hero");
-
+    void Update() 
+    {
+        hero = GameObject.FindGameObjectWithTag("hero");
 
         if(triggered && Input.GetKeyDown(KeyCode.E) && voikoskea == true )
         {
             Debug.Log("yoyloscrolli");
-           Healaa();
+            Healaa();
             voikoskea = false;
         }   
+    }
 
-   }
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "hero")
@@ -40,11 +38,12 @@ hero = GameObject.FindGameObjectWithTag("hero");
         }
     } 
 
-    void Healaa(){
-        Debug.Log("healaa");
-       int lisahp = hero.GetComponent<herodelaus>().hp;
-       lisahp ++;
-       hero.GetComponent<herodelaus>().hp = lisahp;
+    void Healaa()
+    {
+        //Debug.Log("healaa");
+        int lisahp = hero.GetComponent<herodelaus>().hp;
+        lisahp ++;
+        hero.GetComponent<herodelaus>().hp = lisahp;
         Destroy(gameObject);
     } 
 }

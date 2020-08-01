@@ -17,7 +17,6 @@ public class tallennusskripti : MonoBehaviour {
 
     void Update() 
     {
-
         player = GameObject.FindGameObjectWithTag("hero");
 
         if (triggered && Input.GetKeyDown(KeyCode.E))
@@ -28,25 +27,24 @@ public class tallennusskripti : MonoBehaviour {
 
     public void Save() 
     {
-            //Vector3 playerPosition = player.GetPosition();
-            //int moneyamount = player.GetMoneyAmount();
-            Vector3 playerPosition = player.transform.position;
-            Debug.Log("savetesti");
-            Debug.Log(playerPosition);
-            hp = player.GetComponent<herodelaus>().hp;
-            rahat = rahatscreeni.GetComponent<UnityEngine.UI.Text>().text;
-            Debug.Log(rahat);
-            PlayerPrefs.SetFloat("playerPositionX", playerPosition.x);
-            PlayerPrefs.SetFloat("playerPositionY", playerPosition.y);
-            PlayerPrefs.SetInt("hp", hp);
-            PlayerPrefs.SetString("rahat", rahat);
-            PlayerPrefs.SetInt("savettu", 1);
-            PlayerPrefs.Save();
-            
+        //Vector3 playerPosition = player.GetPosition();
+        //int moneyamount = player.GetMoneyAmount();
+        Vector3 playerPosition = player.transform.position;
+        Debug.Log("savetesti");
+        Debug.Log(playerPosition);
+        hp = player.GetComponent<herodelaus>().hp;
+        rahat = rahatscreeni.GetComponent<UnityEngine.UI.Text>().text;
+        Debug.Log(rahat);
+        PlayerPrefs.SetFloat("playerPositionX", playerPosition.x);
+        PlayerPrefs.SetFloat("playerPositionY", playerPosition.y);
+        PlayerPrefs.SetInt("hp", hp);
+        PlayerPrefs.SetString("rahat", rahat);
+        PlayerPrefs.SetInt("savettu", 1);
+        PlayerPrefs.Save();
     }
 
-    public void Load() {
-        
+    public void Load() 
+    {
         if(PlayerPrefs.HasKey("playerPositionX") && PlayerPrefs.GetInt("savettu")==1)
         {
             SceneManager.LoadScene("ekascene");
@@ -65,7 +63,7 @@ public class tallennusskripti : MonoBehaviour {
         }
     }
 
-void OnTriggerEnter2D(Collider2D collision)
+    void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.tag == "hero")
         {
@@ -80,5 +78,4 @@ void OnTriggerEnter2D(Collider2D collision)
             triggered = false;
         }
     }  
-
 }

@@ -9,22 +9,24 @@ public class uuspeli2 : MonoBehaviour {
 
     void Update() {}
 
-    public void Load() {
-                SceneManager.LoadScene("ekascene");  
-                PlayerPrefs.SetString("ladattu", "ei");
-                PlayerPrefs.SetString("ohjain", "ei");
-                Debug.Log("mouse");
-
+    public void Load() 
+    {
+        SceneManager.LoadScene("ekascene");  
+        PlayerPrefs.SetString("ladattu", "ei");
+        PlayerPrefs.SetString("ohjain", "ei");
+        Debug.Log("mouse");
     }
 
-     public void Loadohjain() {
-                SceneManager.LoadScene("ekascene");  
-                PlayerPrefs.SetString("ladattu", "ei");
-                 PlayerPrefs.SetString("ohjain", "joo");
-                 Debug.Log("ohjain");
-
+    public void Loadohjain() 
+    {
+        SceneManager.LoadScene("ekascene");  
+        PlayerPrefs.SetString("ladattu", "ei");
+        PlayerPrefs.SetString("ohjain", "joo");
+        Debug.Log("ohjain");
     }
-    public void Quit(){
-            Application.Quit();
+    
+    public void Quit()
+    {
+        Application.Quit();
     }
 }

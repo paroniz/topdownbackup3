@@ -9,22 +9,27 @@ public class MainMenuController : MonoBehaviour
     public GameObject mainMenu;
     public GameObject optionsMenu;
 
-    public void playGame() {
+    public void playGame() 
+    {
         SceneManager.LoadScene("ekascene");
     }
  
-    public void options() {
+    public void options() 
+    {
         mainMenu.SetActive(false);
         optionsMenu.SetActive(true);
         
     }
-     public void optionsreturn() {
+    
+    public void optionsreturn() 
+    {
         mainMenu.SetActive(true);
         optionsMenu.SetActive(false);
         
     }
  
-    public void exitGame() {
+    public void exitGame() 
+    {
         Application.Quit();
     }
 }

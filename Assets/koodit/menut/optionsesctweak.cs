@@ -5,15 +5,15 @@ using UnityEngine;
 public class optionsesctweak : MonoBehaviour {
     
 
-     public GameObject pausemenu;
+    public GameObject pausemenu;
     public GameObject asetukset;
 
-    void Update() {
+    void Update() 
+    {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             asetukset.SetActive(false);
             pausemenu.SetActive(true);
-            
         }
     }
 }

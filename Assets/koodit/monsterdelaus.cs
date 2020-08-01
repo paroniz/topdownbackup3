@@ -24,7 +24,7 @@ public class monsterdelaus : MonoBehaviour {
     {
         if(collision.collider.tag == "heroprojektiili")
         {
-            Debug.Log("yolo");
+            //Debug.Log("yolo");
             hp--;
         }
     }

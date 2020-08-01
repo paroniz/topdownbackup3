@@ -6,9 +6,11 @@ public class menuunvaihtokoodi : MonoBehaviour {
     
     void Start() {}
 
-    void Update() {
-        if(Input.GetKeyDown(KeyCode.Escape)){
-Application.LoadLevel("mainmenu");
-}
+    void Update() 
+    {
+        if(Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.LoadLevel("mainmenu");
+        }
     }
 }

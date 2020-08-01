@@ -9,12 +9,15 @@ public class uuspeliskripti : MonoBehaviour {
 
     void Update() {}
 
-    public void Load() {
-                SceneManager.LoadScene("mouseorcontroller");  
-                PlayerPrefs.SetString("ladattu", "ei");
+    public void Load() 
+    {
+        SceneManager.LoadScene("mouseorcontroller");  
+        PlayerPrefs.SetString("ladattu", "ei");
 
     }
-    public void Quit(){
-            Application.Quit();
+
+    public void Quit()
+    {
+        Application.Quit();
     }
 }

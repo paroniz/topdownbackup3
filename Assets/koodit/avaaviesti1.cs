@@ -15,15 +15,15 @@ public class avaaviesti1 : MonoBehaviour {
      
     void Start() {}
 
-    void Update() {
-
+    void Update() 
+    {
         if(triggered && Input.GetKeyDown(KeyCode.E) && voikoskea == true )
         {
             Debug.Log("yoyloscrolli");
-           Instantiate(viesti, new Vector3 (-18f,20,0), transform.rotation);
+            Instantiate(viesti, new Vector3 (-18f,20,0), transform.rotation);
             voikoskea = false;
         }       
-        }
+    }
     
 
     void OnTriggerEnter2D(Collider2D collision)

@@ -7,8 +7,8 @@ public class gameoverscript : MonoBehaviour {
     
     void Start() {}
 
-       void Update() {
-     
+    void Update() 
+    {
         if (Input.anyKey)
         {
             SceneManager.LoadScene("mainmenu2");

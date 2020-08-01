@@ -19,18 +19,16 @@ public class patsasaktivointikoodi2 : MonoBehaviour {
         {
             this.GetComponent<SpriteRenderer>().sprite = mySprite;
             
-
-        if(GameObject.Find("irvistys1").GetComponent<patsasaktvointikoodi1>().auki1 == true)
-        {
-            auki2 = true;
-            Debug.Log("oikea jarjestys");
-        }
-        else
-        {
-            Debug.Log("vaara jarjestys");
-        }
-        voikoskea2 = false;
-        }
-        
+            if(GameObject.Find("irvistys1").GetComponent<patsasaktvointikoodi1>().auki1 == true)
+            {
+                auki2 = true;
+                Debug.Log("oikea jarjestys");
+            }
+            else
+            {
+                Debug.Log("vaara jarjestys");
+            }
+            voikoskea2 = false;
+        } 
     }
 }
