@@ -18,7 +18,6 @@ public class aseenvaihtokoodi : MonoBehaviour {
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        
         if(collision.collider.tag == "hero"  &&!osuttu)
         {
             StartCoroutine(transfo());
@@ -50,5 +49,4 @@ public class aseenvaihtokoodi : MonoBehaviour {
         }
         Destroy(gameObject);
     } 
-
 }
