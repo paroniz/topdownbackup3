@@ -21,10 +21,10 @@ public class volumeskenekoodi : MonoBehaviour {
        
         if(currentvolume < 1.5f)
         {
-        currentvolume += 0.1f;
-        //Debug.Log("volumeup");
-        PlayerPrefs.SetFloat("volume", currentvolume);
-        AudioListener.volume = PlayerPrefs.GetFloat("volume");
+            currentvolume += 0.1f;
+            //Debug.Log("volumeup");
+            PlayerPrefs.SetFloat("volume", currentvolume);
+            AudioListener.volume = PlayerPrefs.GetFloat("volume");
         }
     }
 

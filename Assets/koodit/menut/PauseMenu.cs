@@ -19,7 +19,6 @@ public class PauseMenu : MonoBehaviour {
             if (GameIsPaused)
             {
                 Resume();
-
             }
             else
             {
@@ -29,7 +28,7 @@ public class PauseMenu : MonoBehaviour {
         hero = GameObject.FindWithTag("hero");
     }
 
-   public void Resume()
+    public void Resume()
     {
         pausemenu.SetActive(false);
         paneeli.SetActive(true);
@@ -50,7 +49,7 @@ public class PauseMenu : MonoBehaviour {
         GameIsPaused = true;
     }
 
-     public void Quit ()
+    public void Quit ()
     {
         SceneManager.LoadScene("mainmenu2");
         Debug.Log("Quittest");

@@ -4,7 +4,12 @@ using UnityEngine;
 
 public class vihuspawnikoodi : MonoBehaviour {
     
+    public GameObject spawnivihu1;
+    public GameObject spawnivihu2;
+
     void Start() {}
 
-    void Update() {}
+    void Update() {
+        
+    }
 }

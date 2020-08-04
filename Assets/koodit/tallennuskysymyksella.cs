@@ -55,12 +55,14 @@ public class tallennuskysymyksella : MonoBehaviour {
             PlayerPrefs.SetInt("hp", hp);
             PlayerPrefs.SetString("rahat", rahat);
             PlayerPrefs.SetInt("savettu", 1);
+            PlayerPrefs.SetString("ekasave", "tehty");
             PlayerPrefs.Save(); 
     }
 
     public void Load() 
     {
-        if(PlayerPrefs.HasKey("playerPositionX") && PlayerPrefs.GetInt("savettu")==1)
+        if(PlayerPrefs.HasKey("playerPositionX") && PlayerPrefs.GetInt("savettu")==1 
+        && PlayerPrefs.GetString("ekasave")=="tehty")
         {
             SceneManager.LoadScene("ekascene");
              //player2 = GameObject.FindGameObjectWithTag("hero");

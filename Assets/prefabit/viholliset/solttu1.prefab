@@ -123,6 +123,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 0}
   target2: {fileID: 0}
+  hyokkaysetaisyys: 10
 --- !u!114 &6669883325516739711
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -150,10 +151,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   panos: {fileID: 8532481026080580314, guid: 4623694b09b196042944ddb22a562620, type: 3}
   nopeus: 1
-  luotirotaatio2: 90
+  luotirotaatio2: 270
   luotinopeus3: 10
   rotaatiokerroin2: 0
   ammussekunnit: 1
+  laukaus: {fileID: 0}
+  ampumisetaisyys: 10
 --- !u!60 &6669883325516739698
 PolygonCollider2D:
   m_ObjectHideFlags: 0

@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &1010222400297193675
+--- !u!1 &7184533191267107720
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,41 +8,41 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1010222400297193673}
-  - component: {fileID: 1010222400297193672}
-  - component: {fileID: 1010222400297193717}
-  - component: {fileID: 1010222400297193716}
-  - component: {fileID: 1010222400297193719}
-  - component: {fileID: 1010222400297193718}
-  - component: {fileID: 1010222400297193714}
-  m_Layer: 0
-  m_Name: armored_soldiers_6
+  - component: {fileID: 7184533191267107722}
+  - component: {fileID: 7184533191267107723}
+  - component: {fileID: 7184533191267107766}
+  - component: {fileID: 7184533191267107767}
+  - component: {fileID: 7184533191267107764}
+  - component: {fileID: 7184533191267107765}
+  - component: {fileID: 7184533191267107761}
+  m_Layer: 9
+  m_Name: vihreevihu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &1010222400297193673
+--- !u!4 &7184533191267107722
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1010222400297193675}
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
-  m_LocalPosition: {x: 10.97, y: 1.93, z: 0}
+  m_GameObject: {fileID: 7184533191267107720}
+  m_LocalRotation: {x: -0, y: -0, z: 1, w: 0}
+  m_LocalPosition: {x: 36.22, y: -55.63, z: 2.046875}
   m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
---- !u!212 &1010222400297193672
+--- !u!212 &7184533191267107723
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1010222400297193675}
+  m_GameObject: {fileID: 7184533191267107720}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -74,7 +74,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 3106300221376863404, guid: 9e2bf131bbfff7b47ab8890dda387749,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -87,17 +87,17 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!195 &1010222400297193717
+--- !u!195 &7184533191267107766
 NavMeshAgent:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1010222400297193675}
+  m_GameObject: {fileID: 7184533191267107720}
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.8599999
-  m_Speed: 5
+  m_Speed: 1
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120
@@ -109,13 +109,13 @@ NavMeshAgent:
   m_BaseOffset: 0.68002015
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
---- !u!114 &1010222400297193716
+--- !u!114 &7184533191267107767
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1010222400297193675}
+  m_GameObject: {fileID: 7184533191267107720}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 56f66cb86383501418af2e1f330273a2, type: 3}
@@ -123,26 +123,27 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 0}
   target2: {fileID: 0}
---- !u!114 &1010222400297193719
+  hyokkaysetaisyys: 10
+--- !u!114 &7184533191267107764
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1010222400297193675}
+  m_GameObject: {fileID: 7184533191267107720}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 92f8dda5de42e194ba8bbc9ffcbacdb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   hp: 2
---- !u!114 &1010222400297193718
+--- !u!114 &7184533191267107765
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1010222400297193675}
+  m_GameObject: {fileID: 7184533191267107720}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a8fa0a293a3df7e4e83fa0ad666648ea, type: 3}
@@ -150,17 +151,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   panos: {fileID: 6925738106576726986, guid: e364eacc3fbbfab4fadf40933de04f17, type: 3}
   nopeus: 0
-  luotirotaatio2: 90
-  luotinopeus3: 80
+  luotirotaatio2: 180
+  luotinopeus3: 5
   rotaatiokerroin2: 90
   ammussekunnit: 1
---- !u!60 &1010222400297193714
+  laukaus: {fileID: 0}
+  ampumisetaisyys: 10
+--- !u!60 &7184533191267107761
 PolygonCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1010222400297193675}
+  m_GameObject: {fileID: 7184533191267107720}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}

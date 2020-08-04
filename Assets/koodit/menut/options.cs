@@ -35,7 +35,8 @@ public class options : MonoBehaviour {
                 }
         }
 
-        void Update() {
+        void Update() 
+        {
                 hero = GameObject.FindWithTag("hero");
         }
 

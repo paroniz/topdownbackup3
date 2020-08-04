@@ -1,0 +1,214 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2849777890364836100
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2849777890364836102}
+  - component: {fileID: 2849777890364836103}
+  - component: {fileID: 2849777890364836097}
+  - component: {fileID: 2849777890364836096}
+  - component: {fileID: 2849777890364836349}
+  - component: {fileID: 2849777890364836098}
+  - component: {fileID: 2849777890364836099}
+  m_Layer: 9
+  m_Name: meleevihu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2849777890364836102
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2849777890364836100}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.25, y: -38.07, z: 2.046875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &2849777890364836103
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2849777890364836100}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: -652821605362152969, guid: 9e2bf131bbfff7b47ab8890dda387749,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1.05, y: 1.2500371}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!60 &2849777890364836097
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2849777890364836100}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1.05, y: 1.2500371}
+    newSize: {x: 1.05, y: 1.2500371}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0.4504745, y: -0.0003688111}
+      - {x: 0.48954305, y: 0.23404245}
+      - {x: 0.5025659, y: 0.48147655}
+      - {x: 0.42442882, y: 0.5726365}
+      - {x: 0.2811775, y: 0.62472785}
+      - {x: 0.21606325, y: 0.62472785}
+      - {x: 0.21606325, y: 0.55961365}
+      - {x: 0.124903314, y: 0.4684537}
+      - {x: 0.15094902, y: 0.20799676}
+      - {x: 0.08583477, y: 0.18195106}
+      - {x: -0.0053251577, y: 0.2210196}
+      - {x: -0.20066787, y: 0.116836816}
+      - {x: -0.09648509, y: 0.3903166}
+      - {x: -0.14857648, y: 0.4944994}
+      - {x: -0.18764502, y: 0.611705}
+      - {x: -0.23973641, y: 0.62472785}
+      - {x: -0.2918278, y: 0.611705}
+      - {x: -0.43507913, y: 0.5726365}
+      - {x: -0.50019336, y: 0.4684537}
+      - {x: -0.5132162, y: 0.32520238}
+      - {x: -0.44810197, y: -0.026414506}
+      - {x: -0.5132162, y: -0.13059728}
+      - {x: -0.5132162, y: -0.24780291}
+      - {x: -0.4611248, y: -0.37803137}
+      - {x: -0.33089635, y: -0.4691913}
+      - {x: -0.0443937, y: -0.6124426}
+      - {x: 0.05978908, y: -0.6124426}
+      - {x: 0.3983831, y: -0.43012276}
+      - {x: 0.43745166, y: -0.39105424}
+      - {x: 0.5286116, y: -0.19571152}
+--- !u!195 &2849777890364836096
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2849777890364836100}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.525
+  m_Speed: 3.5
+  m_Acceleration: 8
+  avoidancePriority: 50
+  m_AngularSpeed: 120
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 1
+  m_AutoRepath: 1
+  m_Height: 1.2500371
+  m_BaseOffset: 0.62501854
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!114 &2849777890364836349
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2849777890364836100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8fa0a293a3df7e4e83fa0ad666648ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panos: {fileID: 8532481026080580314, guid: 4623694b09b196042944ddb22a562620, type: 3}
+  nopeus: 1
+  luotirotaatio2: 0
+  luotinopeus3: 10
+  rotaatiokerroin2: 0
+  ammussekunnit: 1
+  laukaus: {fileID: 0}
+  ampumisetaisyys: 10
+--- !u!114 &2849777890364836098
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2849777890364836100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92f8dda5de42e194ba8bbc9ffcbacdb4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hp: 5
+--- !u!114 &2849777890364836099
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2849777890364836100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56f66cb86383501418af2e1f330273a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 0}
+  target2: {fileID: 0}
+  hyokkaysetaisyys: 10
