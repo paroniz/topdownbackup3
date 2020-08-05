@@ -13,7 +13,7 @@ public class patsasaktvointikoodi1 : MonoBehaviour {
 
     void Update() 
     {
-        if(triggered && Input.GetKeyDown(KeyCode.E) && voikoskea == true )
+        if(triggered && Input.GetButtonDown("Fire2") && voikoskea == true )
         {
             //Debug.Log("yoylo76");
             this.GetComponent<SpriteRenderer>().sprite = mySprite;

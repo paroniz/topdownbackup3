@@ -7,6 +7,7 @@ public class kytkinkoodi1 : MonoBehaviour {
     public Sprite mySprite;
     public Sprite defaultsprite;
     private bool voikoskea = true;
+    private bool triggered = false;
     public GameObject ovi1;
     public GameObject ovi2;
     public GameObject uusovi;
@@ -15,11 +16,9 @@ public class kytkinkoodi1 : MonoBehaviour {
     
     void Start() {}
 
-    void Update() {}
-
-    void OnCollisionStay2D(Collision2D collision)
+    void Update() 
     {
-        if (collision.collider.tag == "hero" && Input.GetKeyDown(KeyCode.E) && voikoskea)
+        if(triggered && Input.GetButtonDown("Fire2") && voikoskea == true)
         {
             if(GameObject.Find("irvistys5").GetComponent<patsasaktivointikoodi5>().auki5 == true)
             {
@@ -58,4 +57,20 @@ public class kytkinkoodi1 : MonoBehaviour {
         GameObject.Find("irvistys5").GetComponent<patsasaktivointikoodi5>().voikoskea5 = true;
         GameObject.Find("irvistys5").GetComponent<patsasaktivointikoodi5>().auki5 = false;
     }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "hero")
+        {
+            triggered = true;
+        }
+    }  
+    
+    void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.tag == "hero")
+        {
+            triggered = false;
+        }
+    }  
 }

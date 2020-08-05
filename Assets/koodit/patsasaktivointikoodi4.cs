@@ -8,14 +8,13 @@ public class patsasaktivointikoodi4 : MonoBehaviour {
     public bool auki4 = false;
     public Sprite defaultsprite;
     public bool voikoskea4 = true;
+    private bool triggered = false;
  
     void Start() {}
 
-    void Update() {}
-
-    void OnTriggerStay2D(Collider2D collision)
+    void Update() 
     {
-        if (collision.tag == "hero" && Input.GetKeyDown(KeyCode.E)  && voikoskea4 == true)
+        if(triggered && Input.GetButtonDown("Fire2") && voikoskea4 == true)
         {
             this.GetComponent<SpriteRenderer>().sprite = mySprite;
 
@@ -24,12 +23,27 @@ public class patsasaktivointikoodi4 : MonoBehaviour {
                 auki4 = true;
                 Debug.Log("oikea jarjestys4");
             }
-
             else
             {
                 Debug.Log("vaara jarjestys4");
             }
             voikoskea4 = false;
-        } 
+        }
     }
+
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "hero")
+        {
+            triggered = true;
+        }
+    }  
+    
+    void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.tag == "hero")
+        {
+            triggered = false;
+        }
+    }  
 }
