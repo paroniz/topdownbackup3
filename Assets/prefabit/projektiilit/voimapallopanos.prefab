@@ -13,9 +13,9 @@ GameObject:
   - component: {fileID: 7050942186852619491}
   - component: {fileID: 6010107484161093346}
   - component: {fileID: 6482156532440446292}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: voimapallopanos
-  m_TagString: Untagged
+  m_TagString: projektiili
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -13,9 +13,9 @@ GameObject:
   - component: {fileID: 4549522465621233555}
   - component: {fileID: 1551991035045444381}
   - component: {fileID: 308714824912633522}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: tulipanos2
-  m_TagString: Untagged
+  m_TagString: projektiili
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

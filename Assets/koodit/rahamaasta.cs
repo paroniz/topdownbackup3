@@ -5,8 +5,9 @@ using UnityEngine.UI;
 
 public class rahamaasta : MonoBehaviour {
     
-    public static int rahat;
+    private int rahat;
     private string rahamaara ="moi";
+    private int rahamaara2;
     private string uuspeli;
     private GameObject t1 = null;
 
@@ -27,8 +28,10 @@ public class rahamaasta : MonoBehaviour {
     {
         if(collision.collider.tag == "hero")
         {
-            rahat = rahat + 500;
-            rahamaara = rahat.ToString();
+            rahamaara = t1.GetComponent<Text>().text;
+            rahamaara2 = System.Convert.ToInt32(rahamaara);
+            rahamaara2 += 500;
+            rahamaara = rahamaara2.ToString();
             t1.GetComponent<Text>().text = rahamaara;
             PlayerPrefs.SetString("tuhottu1", "joo");
             Destroy(gameObject);
