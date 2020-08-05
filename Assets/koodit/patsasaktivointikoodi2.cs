@@ -8,16 +8,16 @@ public class patsasaktivointikoodi2 : MonoBehaviour {
     public bool auki2 = false;
     public Sprite defaultsprite;
     public bool voikoskea2 = true;
- 
+    private bool triggered = false;
+    
     void Start() {}
 
-    void Update() {}
-
-    void OnTriggerStay2D(Collider2D collision)
+void Update() 
     {
-        if (collision.tag == "hero" && Input.GetKeyDown(KeyCode.E)  && voikoskea2 == true)
+        if(triggered && Input.GetKeyDown(KeyCode.E) && voikoskea2 == true )
         {
-            this.GetComponent<SpriteRenderer>().sprite = mySprite;
+            //Debug.Log("yoylo76");
+      this.GetComponent<SpriteRenderer>().sprite = mySprite;
             
             if(GameObject.Find("irvistys1").GetComponent<patsasaktvointikoodi1>().auki1 == true)
             {
@@ -29,6 +29,21 @@ public class patsasaktivointikoodi2 : MonoBehaviour {
                 Debug.Log("vaara jarjestys");
             }
             voikoskea2 = false;
-        } 
     }
-}
+    }
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "hero")
+        {
+            triggered = true;
+        }
+    }  
+    
+    void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.tag == "hero")
+        {
+            triggered = false;
+        }
+    }  
+    }

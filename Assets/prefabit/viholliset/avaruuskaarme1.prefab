@@ -194,10 +194,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panos: {fileID: 0}
-  nopeus: 5
-  luotirotaatio2: 90
-  luotinopeus3: 80
-  rotaatiokerroin2: 90
+  nopeus: 1
+  luotirotaatio2: 270
+  luotinopeus3: 5
+  rotaatiokerroin2: 0
   ammussekunnit: 1
   laukaus: {fileID: 0}
   ampumisetaisyys: 10

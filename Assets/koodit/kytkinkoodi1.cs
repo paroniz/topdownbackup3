@@ -10,6 +10,8 @@ public class kytkinkoodi1 : MonoBehaviour {
     public GameObject ovi1;
     public GameObject ovi2;
     public GameObject uusovi;
+    private GameObject ovi3;
+    private GameObject ovi4;
     
     void Start() {}
 
@@ -22,9 +24,10 @@ public class kytkinkoodi1 : MonoBehaviour {
             if(GameObject.Find("irvistys5").GetComponent<patsasaktivointikoodi5>().auki5 == true)
             {
                 Debug.Log("oviauki");
-                Destroy(ovi1);
-                Destroy(ovi2);
-                GameObject.Find("testiovi").GetComponent<brikkikoodi1>().tuhoa = true;
+                ovi3=ovi1;
+                ovi4=ovi2;
+                Destroy(ovi3);
+                Destroy(ovi4);
                 this.GetComponent<SpriteRenderer>().sprite = mySprite;
                 voikoskea = false;
                 GameObject uusiammus = Instantiate(uusovi, new Vector2(-9.5f, 98.5f), transform.rotation);
