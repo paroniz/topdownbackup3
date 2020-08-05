@@ -17,7 +17,7 @@ public class avaaviesti1 : MonoBehaviour {
 
     void Update() 
     {
-        if(triggered && Input.GetKeyDown(KeyCode.E) && voikoskea == true )
+        if(triggered && Input.GetButtonDown("Fire2") && voikoskea == true )
         {
             Debug.Log("yoyloscrolli");
             Instantiate(viesti, new Vector3 (-18f,20,0), transform.rotation);

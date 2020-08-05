@@ -23,7 +23,7 @@ public class heroampuu : MonoBehaviour {
     void Update() 
     {
       hero = GameObject.FindWithTag("hero");
-      if(Input.GetButtonDown("Fire1")) 
+      if(Input.GetButtonDown("Fire2")) 
       { 
         if (asemoodi == 1)
         {

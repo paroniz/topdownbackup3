@@ -14,7 +14,7 @@ public class hpnlisayskoodi : MonoBehaviour {
     {
         hero = GameObject.FindGameObjectWithTag("hero");
 
-        if(triggered && Input.GetKeyDown(KeyCode.E) && voikoskea == true )
+        if(triggered && Input.GetButtonDown("Fire2") && voikoskea == true )
         {
             Debug.Log("yoyloscrolli");
             Healaa();
@@ -42,6 +42,8 @@ public class hpnlisayskoodi : MonoBehaviour {
     {
         //Debug.Log("healaa");
         int lisahp = hero.GetComponent<herodelaus>().hp;
+        lisahp ++;
+        lisahp ++;
         lisahp ++;
         hero.GetComponent<herodelaus>().hp = lisahp;
         Destroy(gameObject);
